@@ -11,13 +11,20 @@
  */
 
 :root {
-  /* colors */
-  --background-color: white;
-  --light-color: #f8f8f8;
-  --dark-color: #505050;
-  --text-color: #131313;
-  --link-color: #3b63fb;
-  --link-hover-color: #1d3ecf;
+  /* colors — Holland America Line branding */
+  --background-color: #fff;
+  --light-color: #f5f7fa;
+  --dark-color: #1a2b49;
+  --text-color: #1a2b49;
+  --link-color: #036;
+  --link-hover-color: #001f3f;
+  --accent-color: #c8a415;
+  --accent-hover-color: #a6880f;
+  --nav-bg-color: #036;
+  --nav-text-color: #fff;
+  --footer-bg-color: #1a2b49;
+  --footer-text-color: #fff;
+  --border-color: #d1d9e6;
 
   /* fonts */
   --body-font-family: roboto, roboto-fallback, sans-serif;
@@ -37,7 +44,7 @@
   --heading-font-size-xs: 22px;
 
   /* nav height */
-  --nav-height: 64px;
+  --nav-height: 72px;
 }
 
 /* fallback fonts */
@@ -199,9 +206,9 @@ button.button:disabled {
 
 a.button.primary,
 button.button.primary {
-  border-color: var(--text-color);
-  background-color: var(--text-color);
-  color: var(--background-color);
+  border-color: var(--nav-bg-color);
+  background-color: var(--nav-bg-color);
+  color: var(--nav-text-color);
 }
 
 a.button.primary:hover,
@@ -210,7 +217,7 @@ button.button.primary:hover,
 button.button.primary:focus-visible {
   border-color: var(--dark-color);
   background-color: var(--dark-color);
-  color: var(--light-color);
+  color: var(--nav-text-color);
 }
 
 a.button.primary[aria-disabled="true"],
@@ -254,17 +261,18 @@ button.button.secondary:disabled:focus-visible {
 /* high-impact call-to-action */
 a.button.accent,
 button.button.accent {
-  border-color: var(--link-color);
-  background-color: var(--link-color);
-  color: var(--background-color);
+  border-color: var(--accent-color);
+  background-color: var(--accent-color);
+  color: var(--dark-color);
 }
 
 a.button.accent:hover,
 a.button.accent:focus-visible,
 button.button.accent:hover,
 button.button.accent:focus-visible {
-  border-color: var(--link-hover-color);
-  background-color: var(--link-hover-color);
+  border-color: var(--accent-hover-color);
+  background-color: var(--accent-hover-color);
+  color: var(--dark-color);
 }
 
 a.button.accent[aria-disabled="true"],
