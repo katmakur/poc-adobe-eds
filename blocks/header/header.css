@@ -1,6 +1,7 @@
 /* header and nav layout */
 header .nav-wrapper {
-  background-color: var(--background-color);
+  background-color: var(--nav-bg-color);
+  color: var(--nav-text-color);
   width: 100%;
   z-index: 2;
   position: fixed;
@@ -72,8 +73,8 @@ header nav .nav-hamburger button {
   border: 0;
   border-radius: 0;
   padding: 0;
-  background-color: var(--background-color);
-  color: inherit;
+  background-color: var(--nav-bg-color);
+  color: var(--nav-text-color);
   overflow: initial;
   text-overflow: initial;
   white-space: initial;
