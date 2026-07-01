@@ -1,0 +1,45 @@
+.cruise-ship-reference-card {
+  padding: 24px;
+  background-color: var(--light-color);
+  border-radius: 8px;
+}
+
+.cruise-ship-reference-card h3 {
+  color: var(--nav-bg-color);
+  margin-top: 0;
+  margin-bottom: 12px;
+}
+
+.cruise-ship-reference-link {
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+  text-decoration: none;
+  padding: 16px;
+  border: 1px solid var(--border-color);
+  border-radius: 8px;
+  background: var(--background-color);
+  transition: box-shadow 0.2s ease;
+}
+
+.cruise-ship-reference-link:hover {
+  box-shadow: 0 2px 12px rgb(0 51 102 / 10%);
+  text-decoration: none;
+}
+
+.cruise-ship-reference-name {
+  font-size: var(--heading-font-size-s);
+  font-weight: 600;
+  color: var(--nav-bg-color);
+}
+
+.cruise-ship-reference-meta {
+  font-size: var(--body-font-size-xs);
+  color: var(--dark-color);
+}
+
+.cruise-ship-reference-cta {
+  font-size: var(--body-font-size-xs);
+  color: var(--link-color);
+  margin-top: 8px;
+}

@@ -1,0 +1,103 @@
+.cruise-detail-content {
+  max-width: 900px;
+  margin: 0 auto;
+  padding: 24px 0;
+}
+
+.cruise-detail-breadcrumb {
+  font-size: var(--body-font-size-xs);
+  color: var(--dark-color);
+  margin-bottom: 16px;
+}
+
+.cruise-detail-breadcrumb a {
+  color: var(--link-color);
+}
+
+.cruise-detail-content h1 {
+  color: var(--nav-bg-color);
+  margin-top: 8px;
+  margin-bottom: 12px;
+}
+
+.cruise-detail-sold-out {
+  display: inline-block;
+  padding: 4px 12px;
+  border-radius: 4px;
+  background-color: #c0392b;
+  color: #fff;
+  font-size: var(--body-font-size-xs);
+  font-weight: 700;
+  margin-bottom: 16px;
+}
+
+.cruise-detail-meta {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+  margin-bottom: 24px;
+}
+
+.cruise-detail-badge {
+  display: inline-block;
+  padding: 6px 14px;
+  border-radius: 4px;
+  background-color: var(--light-color);
+  color: var(--nav-bg-color);
+  font-size: var(--body-font-size-xs);
+  font-weight: 500;
+}
+
+.cruise-detail-info {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+  gap: 16px;
+  padding: 24px;
+  background-color: var(--light-color);
+  border-radius: 8px;
+  margin-bottom: 32px;
+}
+
+.cruise-detail-info-item {
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+}
+
+.cruise-detail-info-item strong {
+  font-size: var(--body-font-size-xs);
+  color: var(--dark-color);
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+}
+
+.cruise-detail-info-item span {
+  font-size: var(--body-font-size-s);
+  color: var(--text-color);
+}
+
+.cruise-detail-ports h2 {
+  color: var(--nav-bg-color);
+  margin-bottom: 16px;
+}
+
+.cruise-detail-port-list {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+}
+
+.cruise-detail-port-chip {
+  display: inline-block;
+  padding: 8px 16px;
+  border: 1px solid var(--border-color);
+  border-radius: 20px;
+  font-size: var(--body-font-size-xs);
+  color: var(--text-color);
+}
+
+@media (width >= 900px) {
+  .cruise-detail-content {
+    padding: 32px 0;
+  }
+}

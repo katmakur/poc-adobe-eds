@@ -1,0 +1,57 @@
+.cruise-excursions-content h2 {
+  color: var(--nav-bg-color);
+  margin-bottom: 4px;
+}
+
+.cruise-excursions-count {
+  font-size: var(--body-font-size-xs);
+  color: var(--dark-color);
+  margin-bottom: 16px;
+}
+
+.cruise-excursions-list {
+  display: flex;
+  flex-direction: column;
+  gap: 0;
+}
+
+.cruise-excursions-item {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 16px 0;
+  border-bottom: 1px solid var(--border-color);
+}
+
+.cruise-excursions-item:last-child {
+  border-bottom: none;
+}
+
+.cruise-excursions-item-info {
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+}
+
+.cruise-excursions-item-name {
+  font-weight: 500;
+  color: var(--text-color);
+}
+
+.cruise-excursions-item-duration {
+  font-size: var(--body-font-size-xs);
+  color: var(--dark-color);
+}
+
+.cruise-excursions-item-price {
+  font-weight: 600;
+  color: var(--nav-bg-color);
+  white-space: nowrap;
+}
+
+.cruise-excursions-more {
+  margin-top: 16px;
+  font-size: var(--body-font-size-s);
+  color: var(--link-color);
+  font-weight: 500;
+}
