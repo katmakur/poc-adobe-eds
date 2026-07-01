@@ -1,0 +1,28 @@
+[
+  {
+    "id": "4D1",
+    "name": "Alaska Denali - 1 Day at Denali",
+    "detailPageName": "Alaska Denali - 1 Day at Denali",
+    "region": true,
+    "countries": [],
+    "shortDescription": "",
+    "longDescription": "",
+    "ports": [
+      "DNP"
+    ],
+    "externalContent": false
+  },
+  {
+    "id": "4D2",
+    "name": "Alaska Denali - 2 Days at Denali",
+    "detailPageName": "Alaska Denali - 2 Days at Denali",
+    "region": true,
+    "countries": [],
+    "shortDescription": "",
+    "longDescription": "",
+    "ports": [
+      "DNP"
+    ],
+    "externalContent": false
+  }
+]

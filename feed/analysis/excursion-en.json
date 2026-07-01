@@ -1,0 +1,66 @@
+[
+  {
+    "id": "10110000041",
+    "parentId": "43286",
+    "startDate": "2005-01-01T07:00:00.000Z",
+    "endDate": "2027-01-31T07:00:00.000Z",
+    "name": "GlboalEn-Testing-1 Port Said Private Touring - Full Day (Car)",
+    "detailPageName": "GlboalEn-Testing-1 Port Said Private Touring - Full Day (Car)",
+    "portID": "PSD",
+    "type": "shorex",
+    "typology": [
+      "0",
+      "29",
+      "85",
+      "6001"
+    ],
+    "activityLevel": "easy_activity",
+    "collectionType": "signature_collection",
+    "duration": "Approximately 10 - 11&#189;  hours - Price is per vehicle, not per person. See additional NOTES below.",
+    "language": [
+      "en"
+    ],
+    "priceLevel": 899,
+    "currency": "USD",
+    "mealInfo": "",
+    "status": "active",
+    "shortDescription": "",
+    "longDescription": "<FONT size=2><P><FONT size=3>GlboalEn-Testing-1 Explore at your own pace with a private vehicle, driver and English-speaking guide at your service. This exclusive tour is designed to allow you the chance to customize your time ashore and discover the most interesting sights in the comfort and privacy of your own vehicle. With your private vehicle, and the personalized attention of your driver and English-speaking guide, you will have the flexibility and independence to design your itinerary ashore according to your own interests, and take in the sights at your own pace. See the famous sights, or go beyond to create your own intimate connections and unique cultural encounters. The Signature Collection is recommended for the single/solo traveler, couples, family, friends, and special interest groups traveling together. It can also be an excellent choice for guests with mobility limitations.</FONT><P><FONT size=3>Capacity: 2 guests. Your private party may be of any size up to the maximum capacity.</FONT><B><P><FONT size=3>Notes:</FONT></B><P><FONT size=3>Private cars are ordered per vehicle (not per person), so only one person in the party needs to order the vehicle. The price shown is the total cost for the vehicle, driver, and English-speaking guide. Entrance fees for attractions are not included. In many destinations, the number of vehicles available is extremely limited, so guests are encouraged to secure their private vehicle reservation as early as possible.</FONT><P><FONT size=3>please note: private cars are ordered per vehicle (not per person), so only one person in the party needs to order the vehicle. the price shown is the total cost for the vehicle, driver, and english-speaking guide. entrance fees for attractions are not included. in many destinations, the number of vehicles available is extremely limited, so guests are encouraged to secure their private vehicle reservation as early as possible</FONT>.</FONT>",
+    "externalContent": false,
+    "minimumAge": "",
+    "wheelChairAccessible": false,
+    "featured": true
+  },
+  {
+    "id": "10110000042",
+    "parentId": "43288",
+    "startDate": "2005-01-01T07:00:00.000Z",
+    "endDate": "2027-01-31T07:00:00.000Z",
+    "name": "GlboalEn-Testing-1 Port Said Private Touring - Full Day (Minivan)",
+    "detailPageName": "GlboalEn-Testing-1 Port Said Private Touring - Full Day (Minivan)",
+    "portID": "PSD",
+    "type": "shorex",
+    "typology": [
+      "0",
+      "29",
+      "85",
+      "6001"
+    ],
+    "activityLevel": "easy_activity",
+    "collectionType": "signature_collection",
+    "duration": "Approximately 10 - 11&#189;  hours - Price is per vehicle, not per person. See additional NOTES below.",
+    "language": [
+      "en"
+    ],
+    "priceLevel": 1299,
+    "currency": "USD",
+    "mealInfo": "",
+    "status": "active",
+    "shortDescription": "",
+    "longDescription": "<FONT size=2><P><FONT size=3>GlboalEn-Testing-1 Explore at your own pace with a private vehicle, driver and English-speaking guide at your service. This exclusive tour is designed to allow you the chance to customize your time ashore and discover the most interesting sights in the comfort and privacy of your own vehicle. With your private vehicle, and the personalized attention of your driver and English-speaking guide, you will have the flexibility and independence to design your itinerary ashore according to your own interests, and take in the sights at your own pace. See the famous sights, or go beyond to create your own intimate connections and unique cultural encounters. The Signature Collection is recommended for the single/solo traveler, couples, family, friends, and special interest groups traveling together. It can also be an excellent choice for guests with mobility limitations.</FONT><P><FONT size=3>Capacity: 8 guests. Your private party may be of any size up to the maximum capacity.</FONT><B><P><FONT size=3>Notes:</FONT></B><P><FONT size=3>Private minivans are ordered per vehicle (not per person), so only one person in the party needs to order the vehicle. The price shown is the total cost for the vehicle, driver, and English-speaking guide. Entrance fees for attractions are not included. In many destinations, the number of vehicles available is extremely limited, so guests are encouraged to secure their private vehicle reservation as early as possible.</FONT></FONT>",
+    "externalContent": false,
+    "minimumAge": "",
+    "wheelChairAccessible": false,
+    "featured": true
+  }
+]

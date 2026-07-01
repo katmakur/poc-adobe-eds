@@ -1,0 +1,62 @@
+[
+  {
+    "id": "000",
+    "name": "Scenic Cruising Na Pali Coast",
+    "detailPageName": "Scenic Cruising Na Pali Coast",
+    "displayOrder": 0,
+    "destinationID": [],
+    "defaultDestination": "",
+    "departurePort": false,
+    "status": "active",
+    "portFlags": [],
+    "currency": "",
+    "countryID": "US",
+    "latitude": "22.177655",
+    "longitude": "-159.685364",
+    "portType": "SEA",
+    "language": [],
+    "featured": true,
+    "shortDescription": "",
+    "longDescription": "",
+    "quoteCopy": "",
+    "listCopy": "",
+    "descriptionType": "",
+    "externalContent": true,
+    "howToReach": "",
+    "parkingInfo": ""
+  },
+  {
+    "id": "100",
+    "name": "Scenic cruising Endicott Arm/Dawes Glacier",
+    "detailPageName": "Scenic cruising Endicott Arm/Dawes Glacier",
+    "displayOrder": 1,
+    "destinationID": [
+      "TAC",
+      "A",
+      "AE",
+      "AG",
+      "AL"
+    ],
+    "defaultDestination": "",
+    "departurePort": false,
+    "status": "active",
+    "portFlags": [
+      "CO"
+    ],
+    "currency": "",
+    "countryID": "US",
+    "latitude": "57.502956",
+    "longitude": "-132.863043",
+    "portType": "SEA",
+    "language": [],
+    "featured": true,
+    "shortDescription": "",
+    "longDescription": "",
+    "quoteCopy": "",
+    "listCopy": "",
+    "descriptionType": "",
+    "externalContent": true,
+    "howToReach": "",
+    "parkingInfo": ""
+  }
+]

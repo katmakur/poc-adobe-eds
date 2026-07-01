@@ -1,0 +1,3116 @@
+[
+  {
+    "id": "I557",
+    "itineraryId": "A5S07AD8L",
+    "tourId": "T5AD8L",
+    "pageTitle": "I557 9-Day Classic Denali D8L",
+    "detailPageName": "9-Day Classic Denali D8L",
+    "name": "9-Day Classic Denali D8L",
+    "nightName": "9-Night Classic Denali D8L",
+    "soldOut": true,
+    "duration": 9,
+    "shipId": "NA",
+    "shipVersion": "4",
+    "departPortId": "FAI",
+    "arrivalPortId": "YVR",
+    "arrivalDate": "2025-08-10",
+    "departDate": "2025-08-01",
+    "sailingDate": "2025-08-03",
+    "status": "active",
+    "description": "",
+    "portsOfCall": [
+      {
+        "arrivalDate": "2025-08-01",
+        "resources": [
+          {
+            "type": "C",
+            "resourceKey": "5ATFAI-AH",
+            "resourceDesc": "TRANSFER: AIRPORT TO HOTEL",
+            "activityIcon": "T",
+            "lodge": false,
+            "fromCity": "Fairbanks, Alaska",
+            "arrivalDate": "2025-08-01",
+            "departDate": "2025-08-01"
+          },
+          {
+            "type": "C",
+            "resourceKey": "5AEFAIADA",
+            "resourceDesc": "*",
+            "activityIcon": "E",
+            "lodge": false,
+            "fromCity": "Fairbanks, Alaska",
+            "arrivalDate": "2025-08-01",
+            "departDate": "2025-08-01"
+          },
+          {
+            "type": "C",
+            "resourceKey": "5AGFAITS",
+            "resourceDesc": "*",
+            "activityIcon": "G",
+            "lodge": false,
+            "fromCity": "Fairbanks, Alaska",
+            "arrivalDate": "2025-08-01",
+            "departDate": "2025-08-01"
+          },
+          {
+            "type": "C",
+            "resourceKey": "5AHFAIWMFACT",
+            "resourceDesc": "WESTMARK FAIRBANKS HOTEL",
+            "activityIcon": "H",
+            "lodge": false,
+            "fromCity": "Fairbanks, Alaska",
+            "arrivalDate": "2025-08-01",
+            "departDate": "2025-08-01"
+          }
+        ],
+        "portId": "FAI",
+        "dayIndicator": "0",
+        "departTime": "",
+        "arrivalTime": "",
+        "departDate": "2025-08-01",
+        "portFlags": [],
+        "excursions": []
+      },
+      {
+        "arrivalDate": "2025-08-01",
+        "resources": [
+          {
+            "type": "C",
+            "resourceKey": "5AMFAIDNPMAH",
+            "resourceDesc": "COACH: FAIRBANKS TO DENALI",
+            "activityIcon": "M",
+            "lodge": false,
+            "fromCity": "Fairbanks, Alaska",
+            "toCity": "Denali National Park, Alaska",
+            "arrivalDate": "2025-08-01",
+            "departDate": "2025-08-01"
+          }
+        ],
+        "portId": "FAI",
+        "dayIndicator": "1",
+        "departTime": "",
+        "arrivalTime": "",
+        "departDate": "2025-08-02",
+        "portFlags": [],
+        "excursions": []
+      },
+      {
+        "arrivalDate": "2025-08-01",
+        "resources": [
+          {
+            "type": "C",
+            "resourceKey": "5AIDNPNHP14",
+            "resourceDesc": "DENALI NATURAL HISTORY TOUR",
+            "activityIcon": "I",
+            "lodge": false,
+            "fromCity": "Denali National Park, Alaska",
+            "arrivalDate": "2025-08-01",
+            "departDate": "2025-08-01"
+          },
+          {
+            "type": "C",
+            "resourceKey": "5AEDNPDN1",
+            "resourceDesc": "*",
+            "activityIcon": "E",
+            "lodge": false,
+            "fromCity": "Denali National Park, Alaska",
+            "arrivalDate": "2025-08-01",
+            "departDate": "2025-08-01"
+          },
+          {
+            "type": "C",
+            "resourceKey": "5AHDNPCHLACT",
+            "resourceDesc": "HOLLAND AMERICA DENALI LODGE",
+            "activityIcon": "H",
+            "lodge": true,
+            "fromCity": "Denali National Park, Alaska",
+            "arrivalDate": "2025-08-01",
+            "departDate": "2025-08-01"
+          }
+        ],
+        "portId": "DNP",
+        "dayIndicator": "1",
+        "departTime": "",
+        "arrivalTime": "",
+        "departDate": "2025-08-02",
+        "portFlags": [],
+        "excursions": []
+      },
+      {
+        "arrivalDate": "2025-08-01",
+        "resources": [
+          {
+            "type": "C",
+            "resourceKey": "5ATDNP-HRDEX",
+            "resourceDesc": "TRANSFER: HOTEL/RAIL DEPOT (DEX)",
+            "activityIcon": "T",
+            "lodge": false,
+            "fromCity": "Denali National Park, Alaska",
+            "arrivalDate": "2025-08-01",
+            "departDate": "2025-08-01"
+          },
+          {
+            "type": "C",
+            "resourceKey": "5ARDNPWH1DEX",
+            "resourceDesc": "MCKINLEY EXPLORER: DENALI TO WHITTIER",
+            "activityIcon": "R",
+            "lodge": false,
+            "fromCity": "Denali National Park, Alaska",
+            "toCity": "Whittier, Alaska, US",
+            "arrivalDate": "2025-08-01",
+            "departDate": "2025-08-01"
+          }
+        ],
+        "portId": "DNP",
+        "dayIndicator": "2",
+        "departTime": "",
+        "arrivalTime": "",
+        "departDate": "2025-08-03",
+        "portFlags": [],
+        "excursions": []
+      },
+      {
+        "arrivalDate": "2025-08-03",
+        "resources": [
+          {
+            "type": "C",
+            "resourceKey": "5AEWH1REP2",
+            "resourceDesc": "*",
+            "activityIcon": "E",
+            "lodge": false,
+            "fromCity": "Whittier, Alaska, US",
+            "arrivalDate": "2025-08-01",
+            "departDate": "2025-08-01",
+            "departTime": "07:30 PM"
+          },
+          {
+            "type": "C",
+            "resourceKey": "5AEWH1LGFAI",
+            "resourceDesc": "*",
+            "activityIcon": "E",
+            "lodge": false,
+            "fromCity": "Whittier, Alaska, US",
+            "arrivalDate": "2025-08-01",
+            "departDate": "2025-08-01",
+            "departTime": "07:30 PM"
+          }
+        ],
+        "portId": "WH1",
+        "dayIndicator": "2",
+        "departTime": "19:30",
+        "arrivalTime": "",
+        "departDate": "2025-08-03",
+        "portFlags": [],
+        "excursions": []
+      },
+      {
+        "arrivalDate": "2025-08-04",
+        "resources": [],
+        "portId": "HUB",
+        "dayIndicator": "3",
+        "departTime": "18:00",
+        "arrivalTime": "15:00",
+        "departDate": "2025-08-04",
+        "portFlags": [
+          "CO"
+        ],
+        "excursions": [
+          {
+            "id": "1010120410",
+            "currencyCode": "USD",
+            "adultPrice": null,
+            "childPrice": null,
+            "parentId": "83990",
+            "startDate": "2024-11-01",
+            "endDate": "2025-10-31"
+          }
+        ]
+      },
+      {
+        "arrivalDate": "2025-08-05",
+        "resources": [],
+        "portId": "GB1",
+        "dayIndicator": "4",
+        "departTime": "18:30",
+        "arrivalTime": "08:30",
+        "departDate": "2025-08-05",
+        "portFlags": [
+          "CO",
+          "RT"
+        ],
+        "excursions": []
+      },
+      {
+        "arrivalDate": "2025-08-06",
+        "resources": [],
+        "portId": "SGY",
+        "dayIndicator": "5",
+        "departTime": "21:00",
+        "arrivalTime": "05:30",
+        "departDate": "2025-08-06",
+        "portFlags": [],
+        "excursions": [
+          {
+            "id": "1010112893",
+            "currencyCode": "USD",
+            "adultPrice": null,
+            "childPrice": null,
+            "parentId": "36901",
+            "startDate": "2023-11-01",
+            "endDate": "2025-10-31"
+          },
+          {
+            "id": "1010112894",
+            "currencyCode": "USD",
+            "adultPrice": null,
+            "childPrice": null,
+            "parentId": "369011",
+            "startDate": "2023-11-01",
+            "endDate": "2025-10-31"
+          },
+          {
+            "id": "1010112895",
+            "currencyCode": "USD",
+            "adultPrice": null,
+            "childPrice": null,
+            "parentId": "36902",
+            "startDate": "2023-11-01",
+            "endDate": "2025-10-31"
+          },
+          {
+            "id": "1010112896",
+            "currencyCode": "USD",
+            "adultPrice": null,
+            "childPrice": null,
+            "parentId": "36903",
+            "startDate": "2023-11-01",
+            "endDate": "2025-10-31"
+          },
+          {
+            "id": "1010112897",
+            "currencyCode": "USD",
+            "adultPrice": null,
+            "childPrice": null,
+            "parentId": "36904",
+            "startDate": "2023-11-01",
+            "endDate": "2025-10-31"
+          },
+          {
+            "id": "1010112898",
+            "currencyCode": "USD",
+            "adultPrice": null,
+            "childPrice": null,
+            "parentId": "369041",
+            "startDate": "2023-11-01",
+            "endDate": "2025-10-31"
+          },
+          {
+            "id": "1010112899",
+            "currencyCode": "USD",
+            "adultPrice": null,
+            "childPrice": null,
+            "parentId": "36905",
+            "startDate": "2023-11-01",
+            "endDate": "2025-10-31"
+          },
+          {
+            "id": "1010112900",
+            "currencyCode": "USD",
+            "adultPrice": null,
+            "childPrice": null,
+            "parentId": "369061",
+            "startDate": "2023-11-01",
+            "endDate": "2025-10-31"
+          },
+          {
+            "id": "1010112901",
+            "currencyCode": "USD",
+            "adultPrice": null,
+            "childPrice": null,
+            "parentId": "36907",
+            "startDate": "2023-11-01",
+            "endDate": "2025-10-31"
+          },
+          {
+            "id": "1010112902",
+            "currencyCode": "USD",
+            "adultPrice": null,
+            "childPrice": null,
+            "parentId": "36908",
+            "startDate": "2023-11-01",
+            "endDate": "2025-10-31"
+          },
+          {
+            "id": "1010112903",
+            "currencyCode": "USD",
+            "adultPrice": null,
+            "childPrice": null,
+            "parentId": "36909",
+            "startDate": "2023-11-01",
+            "endDate": "2025-10-31"
+          },
+          {
+            "id": "1010112904",
+            "currencyCode": "USD",
+            "adultPrice": null,
+            "childPrice": null,
+            "parentId": "36911",
+            "startDate": "2023-11-01",
+            "endDate": "2025-10-31"
+          },
+          {
+            "id": "1010112905",
+            "currencyCode": "USD",
+            "adultPrice": null,
+            "childPrice": null,
+            "parentId": "36912",
+            "startDate": "2023-11-01",
+            "endDate": "2025-10-31"
+          },
+          {
+            "id": "1010112906",
+            "currencyCode": "USD",
+            "adultPrice": null,
+            "childPrice": null,
+            "parentId": "369121",
+            "startDate": "2023-11-01",
+            "endDate": "2025-10-31"
+          },
+          {
+            "id": "1010112907",
+            "currencyCode": "USD",
+            "adultPrice": null,
+            "childPrice": null,
+            "parentId": "36913",
+            "startDate": "2023-11-01",
+            "endDate": "2025-10-31"
+          },
+          {
+            "id": "1010112908",
+            "currencyCode": "USD",
+            "adultPrice": null,
+            "childPrice": null,
+            "parentId": "369141",
+            "startDate": "2023-11-01",
+            "endDate": "2025-10-31"
+          },
+          {
+            "id": "1010112909",
+            "currencyCode": "USD",
+            "adultPrice": null,
+            "childPrice": null,
+            "parentId": "36915",
+            "startDate": "2023-11-01",
+            "endDate": "2025-10-31"
+          },
+          {
+            "id": "1010112910",
+            "currencyCode": "USD",
+            "adultPrice": null,
+            "childPrice": null,
+            "parentId": "36916",
+            "startDate": "2023-11-01",
+            "endDate": "2025-10-31"
+          },
+          {
+            "id": "1010112911",
+            "currencyCode": "USD",
+            "adultPrice": null,
+            "childPrice": null,
+            "parentId": "369241",
+            "startDate": "2023-11-01",
+            "endDate": "2025-10-31"
+          },
+          {
+            "id": "1010112912",
+            "currencyCode": "USD",
+            "adultPrice": null,
+            "childPrice": null,
+            "parentId": "36925",
+            "startDate": "2023-11-01",
+            "endDate": "2025-10-31"
+          },
+          {
+            "id": "1010112913",
+            "currencyCode": "USD",
+            "adultPrice": null,
+            "childPrice": null,
+            "parentId": "36926",
+            "startDate": "2023-11-01",
+            "endDate": "2025-10-31"
+          },
+          {
+            "id": "1010112915",
+            "currencyCode": "USD",
+            "adultPrice": null,
+            "childPrice": null,
+            "parentId": "36928",
+            "startDate": "2023-11-01",
+            "endDate": "2025-10-31"
+          },
+          {
+            "id": "1010112916",
+            "currencyCode": "USD",
+            "adultPrice": null,
+            "childPrice": null,
+            "parentId": "36929",
+            "startDate": "2023-11-01",
+            "endDate": "2025-10-31"
+          },
+          {
+            "id": "1010112917",
+            "currencyCode": "USD",
+            "adultPrice": null,
+            "childPrice": null,
+            "parentId": "36933",
+            "startDate": "2023-11-01",
+            "endDate": "2025-10-31"
+          },
+          {
+            "id": "1010112918",
+            "currencyCode": "USD",
+            "adultPrice": null,
+            "childPrice": null,
+            "parentId": "36936",
+            "startDate": "2023-11-01",
+            "endDate": "2025-10-31"
+          },
+          {
+            "id": "1010112919",
+            "currencyCode": "USD",
+            "adultPrice": null,
+            "childPrice": null,
+            "parentId": "36937",
+            "startDate": "2023-11-01",
+            "endDate": "2025-10-31"
+          },
+          {
+            "id": "1010112920",
+            "currencyCode": "USD",
+            "adultPrice": null,
+            "childPrice": null,
+            "parentId": "36938",
+            "startDate": "2023-11-01",
+            "endDate": "2025-10-31"
+          },
+          {
+            "id": "1010112921",
+            "currencyCode": "USD",
+            "adultPrice": null,
+            "childPrice": null,
+            "parentId": "36942",
+            "startDate": "2023-11-01",
+            "endDate": "2025-10-31"
+          },
+          {
+            "id": "1010112922",
+            "currencyCode": "USD",
+            "adultPrice": null,
+            "childPrice": null,
+            "parentId": "369431",
+            "startDate": "2023-11-01",
+            "endDate": "2025-10-31"
+          },
+          {
+            "id": "1010112923",
+            "currencyCode": "USD",
+            "adultPrice": null,
+            "childPrice": null,
+            "parentId": "36949",
+            "startDate": "2023-11-01",
+            "endDate": "2025-10-31"
+          },
+          {
+            "id": "1010112924",
+            "currencyCode": "USD",
+            "adultPrice": null,
+            "childPrice": null,
+            "parentId": "36963",
+            "startDate": "2023-11-01",
+            "endDate": "2025-10-31"
+          },
+          {
+            "id": "1010112925",
+            "currencyCode": "USD",
+            "adultPrice": null,
+            "childPrice": null,
+            "parentId": "369631",
+            "startDate": "2023-11-01",
+            "endDate": "2025-10-31"
+          },
+          {
+            "id": "1010112926",
+            "currencyCode": "USD",
+            "adultPrice": null,
+            "childPrice": null,
+            "parentId": "36966",
+            "startDate": "2023-11-01",
+            "endDate": "2025-10-31"
+          },
+          {
+            "id": "1010112927",
+            "currencyCode": "USD",
+            "adultPrice": null,
+            "childPrice": null,
+            "parentId": "36974",
+            "startDate": "2023-11-01",
+            "endDate": "2025-10-31"
+          },
+          {
+            "id": "1010112928",
+            "currencyCode": "USD",
+            "adultPrice": null,
+            "childPrice": null,
+            "parentId": "36975",
+            "startDate": "2023-11-01",
+            "endDate": "2025-10-31"
+          },
+          {
+            "id": "1010112929",
+            "currencyCode": "USD",
+            "adultPrice": null,
+            "childPrice": null,
+            "parentId": "36978",
+            "startDate": "2023-11-01",
+            "endDate": "2025-10-31"
+          },
+          {
+            "id": "1010112931",
+            "currencyCode": "USD",
+            "adultPrice": null,
+            "childPrice": null,
+            "parentId": "36999",
+            "startDate": "2023-11-01",
+            "endDate": "2025-10-31"
+          }
+        ]
+      },
+      {
+        "arrivalDate": "2025-08-07",
+        "resources": [],
+        "portId": "JNU",
+        "dayIndicator": "6",
+        "departTime": "16:30",
+        "arrivalTime": "08:00",
+        "departDate": "2025-08-07",
+        "portFlags": [],
+        "excursions": [
+          {
+            "id": "1010122201",
+            "currencyCode": "USD",
+            "adultPrice": null,
+            "childPrice": null,
+            "parentId": "23001",
+            "startDate": "2023-11-01",
+            "endDate": "2025-10-31"
+          },
+          {
+            "id": "1010120276",
+            "currencyCode": "USD",
+            "adultPrice": null,
+            "childPrice": null,
+            "parentId": "230022",
+            "startDate": "2024-11-01",
+            "endDate": "2025-10-31"
+          },
+          {
+            "id": "1010120277",
+            "currencyCode": "USD",
+            "adultPrice": null,
+            "childPrice": null,
+            "parentId": "23004",
+            "startDate": "2024-11-01",
+            "endDate": "2025-10-31"
+          },
+          {
+            "id": "1010120278",
+            "currencyCode": "USD",
+            "adultPrice": null,
+            "childPrice": null,
+            "parentId": "23006",
+            "startDate": "2024-11-01",
+            "endDate": "2025-10-31"
+          },
+          {
+            "id": "1010120280",
+            "currencyCode": "USD",
+            "adultPrice": null,
+            "childPrice": null,
+            "parentId": "230061",
+            "startDate": "2024-11-01",
+            "endDate": "2025-10-31"
+          },
+          {
+            "id": "1010120281",
+            "currencyCode": "USD",
+            "adultPrice": null,
+            "childPrice": null,
+            "parentId": "23007",
+            "startDate": "2024-11-01",
+            "endDate": "2025-10-31"
+          },
+          {
+            "id": "1010120283",
+            "currencyCode": "USD",
+            "adultPrice": null,
+            "childPrice": null,
+            "parentId": "23008",
+            "startDate": "2024-11-01",
+            "endDate": "2025-10-31"
+          },
+          {
+            "id": "1010120284",
+            "currencyCode": "USD",
+            "adultPrice": null,
+            "childPrice": null,
+            "parentId": "23010",
+            "startDate": "2024-11-01",
+            "endDate": "2025-10-31"
+          },
+          {
+            "id": "1010110981",
+            "currencyCode": "USD",
+            "adultPrice": null,
+            "childPrice": null,
+            "parentId": "23011",
+            "startDate": "2023-11-01",
+            "endDate": "2025-10-31"
+          },
+          {
+            "id": "1010120285",
+            "currencyCode": "USD",
+            "adultPrice": null,
+            "childPrice": null,
+            "parentId": "23012",
+            "startDate": "2024-11-01",
+            "endDate": "2025-10-31"
+          },
+          {
+            "id": "1010120286",
+            "currencyCode": "USD",
+            "adultPrice": null,
+            "childPrice": null,
+            "parentId": "23013",
+            "startDate": "2024-11-01",
+            "endDate": "2025-10-31"
+          },
+          {
+            "id": "1010120287",
+            "currencyCode": "USD",
+            "adultPrice": null,
+            "childPrice": null,
+            "parentId": "230131",
+            "startDate": "2024-11-01",
+            "endDate": "2025-10-31"
+          },
+          {
+            "id": "1010120288",
+            "currencyCode": "USD",
+            "adultPrice": null,
+            "childPrice": null,
+            "parentId": "23015",
+            "startDate": "2024-11-01",
+            "endDate": "2025-10-31"
+          },
+          {
+            "id": "1010120289",
+            "currencyCode": "USD",
+            "adultPrice": null,
+            "childPrice": null,
+            "parentId": "23016",
+            "startDate": "2024-11-01",
+            "endDate": "2025-10-31"
+          },
+          {
+            "id": "1010120290",
+            "currencyCode": "USD",
+            "adultPrice": null,
+            "childPrice": null,
+            "parentId": "23017",
+            "startDate": "2024-11-01",
+            "endDate": "2025-10-31"
+          },
+          {
+            "id": "1010120291",
+            "currencyCode": "USD",
+            "adultPrice": null,
+            "childPrice": null,
+            "parentId": "23018",
+            "startDate": "2024-11-01",
+            "endDate": "2025-10-31"
+          },
+          {
+            "id": "1010111009",
+            "currencyCode": "USD",
+            "adultPrice": null,
+            "childPrice": null,
+            "parentId": "23021",
+            "startDate": "2023-11-01",
+            "endDate": "2025-10-31"
+          },
+          {
+            "id": "1010120292",
+            "currencyCode": "USD",
+            "adultPrice": null,
+            "childPrice": null,
+            "parentId": "23022",
+            "startDate": "2024-11-01",
+            "endDate": "2025-10-31"
+          },
+          {
+            "id": "1010120323",
+            "currencyCode": "USD",
+            "adultPrice": null,
+            "childPrice": null,
+            "parentId": "230221",
+            "startDate": "2024-11-01",
+            "endDate": "2025-10-31"
+          },
+          {
+            "id": "1010120324",
+            "currencyCode": "USD",
+            "adultPrice": null,
+            "childPrice": null,
+            "parentId": "23023",
+            "startDate": "2024-11-01",
+            "endDate": "2025-10-31"
+          },
+          {
+            "id": "1010120327",
+            "currencyCode": "USD",
+            "adultPrice": null,
+            "childPrice": null,
+            "parentId": "23026",
+            "startDate": "2024-11-01",
+            "endDate": "2025-10-31"
+          },
+          {
+            "id": "1010120328",
+            "currencyCode": "USD",
+            "adultPrice": null,
+            "childPrice": null,
+            "parentId": "23028",
+            "startDate": "2024-11-01",
+            "endDate": "2025-10-31"
+          },
+          {
+            "id": "1010120329",
+            "currencyCode": "USD",
+            "adultPrice": null,
+            "childPrice": null,
+            "parentId": "230311",
+            "startDate": "2024-11-01",
+            "endDate": "2025-10-31"
+          },
+          {
+            "id": "1010120330",
+            "currencyCode": "USD",
+            "adultPrice": null,
+            "childPrice": null,
+            "parentId": "23033",
+            "startDate": "2024-11-01",
+            "endDate": "2025-10-31"
+          },
+          {
+            "id": "1010120346",
+            "currencyCode": "USD",
+            "adultPrice": null,
+            "childPrice": null,
+            "parentId": "23034",
+            "startDate": "2024-11-01",
+            "endDate": "2025-10-31"
+          },
+          {
+            "id": "1010120347",
+            "currencyCode": "USD",
+            "adultPrice": null,
+            "childPrice": null,
+            "parentId": "23035",
+            "startDate": "2024-11-01",
+            "endDate": "2025-10-31"
+          },
+          {
+            "id": "1010120349",
+            "currencyCode": "USD",
+            "adultPrice": null,
+            "childPrice": null,
+            "parentId": "230351",
+            "startDate": "2024-11-01",
+            "endDate": "2025-10-31"
+          },
+          {
+            "id": "1010120350",
+            "currencyCode": "USD",
+            "adultPrice": null,
+            "childPrice": null,
+            "parentId": "230361",
+            "startDate": "2024-11-01",
+            "endDate": "2025-10-31"
+          },
+          {
+            "id": "1010120352",
+            "currencyCode": "USD",
+            "adultPrice": null,
+            "childPrice": null,
+            "parentId": "230371",
+            "startDate": "2024-11-01",
+            "endDate": "2025-10-31"
+          },
+          {
+            "id": "1010120353",
+            "currencyCode": "USD",
+            "adultPrice": null,
+            "childPrice": null,
+            "parentId": "23038",
+            "startDate": "2024-11-01",
+            "endDate": "2025-10-31"
+          },
+          {
+            "id": "1010120356",
+            "currencyCode": "USD",
+            "adultPrice": null,
+            "childPrice": null,
+            "parentId": "23040",
+            "startDate": "2024-11-01",
+            "endDate": "2025-10-31"
+          },
+          {
+            "id": "1010120357",
+            "currencyCode": "USD",
+            "adultPrice": null,
+            "childPrice": null,
+            "parentId": "23042",
+            "startDate": "2024-11-01",
+            "endDate": "2025-10-31"
+          },
+          {
+            "id": "1010120359",
+            "currencyCode": "USD",
+            "adultPrice": null,
+            "childPrice": null,
+            "parentId": "230421",
+            "startDate": "2024-11-01",
+            "endDate": "2025-10-31"
+          },
+          {
+            "id": "1010120361",
+            "currencyCode": "USD",
+            "adultPrice": null,
+            "childPrice": null,
+            "parentId": "23043",
+            "startDate": "2024-11-01",
+            "endDate": "2025-10-31"
+          },
+          {
+            "id": "1010120362",
+            "currencyCode": "USD",
+            "adultPrice": null,
+            "childPrice": null,
+            "parentId": "230431",
+            "startDate": "2024-11-01",
+            "endDate": "2025-10-31"
+          },
+          {
+            "id": "1010120363",
+            "currencyCode": "USD",
+            "adultPrice": null,
+            "childPrice": null,
+            "parentId": "23046",
+            "startDate": "2024-11-01",
+            "endDate": "2025-10-31"
+          },
+          {
+            "id": "1010120364",
+            "currencyCode": "USD",
+            "adultPrice": null,
+            "childPrice": null,
+            "parentId": "23053",
+            "startDate": "2024-11-01",
+            "endDate": "2025-10-31"
+          },
+          {
+            "id": "1010120365",
+            "currencyCode": "USD",
+            "adultPrice": null,
+            "childPrice": null,
+            "parentId": "23054",
+            "startDate": "2024-11-01",
+            "endDate": "2025-10-31"
+          },
+          {
+            "id": "1010120370",
+            "currencyCode": "USD",
+            "adultPrice": null,
+            "childPrice": null,
+            "parentId": "23069",
+            "startDate": "2024-11-01",
+            "endDate": "2025-10-31"
+          },
+          {
+            "id": "1010120372",
+            "currencyCode": "USD",
+            "adultPrice": null,
+            "childPrice": null,
+            "parentId": "230691",
+            "startDate": "2024-11-01",
+            "endDate": "2025-10-31"
+          },
+          {
+            "id": "1010120376",
+            "currencyCode": "USD",
+            "adultPrice": null,
+            "childPrice": null,
+            "parentId": "23071",
+            "startDate": "2024-11-01",
+            "endDate": "2025-10-31"
+          },
+          {
+            "id": "1010120379",
+            "currencyCode": "USD",
+            "adultPrice": null,
+            "childPrice": null,
+            "parentId": "230761",
+            "startDate": "2024-11-01",
+            "endDate": "2025-10-31"
+          },
+          {
+            "id": "1010120381",
+            "currencyCode": "USD",
+            "adultPrice": null,
+            "childPrice": null,
+            "parentId": "23078",
+            "startDate": "2024-11-01",
+            "endDate": "2025-10-31"
+          },
+          {
+            "id": "1010120387",
+            "currencyCode": "USD",
+            "adultPrice": null,
+            "childPrice": null,
+            "parentId": "230922",
+            "startDate": "2024-11-01",
+            "endDate": "2025-10-31"
+          },
+          {
+            "id": "1010120388",
+            "currencyCode": "USD",
+            "adultPrice": null,
+            "childPrice": null,
+            "parentId": "230933",
+            "startDate": "2024-11-01",
+            "endDate": "2025-10-31"
+          }
+        ]
+      },
+      {
+        "arrivalDate": "2025-08-08",
+        "resources": [],
+        "portId": "KTN",
+        "dayIndicator": "7",
+        "departTime": "19:00",
+        "arrivalTime": "11:00",
+        "departDate": "2025-08-08",
+        "portFlags": [],
+        "excursions": [
+          {
+            "id": "1010111562",
+            "currencyCode": "USD",
+            "adultPrice": null,
+            "childPrice": null,
+            "parentId": "24203",
+            "startDate": "2023-11-01",
+            "endDate": "2025-10-31"
+          },
+          {
+            "id": "1010111563",
+            "currencyCode": "USD",
+            "adultPrice": null,
+            "childPrice": null,
+            "parentId": "242031",
+            "startDate": "2023-11-01",
+            "endDate": "2025-10-31"
+          },
+          {
+            "id": "1010112820",
+            "currencyCode": "USD",
+            "adultPrice": null,
+            "childPrice": null,
+            "parentId": "24207",
+            "startDate": "2023-11-01",
+            "endDate": "2025-10-31"
+          },
+          {
+            "id": "1010112824",
+            "currencyCode": "USD",
+            "adultPrice": null,
+            "childPrice": null,
+            "parentId": "24212",
+            "startDate": "2023-11-01",
+            "endDate": "2025-10-31"
+          },
+          {
+            "id": "1010119905",
+            "currencyCode": "USD",
+            "adultPrice": null,
+            "childPrice": null,
+            "parentId": "242151",
+            "startDate": "2023-11-01",
+            "endDate": "2025-10-31"
+          },
+          {
+            "id": "1010112826",
+            "currencyCode": "USD",
+            "adultPrice": null,
+            "childPrice": null,
+            "parentId": "24217",
+            "startDate": "2023-11-01",
+            "endDate": "2025-10-31"
+          },
+          {
+            "id": "1010112827",
+            "currencyCode": "USD",
+            "adultPrice": null,
+            "childPrice": null,
+            "parentId": "24218",
+            "startDate": "2023-11-01",
+            "endDate": "2025-10-31"
+          },
+          {
+            "id": "1010112828",
+            "currencyCode": "USD",
+            "adultPrice": null,
+            "childPrice": null,
+            "parentId": "24219",
+            "startDate": "2023-11-01",
+            "endDate": "2025-10-31"
+          },
+          {
+            "id": "1010112829",
+            "currencyCode": "USD",
+            "adultPrice": null,
+            "childPrice": null,
+            "parentId": "24221",
+            "startDate": "2023-11-01",
+            "endDate": "2025-10-31"
+          },
+          {
+            "id": "1010112831",
+            "currencyCode": "USD",
+            "adultPrice": null,
+            "childPrice": null,
+            "parentId": "24223",
+            "startDate": "2023-11-01",
+            "endDate": "2025-10-31"
+          },
+          {
+            "id": "1010112832",
+            "currencyCode": "USD",
+            "adultPrice": null,
+            "childPrice": null,
+            "parentId": "242231",
+            "startDate": "2023-10-11",
+            "endDate": "2025-10-31"
+          },
+          {
+            "id": "1010112833",
+            "currencyCode": "USD",
+            "adultPrice": null,
+            "childPrice": null,
+            "parentId": "24224",
+            "startDate": "2023-11-01",
+            "endDate": "2025-10-31"
+          },
+          {
+            "id": "1010112834",
+            "currencyCode": "USD",
+            "adultPrice": null,
+            "childPrice": null,
+            "parentId": "24225",
+            "startDate": "2023-11-01",
+            "endDate": "2025-10-31"
+          },
+          {
+            "id": "1010112835",
+            "currencyCode": "USD",
+            "adultPrice": null,
+            "childPrice": null,
+            "parentId": "24227",
+            "startDate": "2023-11-01",
+            "endDate": "2025-10-31"
+          },
+          {
+            "id": "1010112837",
+            "currencyCode": "USD",
+            "adultPrice": null,
+            "childPrice": null,
+            "parentId": "24230",
+            "startDate": "2023-11-01",
+            "endDate": "2025-10-31"
+          },
+          {
+            "id": "1010112838",
+            "currencyCode": "USD",
+            "adultPrice": null,
+            "childPrice": null,
+            "parentId": "24231",
+            "startDate": "2023-11-01",
+            "endDate": "2025-10-31"
+          },
+          {
+            "id": "1010112839",
+            "currencyCode": "USD",
+            "adultPrice": null,
+            "childPrice": null,
+            "parentId": "24236",
+            "startDate": "2023-11-01",
+            "endDate": "2025-10-31"
+          },
+          {
+            "id": "1010112840",
+            "currencyCode": "USD",
+            "adultPrice": null,
+            "childPrice": null,
+            "parentId": "242361",
+            "startDate": "2023-11-01",
+            "endDate": "2025-10-31"
+          },
+          {
+            "id": "1010120126",
+            "currencyCode": "USD",
+            "adultPrice": null,
+            "childPrice": null,
+            "parentId": "24238",
+            "startDate": "2023-11-01",
+            "endDate": "2025-10-31"
+          },
+          {
+            "id": "1010112841",
+            "currencyCode": "USD",
+            "adultPrice": null,
+            "childPrice": null,
+            "parentId": "24239",
+            "startDate": "2023-11-01",
+            "endDate": "2025-10-31"
+          },
+          {
+            "id": "1010112842",
+            "currencyCode": "USD",
+            "adultPrice": null,
+            "childPrice": null,
+            "parentId": "242392",
+            "startDate": "2023-11-01",
+            "endDate": "2025-10-31"
+          },
+          {
+            "id": "1010120405",
+            "currencyCode": "USD",
+            "adultPrice": null,
+            "childPrice": null,
+            "parentId": "24241",
+            "startDate": "2023-11-01",
+            "endDate": "2025-10-31"
+          },
+          {
+            "id": "1010112844",
+            "currencyCode": "USD",
+            "adultPrice": null,
+            "childPrice": null,
+            "parentId": "24243",
+            "startDate": "2023-11-01",
+            "endDate": "2025-10-31"
+          },
+          {
+            "id": "1010112845",
+            "currencyCode": "USD",
+            "adultPrice": null,
+            "childPrice": null,
+            "parentId": "24244",
+            "startDate": "2023-11-01",
+            "endDate": "2025-10-31"
+          },
+          {
+            "id": "1010112846",
+            "currencyCode": "USD",
+            "adultPrice": null,
+            "childPrice": null,
+            "parentId": "24245",
+            "startDate": "2023-11-01",
+            "endDate": "2025-10-31"
+          },
+          {
+            "id": "1010112847",
+            "currencyCode": "USD",
+            "adultPrice": null,
+            "childPrice": null,
+            "parentId": "242451",
+            "startDate": "2023-11-01",
+            "endDate": "2025-10-31"
+          },
+          {
+            "id": "1010112848",
+            "currencyCode": "USD",
+            "adultPrice": null,
+            "childPrice": null,
+            "parentId": "242452",
+            "startDate": "2023-11-01",
+            "endDate": "2025-10-31"
+          },
+          {
+            "id": "1010112850",
+            "currencyCode": "USD",
+            "adultPrice": null,
+            "childPrice": null,
+            "parentId": "24259",
+            "startDate": "2023-11-01",
+            "endDate": "2025-10-31"
+          },
+          {
+            "id": "1010112852",
+            "currencyCode": "USD",
+            "adultPrice": null,
+            "childPrice": null,
+            "parentId": "24260",
+            "startDate": "2023-11-01",
+            "endDate": "2025-10-31"
+          },
+          {
+            "id": "1010112859",
+            "currencyCode": "USD",
+            "adultPrice": null,
+            "childPrice": null,
+            "parentId": "242671",
+            "startDate": "2023-11-01",
+            "endDate": "2025-10-31"
+          },
+          {
+            "id": "1010112861",
+            "currencyCode": "USD",
+            "adultPrice": null,
+            "childPrice": null,
+            "parentId": "24277",
+            "startDate": "2023-11-01",
+            "endDate": "2026-10-31"
+          },
+          {
+            "id": "1010112863",
+            "currencyCode": "USD",
+            "adultPrice": null,
+            "childPrice": null,
+            "parentId": "24278",
+            "startDate": "2023-11-01",
+            "endDate": "2025-10-31"
+          },
+          {
+            "id": "1010112865",
+            "currencyCode": "USD",
+            "adultPrice": null,
+            "childPrice": null,
+            "parentId": "242791",
+            "startDate": "2023-11-01",
+            "endDate": "2025-10-31"
+          },
+          {
+            "id": "1010112867",
+            "currencyCode": "USD",
+            "adultPrice": null,
+            "childPrice": null,
+            "parentId": "242801",
+            "startDate": "2023-11-01",
+            "endDate": "2025-10-31"
+          },
+          {
+            "id": "1010112868",
+            "currencyCode": "USD",
+            "adultPrice": null,
+            "childPrice": null,
+            "parentId": "242961",
+            "startDate": "2023-11-01",
+            "endDate": "2025-10-31"
+          },
+          {
+            "id": "1010112870",
+            "currencyCode": "USD",
+            "adultPrice": null,
+            "childPrice": null,
+            "parentId": "242991",
+            "startDate": "2023-11-01",
+            "endDate": "2025-10-31"
+          }
+        ]
+      },
+      {
+        "arrivalDate": "2025-08-09",
+        "resources": [],
+        "portId": "270",
+        "dayIndicator": "8",
+        "departTime": "",
+        "arrivalTime": "",
+        "departDate": "2025-08-09",
+        "portFlags": [
+          "CO"
+        ],
+        "excursions": []
+      },
+      {
+        "arrivalDate": "2025-08-10",
+        "resources": [
+          {
+            "type": "C",
+            "resourceKey": "5ATYVR-SA",
+            "resourceDesc": "TRANSFER SHIP/YVR AIRPORT",
+            "activityIcon": "T",
+            "lodge": false,
+            "fromCity": "Vancouver, B.C., CA",
+            "arrivalDate": "2025-08-01",
+            "departDate": "2025-08-01",
+            "arrivalTime": "07:00 AM"
+          }
+        ],
+        "portId": "YVR",
+        "dayIndicator": "9",
+        "departTime": "",
+        "arrivalTime": "07:00",
+        "departDate": "2025-08-10",
+        "portFlags": [],
+        "excursions": [
+          {
+            "id": "1010112802",
+            "currencyCode": "USD",
+            "adultPrice": null,
+            "childPrice": null,
+            "parentId": "43711",
+            "startDate": "2023-11-01",
+            "endDate": "2025-10-31"
+          },
+          {
+            "id": "1010112804",
+            "currencyCode": "USD",
+            "adultPrice": null,
+            "childPrice": null,
+            "parentId": "43715",
+            "startDate": "2023-11-01",
+            "endDate": "2025-10-31"
+          },
+          {
+            "id": "1010112806",
+            "currencyCode": "USD",
+            "adultPrice": null,
+            "childPrice": null,
+            "parentId": "43717",
+            "startDate": "2023-11-01",
+            "endDate": "2025-10-31"
+          }
+        ]
+      }
+    ],
+    "lowestPrice": [
+      {
+        "taxAndFeesCombined": false,
+        "classification": "flexible",
+        "loyaltyTier": "anonymous",
+        "fare": "",
+        "price": 0,
+        "tax": 0,
+        "promoCodes": [],
+        "currencyCode": "AUD",
+        "roomTypeId": "",
+        "roomCategoryId": "",
+        "baseTax": 0,
+        "basePrice": 0,
+        "flight": null
+      },
+      {
+        "taxAndFeesCombined": false,
+        "classification": "flexible",
+        "loyaltyTier": "anonymous",
+        "fare": "",
+        "price": 0,
+        "tax": 0,
+        "promoCodes": [],
+        "currencyCode": "CAD",
+        "roomTypeId": "",
+        "roomCategoryId": "",
+        "baseTax": 0,
+        "basePrice": 0,
+        "flight": null
+      },
+      {
+        "taxAndFeesCombined": false,
+        "classification": "flexible",
+        "loyaltyTier": "anonymous",
+        "fare": "",
+        "price": 0,
+        "tax": 0,
+        "promoCodes": [],
+        "currencyCode": "EUR",
+        "roomTypeId": "",
+        "roomCategoryId": "",
+        "baseTax": 0,
+        "basePrice": 0,
+        "flight": null
+      },
+      {
+        "taxAndFeesCombined": false,
+        "classification": "flexible",
+        "loyaltyTier": "anonymous",
+        "fare": "",
+        "price": 0,
+        "tax": 0,
+        "promoCodes": [],
+        "currencyCode": "GBP",
+        "roomTypeId": "",
+        "roomCategoryId": "",
+        "baseTax": 0,
+        "basePrice": 0,
+        "flight": null
+      },
+      {
+        "taxAndFeesCombined": false,
+        "classification": "flexible",
+        "loyaltyTier": "anonymous",
+        "fare": "",
+        "price": 0,
+        "tax": 0,
+        "promoCodes": [],
+        "currencyCode": "USD",
+        "roomTypeId": "",
+        "roomCategoryId": "",
+        "baseTax": 0,
+        "basePrice": 0,
+        "flight": null
+      }
+    ],
+    "availabilityStatus": null,
+    "documents": null,
+    "portCharges": null,
+    "serviceCharges": null,
+    "isSellable": null
+  },
+  {
+    "id": "I557",
+    "itineraryId": "A5S07BD8L",
+    "tourId": "T5AD8L",
+    "pageTitle": "I557 9-Day Classic Denali D8L",
+    "detailPageName": "9-Day Classic Denali D8L",
+    "name": "9-Day Classic Denali D8L",
+    "nightName": "9-Night Classic Denali D8L",
+    "soldOut": false,
+    "duration": 9,
+    "shipId": "NA",
+    "shipVersion": "4",
+    "departPortId": "FAI",
+    "arrivalPortId": "YVR",
+    "arrivalDate": "2025-08-10",
+    "departDate": "2025-08-01",
+    "sailingDate": "2025-08-03",
+    "status": "active",
+    "description": "",
+    "portsOfCall": [
+      {
+        "arrivalDate": "2025-08-03",
+        "portId": "WH1",
+        "resources": [],
+        "departTime": "19:30",
+        "arrivalTime": "",
+        "departDate": "2025-08-03",
+        "portFlags": [],
+        "excursions": []
+      },
+      {
+        "arrivalDate": "2025-08-04",
+        "portId": "HUB",
+        "resources": [],
+        "departTime": "18:00",
+        "arrivalTime": "15:00",
+        "departDate": "2025-08-04",
+        "portFlags": [
+          "CO"
+        ],
+        "excursions": [
+          {
+            "id": "1010120410",
+            "currencyCode": "USD",
+            "adultPrice": null,
+            "childPrice": null,
+            "parentId": "83990",
+            "startDate": "2024-11-01",
+            "endDate": "2025-10-31"
+          }
+        ]
+      },
+      {
+        "arrivalDate": "2025-08-05",
+        "portId": "GB1",
+        "resources": [],
+        "departTime": "18:30",
+        "arrivalTime": "08:30",
+        "departDate": "2025-08-05",
+        "portFlags": [
+          "CO",
+          "RT"
+        ],
+        "excursions": []
+      },
+      {
+        "arrivalDate": "2025-08-06",
+        "portId": "SGY",
+        "resources": [],
+        "departTime": "21:00",
+        "arrivalTime": "05:30",
+        "departDate": "2025-08-06",
+        "portFlags": [],
+        "excursions": [
+          {
+            "id": "1010112893",
+            "currencyCode": "USD",
+            "adultPrice": null,
+            "childPrice": null,
+            "parentId": "36901",
+            "startDate": "2023-11-01",
+            "endDate": "2025-10-31"
+          },
+          {
+            "id": "1010112894",
+            "currencyCode": "USD",
+            "adultPrice": null,
+            "childPrice": null,
+            "parentId": "369011",
+            "startDate": "2023-11-01",
+            "endDate": "2025-10-31"
+          },
+          {
+            "id": "1010112895",
+            "currencyCode": "USD",
+            "adultPrice": null,
+            "childPrice": null,
+            "parentId": "36902",
+            "startDate": "2023-11-01",
+            "endDate": "2025-10-31"
+          },
+          {
+            "id": "1010112896",
+            "currencyCode": "USD",
+            "adultPrice": null,
+            "childPrice": null,
+            "parentId": "36903",
+            "startDate": "2023-11-01",
+            "endDate": "2025-10-31"
+          },
+          {
+            "id": "1010112897",
+            "currencyCode": "USD",
+            "adultPrice": null,
+            "childPrice": null,
+            "parentId": "36904",
+            "startDate": "2023-11-01",
+            "endDate": "2025-10-31"
+          },
+          {
+            "id": "1010112898",
+            "currencyCode": "USD",
+            "adultPrice": null,
+            "childPrice": null,
+            "parentId": "369041",
+            "startDate": "2023-11-01",
+            "endDate": "2025-10-31"
+          },
+          {
+            "id": "1010112899",
+            "currencyCode": "USD",
+            "adultPrice": null,
+            "childPrice": null,
+            "parentId": "36905",
+            "startDate": "2023-11-01",
+            "endDate": "2025-10-31"
+          },
+          {
+            "id": "1010112900",
+            "currencyCode": "USD",
+            "adultPrice": null,
+            "childPrice": null,
+            "parentId": "369061",
+            "startDate": "2023-11-01",
+            "endDate": "2025-10-31"
+          },
+          {
+            "id": "1010112901",
+            "currencyCode": "USD",
+            "adultPrice": null,
+            "childPrice": null,
+            "parentId": "36907",
+            "startDate": "2023-11-01",
+            "endDate": "2025-10-31"
+          },
+          {
+            "id": "1010112902",
+            "currencyCode": "USD",
+            "adultPrice": null,
+            "childPrice": null,
+            "parentId": "36908",
+            "startDate": "2023-11-01",
+            "endDate": "2025-10-31"
+          },
+          {
+            "id": "1010112903",
+            "currencyCode": "USD",
+            "adultPrice": null,
+            "childPrice": null,
+            "parentId": "36909",
+            "startDate": "2023-11-01",
+            "endDate": "2025-10-31"
+          },
+          {
+            "id": "1010112904",
+            "currencyCode": "USD",
+            "adultPrice": null,
+            "childPrice": null,
+            "parentId": "36911",
+            "startDate": "2023-11-01",
+            "endDate": "2025-10-31"
+          },
+          {
+            "id": "1010112905",
+            "currencyCode": "USD",
+            "adultPrice": null,
+            "childPrice": null,
+            "parentId": "36912",
+            "startDate": "2023-11-01",
+            "endDate": "2025-10-31"
+          },
+          {
+            "id": "1010112906",
+            "currencyCode": "USD",
+            "adultPrice": null,
+            "childPrice": null,
+            "parentId": "369121",
+            "startDate": "2023-11-01",
+            "endDate": "2025-10-31"
+          },
+          {
+            "id": "1010112907",
+            "currencyCode": "USD",
+            "adultPrice": null,
+            "childPrice": null,
+            "parentId": "36913",
+            "startDate": "2023-11-01",
+            "endDate": "2025-10-31"
+          },
+          {
+            "id": "1010112908",
+            "currencyCode": "USD",
+            "adultPrice": null,
+            "childPrice": null,
+            "parentId": "369141",
+            "startDate": "2023-11-01",
+            "endDate": "2025-10-31"
+          },
+          {
+            "id": "1010112909",
+            "currencyCode": "USD",
+            "adultPrice": null,
+            "childPrice": null,
+            "parentId": "36915",
+            "startDate": "2023-11-01",
+            "endDate": "2025-10-31"
+          },
+          {
+            "id": "1010112910",
+            "currencyCode": "USD",
+            "adultPrice": null,
+            "childPrice": null,
+            "parentId": "36916",
+            "startDate": "2023-11-01",
+            "endDate": "2025-10-31"
+          },
+          {
+            "id": "1010112911",
+            "currencyCode": "USD",
+            "adultPrice": null,
+            "childPrice": null,
+            "parentId": "369241",
+            "startDate": "2023-11-01",
+            "endDate": "2025-10-31"
+          },
+          {
+            "id": "1010112912",
+            "currencyCode": "USD",
+            "adultPrice": null,
+            "childPrice": null,
+            "parentId": "36925",
+            "startDate": "2023-11-01",
+            "endDate": "2025-10-31"
+          },
+          {
+            "id": "1010112913",
+            "currencyCode": "USD",
+            "adultPrice": null,
+            "childPrice": null,
+            "parentId": "36926",
+            "startDate": "2023-11-01",
+            "endDate": "2025-10-31"
+          },
+          {
+            "id": "1010112915",
+            "currencyCode": "USD",
+            "adultPrice": null,
+            "childPrice": null,
+            "parentId": "36928",
+            "startDate": "2023-11-01",
+            "endDate": "2025-10-31"
+          },
+          {
+            "id": "1010112916",
+            "currencyCode": "USD",
+            "adultPrice": null,
+            "childPrice": null,
+            "parentId": "36929",
+            "startDate": "2023-11-01",
+            "endDate": "2025-10-31"
+          },
+          {
+            "id": "1010112917",
+            "currencyCode": "USD",
+            "adultPrice": null,
+            "childPrice": null,
+            "parentId": "36933",
+            "startDate": "2023-11-01",
+            "endDate": "2025-10-31"
+          },
+          {
+            "id": "1010112918",
+            "currencyCode": "USD",
+            "adultPrice": null,
+            "childPrice": null,
+            "parentId": "36936",
+            "startDate": "2023-11-01",
+            "endDate": "2025-10-31"
+          },
+          {
+            "id": "1010112919",
+            "currencyCode": "USD",
+            "adultPrice": null,
+            "childPrice": null,
+            "parentId": "36937",
+            "startDate": "2023-11-01",
+            "endDate": "2025-10-31"
+          },
+          {
+            "id": "1010112920",
+            "currencyCode": "USD",
+            "adultPrice": null,
+            "childPrice": null,
+            "parentId": "36938",
+            "startDate": "2023-11-01",
+            "endDate": "2025-10-31"
+          },
+          {
+            "id": "1010112921",
+            "currencyCode": "USD",
+            "adultPrice": null,
+            "childPrice": null,
+            "parentId": "36942",
+            "startDate": "2023-11-01",
+            "endDate": "2025-10-31"
+          },
+          {
+            "id": "1010112922",
+            "currencyCode": "USD",
+            "adultPrice": null,
+            "childPrice": null,
+            "parentId": "369431",
+            "startDate": "2023-11-01",
+            "endDate": "2025-10-31"
+          },
+          {
+            "id": "1010112923",
+            "currencyCode": "USD",
+            "adultPrice": null,
+            "childPrice": null,
+            "parentId": "36949",
+            "startDate": "2023-11-01",
+            "endDate": "2025-10-31"
+          },
+          {
+            "id": "1010112924",
+            "currencyCode": "USD",
+            "adultPrice": null,
+            "childPrice": null,
+            "parentId": "36963",
+            "startDate": "2023-11-01",
+            "endDate": "2025-10-31"
+          },
+          {
+            "id": "1010112925",
+            "currencyCode": "USD",
+            "adultPrice": null,
+            "childPrice": null,
+            "parentId": "369631",
+            "startDate": "2023-11-01",
+            "endDate": "2025-10-31"
+          },
+          {
+            "id": "1010112926",
+            "currencyCode": "USD",
+            "adultPrice": null,
+            "childPrice": null,
+            "parentId": "36966",
+            "startDate": "2023-11-01",
+            "endDate": "2025-10-31"
+          },
+          {
+            "id": "1010112927",
+            "currencyCode": "USD",
+            "adultPrice": null,
+            "childPrice": null,
+            "parentId": "36974",
+            "startDate": "2023-11-01",
+            "endDate": "2025-10-31"
+          },
+          {
+            "id": "1010112928",
+            "currencyCode": "USD",
+            "adultPrice": null,
+            "childPrice": null,
+            "parentId": "36975",
+            "startDate": "2023-11-01",
+            "endDate": "2025-10-31"
+          },
+          {
+            "id": "1010112929",
+            "currencyCode": "USD",
+            "adultPrice": null,
+            "childPrice": null,
+            "parentId": "36978",
+            "startDate": "2023-11-01",
+            "endDate": "2025-10-31"
+          },
+          {
+            "id": "1010112931",
+            "currencyCode": "USD",
+            "adultPrice": null,
+            "childPrice": null,
+            "parentId": "36999",
+            "startDate": "2023-11-01",
+            "endDate": "2025-10-31"
+          }
+        ]
+      },
+      {
+        "arrivalDate": "2025-08-07",
+        "portId": "JNU",
+        "resources": [],
+        "departTime": "16:30",
+        "arrivalTime": "08:00",
+        "departDate": "2025-08-07",
+        "portFlags": [],
+        "excursions": [
+          {
+            "id": "1010122201",
+            "currencyCode": "USD",
+            "adultPrice": null,
+            "childPrice": null,
+            "parentId": "23001",
+            "startDate": "2023-11-01",
+            "endDate": "2025-10-31"
+          },
+          {
+            "id": "1010120276",
+            "currencyCode": "USD",
+            "adultPrice": null,
+            "childPrice": null,
+            "parentId": "230022",
+            "startDate": "2024-11-01",
+            "endDate": "2025-10-31"
+          },
+          {
+            "id": "1010120277",
+            "currencyCode": "USD",
+            "adultPrice": null,
+            "childPrice": null,
+            "parentId": "23004",
+            "startDate": "2024-11-01",
+            "endDate": "2025-10-31"
+          },
+          {
+            "id": "1010120278",
+            "currencyCode": "USD",
+            "adultPrice": null,
+            "childPrice": null,
+            "parentId": "23006",
+            "startDate": "2024-11-01",
+            "endDate": "2025-10-31"
+          },
+          {
+            "id": "1010120280",
+            "currencyCode": "USD",
+            "adultPrice": null,
+            "childPrice": null,
+            "parentId": "230061",
+            "startDate": "2024-11-01",
+            "endDate": "2025-10-31"
+          },
+          {
+            "id": "1010120281",
+            "currencyCode": "USD",
+            "adultPrice": null,
+            "childPrice": null,
+            "parentId": "23007",
+            "startDate": "2024-11-01",
+            "endDate": "2025-10-31"
+          },
+          {
+            "id": "1010120283",
+            "currencyCode": "USD",
+            "adultPrice": null,
+            "childPrice": null,
+            "parentId": "23008",
+            "startDate": "2024-11-01",
+            "endDate": "2025-10-31"
+          },
+          {
+            "id": "1010120284",
+            "currencyCode": "USD",
+            "adultPrice": null,
+            "childPrice": null,
+            "parentId": "23010",
+            "startDate": "2024-11-01",
+            "endDate": "2025-10-31"
+          },
+          {
+            "id": "1010110981",
+            "currencyCode": "USD",
+            "adultPrice": null,
+            "childPrice": null,
+            "parentId": "23011",
+            "startDate": "2023-11-01",
+            "endDate": "2025-10-31"
+          },
+          {
+            "id": "1010120285",
+            "currencyCode": "USD",
+            "adultPrice": null,
+            "childPrice": null,
+            "parentId": "23012",
+            "startDate": "2024-11-01",
+            "endDate": "2025-10-31"
+          },
+          {
+            "id": "1010120286",
+            "currencyCode": "USD",
+            "adultPrice": null,
+            "childPrice": null,
+            "parentId": "23013",
+            "startDate": "2024-11-01",
+            "endDate": "2025-10-31"
+          },
+          {
+            "id": "1010120287",
+            "currencyCode": "USD",
+            "adultPrice": null,
+            "childPrice": null,
+            "parentId": "230131",
+            "startDate": "2024-11-01",
+            "endDate": "2025-10-31"
+          },
+          {
+            "id": "1010120288",
+            "currencyCode": "USD",
+            "adultPrice": null,
+            "childPrice": null,
+            "parentId": "23015",
+            "startDate": "2024-11-01",
+            "endDate": "2025-10-31"
+          },
+          {
+            "id": "1010120289",
+            "currencyCode": "USD",
+            "adultPrice": null,
+            "childPrice": null,
+            "parentId": "23016",
+            "startDate": "2024-11-01",
+            "endDate": "2025-10-31"
+          },
+          {
+            "id": "1010120290",
+            "currencyCode": "USD",
+            "adultPrice": null,
+            "childPrice": null,
+            "parentId": "23017",
+            "startDate": "2024-11-01",
+            "endDate": "2025-10-31"
+          },
+          {
+            "id": "1010120291",
+            "currencyCode": "USD",
+            "adultPrice": null,
+            "childPrice": null,
+            "parentId": "23018",
+            "startDate": "2024-11-01",
+            "endDate": "2025-10-31"
+          },
+          {
+            "id": "1010111009",
+            "currencyCode": "USD",
+            "adultPrice": null,
+            "childPrice": null,
+            "parentId": "23021",
+            "startDate": "2023-11-01",
+            "endDate": "2025-10-31"
+          },
+          {
+            "id": "1010120292",
+            "currencyCode": "USD",
+            "adultPrice": null,
+            "childPrice": null,
+            "parentId": "23022",
+            "startDate": "2024-11-01",
+            "endDate": "2025-10-31"
+          },
+          {
+            "id": "1010120323",
+            "currencyCode": "USD",
+            "adultPrice": null,
+            "childPrice": null,
+            "parentId": "230221",
+            "startDate": "2024-11-01",
+            "endDate": "2025-10-31"
+          },
+          {
+            "id": "1010120324",
+            "currencyCode": "USD",
+            "adultPrice": null,
+            "childPrice": null,
+            "parentId": "23023",
+            "startDate": "2024-11-01",
+            "endDate": "2025-10-31"
+          },
+          {
+            "id": "1010120327",
+            "currencyCode": "USD",
+            "adultPrice": null,
+            "childPrice": null,
+            "parentId": "23026",
+            "startDate": "2024-11-01",
+            "endDate": "2025-10-31"
+          },
+          {
+            "id": "1010120328",
+            "currencyCode": "USD",
+            "adultPrice": null,
+            "childPrice": null,
+            "parentId": "23028",
+            "startDate": "2024-11-01",
+            "endDate": "2025-10-31"
+          },
+          {
+            "id": "1010120329",
+            "currencyCode": "USD",
+            "adultPrice": null,
+            "childPrice": null,
+            "parentId": "230311",
+            "startDate": "2024-11-01",
+            "endDate": "2025-10-31"
+          },
+          {
+            "id": "1010120330",
+            "currencyCode": "USD",
+            "adultPrice": null,
+            "childPrice": null,
+            "parentId": "23033",
+            "startDate": "2024-11-01",
+            "endDate": "2025-10-31"
+          },
+          {
+            "id": "1010120346",
+            "currencyCode": "USD",
+            "adultPrice": null,
+            "childPrice": null,
+            "parentId": "23034",
+            "startDate": "2024-11-01",
+            "endDate": "2025-10-31"
+          },
+          {
+            "id": "1010120347",
+            "currencyCode": "USD",
+            "adultPrice": null,
+            "childPrice": null,
+            "parentId": "23035",
+            "startDate": "2024-11-01",
+            "endDate": "2025-10-31"
+          },
+          {
+            "id": "1010120349",
+            "currencyCode": "USD",
+            "adultPrice": null,
+            "childPrice": null,
+            "parentId": "230351",
+            "startDate": "2024-11-01",
+            "endDate": "2025-10-31"
+          },
+          {
+            "id": "1010120350",
+            "currencyCode": "USD",
+            "adultPrice": null,
+            "childPrice": null,
+            "parentId": "230361",
+            "startDate": "2024-11-01",
+            "endDate": "2025-10-31"
+          },
+          {
+            "id": "1010120352",
+            "currencyCode": "USD",
+            "adultPrice": null,
+            "childPrice": null,
+            "parentId": "230371",
+            "startDate": "2024-11-01",
+            "endDate": "2025-10-31"
+          },
+          {
+            "id": "1010120353",
+            "currencyCode": "USD",
+            "adultPrice": null,
+            "childPrice": null,
+            "parentId": "23038",
+            "startDate": "2024-11-01",
+            "endDate": "2025-10-31"
+          },
+          {
+            "id": "1010120356",
+            "currencyCode": "USD",
+            "adultPrice": null,
+            "childPrice": null,
+            "parentId": "23040",
+            "startDate": "2024-11-01",
+            "endDate": "2025-10-31"
+          },
+          {
+            "id": "1010120357",
+            "currencyCode": "USD",
+            "adultPrice": null,
+            "childPrice": null,
+            "parentId": "23042",
+            "startDate": "2024-11-01",
+            "endDate": "2025-10-31"
+          },
+          {
+            "id": "1010120359",
+            "currencyCode": "USD",
+            "adultPrice": null,
+            "childPrice": null,
+            "parentId": "230421",
+            "startDate": "2024-11-01",
+            "endDate": "2025-10-31"
+          },
+          {
+            "id": "1010120361",
+            "currencyCode": "USD",
+            "adultPrice": null,
+            "childPrice": null,
+            "parentId": "23043",
+            "startDate": "2024-11-01",
+            "endDate": "2025-10-31"
+          },
+          {
+            "id": "1010120362",
+            "currencyCode": "USD",
+            "adultPrice": null,
+            "childPrice": null,
+            "parentId": "230431",
+            "startDate": "2024-11-01",
+            "endDate": "2025-10-31"
+          },
+          {
+            "id": "1010120363",
+            "currencyCode": "USD",
+            "adultPrice": null,
+            "childPrice": null,
+            "parentId": "23046",
+            "startDate": "2024-11-01",
+            "endDate": "2025-10-31"
+          },
+          {
+            "id": "1010120364",
+            "currencyCode": "USD",
+            "adultPrice": null,
+            "childPrice": null,
+            "parentId": "23053",
+            "startDate": "2024-11-01",
+            "endDate": "2025-10-31"
+          },
+          {
+            "id": "1010120365",
+            "currencyCode": "USD",
+            "adultPrice": null,
+            "childPrice": null,
+            "parentId": "23054",
+            "startDate": "2024-11-01",
+            "endDate": "2025-10-31"
+          },
+          {
+            "id": "1010120370",
+            "currencyCode": "USD",
+            "adultPrice": null,
+            "childPrice": null,
+            "parentId": "23069",
+            "startDate": "2024-11-01",
+            "endDate": "2025-10-31"
+          },
+          {
+            "id": "1010120372",
+            "currencyCode": "USD",
+            "adultPrice": null,
+            "childPrice": null,
+            "parentId": "230691",
+            "startDate": "2024-11-01",
+            "endDate": "2025-10-31"
+          },
+          {
+            "id": "1010120376",
+            "currencyCode": "USD",
+            "adultPrice": null,
+            "childPrice": null,
+            "parentId": "23071",
+            "startDate": "2024-11-01",
+            "endDate": "2025-10-31"
+          },
+          {
+            "id": "1010120379",
+            "currencyCode": "USD",
+            "adultPrice": null,
+            "childPrice": null,
+            "parentId": "230761",
+            "startDate": "2024-11-01",
+            "endDate": "2025-10-31"
+          },
+          {
+            "id": "1010120381",
+            "currencyCode": "USD",
+            "adultPrice": null,
+            "childPrice": null,
+            "parentId": "23078",
+            "startDate": "2024-11-01",
+            "endDate": "2025-10-31"
+          },
+          {
+            "id": "1010120387",
+            "currencyCode": "USD",
+            "adultPrice": null,
+            "childPrice": null,
+            "parentId": "230922",
+            "startDate": "2024-11-01",
+            "endDate": "2025-10-31"
+          },
+          {
+            "id": "1010120388",
+            "currencyCode": "USD",
+            "adultPrice": null,
+            "childPrice": null,
+            "parentId": "230933",
+            "startDate": "2024-11-01",
+            "endDate": "2025-10-31"
+          }
+        ]
+      },
+      {
+        "arrivalDate": "2025-08-08",
+        "portId": "KTN",
+        "resources": [],
+        "departTime": "19:00",
+        "arrivalTime": "11:00",
+        "departDate": "2025-08-08",
+        "portFlags": [],
+        "excursions": [
+          {
+            "id": "1010111562",
+            "currencyCode": "USD",
+            "adultPrice": null,
+            "childPrice": null,
+            "parentId": "24203",
+            "startDate": "2023-11-01",
+            "endDate": "2025-10-31"
+          },
+          {
+            "id": "1010111563",
+            "currencyCode": "USD",
+            "adultPrice": null,
+            "childPrice": null,
+            "parentId": "242031",
+            "startDate": "2023-11-01",
+            "endDate": "2025-10-31"
+          },
+          {
+            "id": "1010112820",
+            "currencyCode": "USD",
+            "adultPrice": null,
+            "childPrice": null,
+            "parentId": "24207",
+            "startDate": "2023-11-01",
+            "endDate": "2025-10-31"
+          },
+          {
+            "id": "1010112824",
+            "currencyCode": "USD",
+            "adultPrice": null,
+            "childPrice": null,
+            "parentId": "24212",
+            "startDate": "2023-11-01",
+            "endDate": "2025-10-31"
+          },
+          {
+            "id": "1010119905",
+            "currencyCode": "USD",
+            "adultPrice": null,
+            "childPrice": null,
+            "parentId": "242151",
+            "startDate": "2023-11-01",
+            "endDate": "2025-10-31"
+          },
+          {
+            "id": "1010112826",
+            "currencyCode": "USD",
+            "adultPrice": null,
+            "childPrice": null,
+            "parentId": "24217",
+            "startDate": "2023-11-01",
+            "endDate": "2025-10-31"
+          },
+          {
+            "id": "1010112827",
+            "currencyCode": "USD",
+            "adultPrice": null,
+            "childPrice": null,
+            "parentId": "24218",
+            "startDate": "2023-11-01",
+            "endDate": "2025-10-31"
+          },
+          {
+            "id": "1010112828",
+            "currencyCode": "USD",
+            "adultPrice": null,
+            "childPrice": null,
+            "parentId": "24219",
+            "startDate": "2023-11-01",
+            "endDate": "2025-10-31"
+          },
+          {
+            "id": "1010112829",
+            "currencyCode": "USD",
+            "adultPrice": null,
+            "childPrice": null,
+            "parentId": "24221",
+            "startDate": "2023-11-01",
+            "endDate": "2025-10-31"
+          },
+          {
+            "id": "1010112831",
+            "currencyCode": "USD",
+            "adultPrice": null,
+            "childPrice": null,
+            "parentId": "24223",
+            "startDate": "2023-11-01",
+            "endDate": "2025-10-31"
+          },
+          {
+            "id": "1010112832",
+            "currencyCode": "USD",
+            "adultPrice": null,
+            "childPrice": null,
+            "parentId": "242231",
+            "startDate": "2023-10-11",
+            "endDate": "2025-10-31"
+          },
+          {
+            "id": "1010112833",
+            "currencyCode": "USD",
+            "adultPrice": null,
+            "childPrice": null,
+            "parentId": "24224",
+            "startDate": "2023-11-01",
+            "endDate": "2025-10-31"
+          },
+          {
+            "id": "1010112834",
+            "currencyCode": "USD",
+            "adultPrice": null,
+            "childPrice": null,
+            "parentId": "24225",
+            "startDate": "2023-11-01",
+            "endDate": "2025-10-31"
+          },
+          {
+            "id": "1010112835",
+            "currencyCode": "USD",
+            "adultPrice": null,
+            "childPrice": null,
+            "parentId": "24227",
+            "startDate": "2023-11-01",
+            "endDate": "2025-10-31"
+          },
+          {
+            "id": "1010112837",
+            "currencyCode": "USD",
+            "adultPrice": null,
+            "childPrice": null,
+            "parentId": "24230",
+            "startDate": "2023-11-01",
+            "endDate": "2025-10-31"
+          },
+          {
+            "id": "1010112838",
+            "currencyCode": "USD",
+            "adultPrice": null,
+            "childPrice": null,
+            "parentId": "24231",
+            "startDate": "2023-11-01",
+            "endDate": "2025-10-31"
+          },
+          {
+            "id": "1010112839",
+            "currencyCode": "USD",
+            "adultPrice": null,
+            "childPrice": null,
+            "parentId": "24236",
+            "startDate": "2023-11-01",
+            "endDate": "2025-10-31"
+          },
+          {
+            "id": "1010112840",
+            "currencyCode": "USD",
+            "adultPrice": null,
+            "childPrice": null,
+            "parentId": "242361",
+            "startDate": "2023-11-01",
+            "endDate": "2025-10-31"
+          },
+          {
+            "id": "1010120126",
+            "currencyCode": "USD",
+            "adultPrice": null,
+            "childPrice": null,
+            "parentId": "24238",
+            "startDate": "2023-11-01",
+            "endDate": "2025-10-31"
+          },
+          {
+            "id": "1010112841",
+            "currencyCode": "USD",
+            "adultPrice": null,
+            "childPrice": null,
+            "parentId": "24239",
+            "startDate": "2023-11-01",
+            "endDate": "2025-10-31"
+          },
+          {
+            "id": "1010112842",
+            "currencyCode": "USD",
+            "adultPrice": null,
+            "childPrice": null,
+            "parentId": "242392",
+            "startDate": "2023-11-01",
+            "endDate": "2025-10-31"
+          },
+          {
+            "id": "1010120405",
+            "currencyCode": "USD",
+            "adultPrice": null,
+            "childPrice": null,
+            "parentId": "24241",
+            "startDate": "2023-11-01",
+            "endDate": "2025-10-31"
+          },
+          {
+            "id": "1010112844",
+            "currencyCode": "USD",
+            "adultPrice": null,
+            "childPrice": null,
+            "parentId": "24243",
+            "startDate": "2023-11-01",
+            "endDate": "2025-10-31"
+          },
+          {
+            "id": "1010112845",
+            "currencyCode": "USD",
+            "adultPrice": null,
+            "childPrice": null,
+            "parentId": "24244",
+            "startDate": "2023-11-01",
+            "endDate": "2025-10-31"
+          },
+          {
+            "id": "1010112846",
+            "currencyCode": "USD",
+            "adultPrice": null,
+            "childPrice": null,
+            "parentId": "24245",
+            "startDate": "2023-11-01",
+            "endDate": "2025-10-31"
+          },
+          {
+            "id": "1010112847",
+            "currencyCode": "USD",
+            "adultPrice": null,
+            "childPrice": null,
+            "parentId": "242451",
+            "startDate": "2023-11-01",
+            "endDate": "2025-10-31"
+          },
+          {
+            "id": "1010112848",
+            "currencyCode": "USD",
+            "adultPrice": null,
+            "childPrice": null,
+            "parentId": "242452",
+            "startDate": "2023-11-01",
+            "endDate": "2025-10-31"
+          },
+          {
+            "id": "1010112850",
+            "currencyCode": "USD",
+            "adultPrice": null,
+            "childPrice": null,
+            "parentId": "24259",
+            "startDate": "2023-11-01",
+            "endDate": "2025-10-31"
+          },
+          {
+            "id": "1010112852",
+            "currencyCode": "USD",
+            "adultPrice": null,
+            "childPrice": null,
+            "parentId": "24260",
+            "startDate": "2023-11-01",
+            "endDate": "2025-10-31"
+          },
+          {
+            "id": "1010112859",
+            "currencyCode": "USD",
+            "adultPrice": null,
+            "childPrice": null,
+            "parentId": "242671",
+            "startDate": "2023-11-01",
+            "endDate": "2025-10-31"
+          },
+          {
+            "id": "1010112861",
+            "currencyCode": "USD",
+            "adultPrice": null,
+            "childPrice": null,
+            "parentId": "24277",
+            "startDate": "2023-11-01",
+            "endDate": "2026-10-31"
+          },
+          {
+            "id": "1010112863",
+            "currencyCode": "USD",
+            "adultPrice": null,
+            "childPrice": null,
+            "parentId": "24278",
+            "startDate": "2023-11-01",
+            "endDate": "2025-10-31"
+          },
+          {
+            "id": "1010112865",
+            "currencyCode": "USD",
+            "adultPrice": null,
+            "childPrice": null,
+            "parentId": "242791",
+            "startDate": "2023-11-01",
+            "endDate": "2025-10-31"
+          },
+          {
+            "id": "1010112867",
+            "currencyCode": "USD",
+            "adultPrice": null,
+            "childPrice": null,
+            "parentId": "242801",
+            "startDate": "2023-11-01",
+            "endDate": "2025-10-31"
+          },
+          {
+            "id": "1010112868",
+            "currencyCode": "USD",
+            "adultPrice": null,
+            "childPrice": null,
+            "parentId": "242961",
+            "startDate": "2023-11-01",
+            "endDate": "2025-10-31"
+          },
+          {
+            "id": "1010112870",
+            "currencyCode": "USD",
+            "adultPrice": null,
+            "childPrice": null,
+            "parentId": "242991",
+            "startDate": "2023-11-01",
+            "endDate": "2025-10-31"
+          }
+        ]
+      },
+      {
+        "arrivalDate": "2025-08-09",
+        "portId": "270",
+        "resources": [],
+        "departTime": "",
+        "arrivalTime": "",
+        "departDate": "2025-08-09",
+        "portFlags": [
+          "CO"
+        ],
+        "excursions": []
+      },
+      {
+        "arrivalDate": "2025-08-10",
+        "portId": "YVR",
+        "resources": [],
+        "departTime": "",
+        "arrivalTime": "07:00",
+        "departDate": "2025-08-10",
+        "portFlags": [],
+        "excursions": [
+          {
+            "id": "1010112802",
+            "currencyCode": "USD",
+            "adultPrice": null,
+            "childPrice": null,
+            "parentId": "43711",
+            "startDate": "2023-11-01",
+            "endDate": "2025-10-31"
+          },
+          {
+            "id": "1010112804",
+            "currencyCode": "USD",
+            "adultPrice": null,
+            "childPrice": null,
+            "parentId": "43715",
+            "startDate": "2023-11-01",
+            "endDate": "2025-10-31"
+          },
+          {
+            "id": "1010112806",
+            "currencyCode": "USD",
+            "adultPrice": null,
+            "childPrice": null,
+            "parentId": "43717",
+            "startDate": "2023-11-01",
+            "endDate": "2025-10-31"
+          }
+        ]
+      }
+    ],
+    "lowestPrice": [
+      {
+        "taxAndFeesCombined": true,
+        "classification": "restricted",
+        "loyaltyTier": "anonymous",
+        "fare": "QAT",
+        "price": 3814,
+        "tax": 530.27,
+        "promoCodes": [
+          "QA_AUD"
+        ],
+        "currencyCode": "AUD",
+        "roomTypeId": "NA_IN",
+        "roomCategoryId": "NA_IN_IN",
+        "baseTax": 0,
+        "basePrice": 0,
+        "flight": null
+      },
+      {
+        "taxAndFeesCombined": true,
+        "classification": "restricted",
+        "loyaltyTier": "anonymous",
+        "fare": "QAA",
+        "price": 3547,
+        "tax": 199.05,
+        "promoCodes": [
+          "QA_CAD"
+        ],
+        "currencyCode": "CAD",
+        "roomTypeId": "NA_IN",
+        "roomCategoryId": "NA_IN_IN",
+        "baseTax": 0,
+        "basePrice": 0,
+        "flight": null
+      },
+      {
+        "taxAndFeesCombined": true,
+        "classification": "flexible",
+        "loyaltyTier": "anonymous",
+        "fare": "NHL",
+        "price": 2534,
+        "tax": 332.84,
+        "promoCodes": [
+          "NH_EUR"
+        ],
+        "currencyCode": "EUR",
+        "roomTypeId": "NA_IN",
+        "roomCategoryId": "NA_IN_IN",
+        "baseTax": 0,
+        "basePrice": 0,
+        "flight": null
+      },
+      {
+        "taxAndFeesCombined": true,
+        "classification": "flexible",
+        "loyaltyTier": "anonymous",
+        "fare": "NHD",
+        "price": 2239,
+        "tax": 291.59,
+        "promoCodes": [
+          "NH_GBP"
+        ],
+        "currencyCode": "GBP",
+        "roomTypeId": "NA_IN",
+        "roomCategoryId": "NA_IN_IN",
+        "baseTax": 0,
+        "basePrice": 0,
+        "flight": null
+      },
+      {
+        "taxAndFeesCombined": true,
+        "classification": "restricted",
+        "loyaltyTier": "anonymous",
+        "fare": "QAA",
+        "price": 2584,
+        "tax": 145,
+        "promoCodes": [
+          "QA_USD"
+        ],
+        "currencyCode": "USD",
+        "roomTypeId": "NA_IN",
+        "roomCategoryId": "NA_IN_IN",
+        "baseTax": 0,
+        "basePrice": 0,
+        "flight": null
+      },
+      {
+        "classification": "flexible",
+        "loyaltyTier": "HAL2089",
+        "fare": "UD5",
+        "price": 2464,
+        "tax": 199.05,
+        "promoCodes": [
+          "UD_CAD"
+        ],
+        "roomTypeId": "NA_IN",
+        "roomCategoryId": "NA_IN_IN",
+        "baseTax": 0,
+        "basePrice": 0,
+        "flight": null,
+        "currencyCode": "CAD",
+        "taxAndFeesCombined": true
+      },
+      {
+        "classification": "flexible",
+        "loyaltyTier": "HAL2089",
+        "fare": "UD5",
+        "price": 1795,
+        "tax": 145,
+        "promoCodes": [
+          "UD_USD"
+        ],
+        "roomTypeId": "NA_IN",
+        "roomCategoryId": "NA_IN_IN",
+        "baseTax": 0,
+        "basePrice": 0,
+        "flight": null,
+        "currencyCode": "USD",
+        "taxAndFeesCombined": true
+      },
+      {
+        "classification": "flexible",
+        "loyaltyTier": "HEP2510MP4",
+        "fare": "UD5",
+        "price": 2464,
+        "tax": 199.05,
+        "promoCodes": [
+          "UD_CAD"
+        ],
+        "roomTypeId": "NA_IN",
+        "roomCategoryId": "NA_IN_IN",
+        "baseTax": 0,
+        "basePrice": 0,
+        "flight": null,
+        "currencyCode": "CAD",
+        "taxAndFeesCombined": true
+      },
+      {
+        "classification": "flexible",
+        "loyaltyTier": "HEP2510MP4",
+        "fare": "UD5",
+        "price": 1795,
+        "tax": 145,
+        "promoCodes": [
+          "UD_USD"
+        ],
+        "roomTypeId": "NA_IN",
+        "roomCategoryId": "NA_IN_IN",
+        "baseTax": 0,
+        "basePrice": 0,
+        "flight": null,
+        "currencyCode": "USD",
+        "taxAndFeesCombined": true
+      },
+      {
+        "classification": "flexible",
+        "loyaltyTier": "HEP2511MP4",
+        "fare": "UD5",
+        "price": 2464,
+        "tax": 199.05,
+        "promoCodes": [
+          "UD_CAD"
+        ],
+        "roomTypeId": "NA_IN",
+        "roomCategoryId": "NA_IN_IN",
+        "baseTax": 0,
+        "basePrice": 0,
+        "flight": null,
+        "currencyCode": "CAD",
+        "taxAndFeesCombined": true
+      },
+      {
+        "classification": "flexible",
+        "loyaltyTier": "HEP2511MP4",
+        "fare": "UD5",
+        "price": 1795,
+        "tax": 145,
+        "promoCodes": [
+          "UD_USD"
+        ],
+        "roomTypeId": "NA_IN",
+        "roomCategoryId": "NA_IN_IN",
+        "baseTax": 0,
+        "basePrice": 0,
+        "flight": null,
+        "currencyCode": "USD",
+        "taxAndFeesCombined": true
+      },
+      {
+        "classification": "flexible",
+        "loyaltyTier": "FLEXIBLE",
+        "fare": "NHT",
+        "price": 3884,
+        "tax": 530.27,
+        "promoCodes": [
+          "NH_AUD"
+        ],
+        "roomTypeId": "NA_IN",
+        "roomCategoryId": "NA_IN_IN",
+        "baseTax": 0,
+        "basePrice": 0,
+        "flight": null,
+        "currencyCode": "AUD",
+        "taxAndFeesCombined": true
+      },
+      {
+        "classification": "flexible",
+        "loyaltyTier": "FLEXIBLE",
+        "fare": "NHA",
+        "price": 3595,
+        "tax": 199.05,
+        "promoCodes": [
+          "NH_CAD"
+        ],
+        "roomTypeId": "NA_IN",
+        "roomCategoryId": "NA_IN_IN",
+        "baseTax": 0,
+        "basePrice": 0,
+        "flight": null,
+        "currencyCode": "CAD",
+        "taxAndFeesCombined": true
+      },
+      {
+        "classification": "flexible",
+        "loyaltyTier": "FLEXIBLE",
+        "fare": "NHL",
+        "price": 2534,
+        "tax": 332.84,
+        "promoCodes": [
+          "NH_EUR"
+        ],
+        "roomTypeId": "NA_IN",
+        "roomCategoryId": "NA_IN_IN",
+        "baseTax": 0,
+        "basePrice": 0,
+        "flight": null,
+        "currencyCode": "EUR",
+        "taxAndFeesCombined": true
+      },
+      {
+        "classification": "flexible",
+        "loyaltyTier": "FLEXIBLE",
+        "fare": "NHD",
+        "price": 2239,
+        "tax": 291.59,
+        "promoCodes": [
+          "NH_GBP"
+        ],
+        "roomTypeId": "NA_IN",
+        "roomCategoryId": "NA_IN_IN",
+        "baseTax": 0,
+        "basePrice": 0,
+        "flight": null,
+        "currencyCode": "GBP",
+        "taxAndFeesCombined": true
+      },
+      {
+        "classification": "flexible",
+        "loyaltyTier": "FLEXIBLE",
+        "fare": "NHA",
+        "price": 2619,
+        "tax": 145,
+        "promoCodes": [
+          "NH_USD"
+        ],
+        "roomTypeId": "NA_IN",
+        "roomCategoryId": "NA_IN_IN",
+        "baseTax": 0,
+        "basePrice": 0,
+        "flight": null,
+        "currencyCode": "USD",
+        "taxAndFeesCombined": true
+      },
+      {
+        "classification": "restricted",
+        "loyaltyTier": "RESTRICTED",
+        "fare": "QAT",
+        "price": 3814,
+        "tax": 530.27,
+        "promoCodes": [
+          "QA_AUD"
+        ],
+        "roomTypeId": "NA_IN",
+        "roomCategoryId": "NA_IN_IN",
+        "baseTax": 0,
+        "basePrice": 0,
+        "flight": null,
+        "currencyCode": "AUD",
+        "taxAndFeesCombined": true
+      },
+      {
+        "classification": "restricted",
+        "loyaltyTier": "RESTRICTED",
+        "fare": "QAA",
+        "price": 3547,
+        "tax": 199.05,
+        "promoCodes": [
+          "QA_CAD"
+        ],
+        "roomTypeId": "NA_IN",
+        "roomCategoryId": "NA_IN_IN",
+        "baseTax": 0,
+        "basePrice": 0,
+        "flight": null,
+        "currencyCode": "CAD",
+        "taxAndFeesCombined": true
+      },
+      {
+        "classification": "restricted",
+        "loyaltyTier": "RESTRICTED",
+        "fare": "QAA",
+        "price": 2584,
+        "tax": 145,
+        "promoCodes": [
+          "QA_USD"
+        ],
+        "roomTypeId": "NA_IN",
+        "roomCategoryId": "NA_IN_IN",
+        "baseTax": 0,
+        "basePrice": 0,
+        "flight": null,
+        "currencyCode": "USD",
+        "taxAndFeesCombined": true
+      },
+      {
+        "classification": "baseprice",
+        "loyaltyTier": "BASEPRICE",
+        "fare": "NHT",
+        "price": 3884,
+        "tax": 530.27,
+        "promoCodes": [
+          "NH_AUD"
+        ],
+        "roomTypeId": "NA_IN",
+        "roomCategoryId": "NA_IN_IN",
+        "baseTax": 0,
+        "basePrice": 0,
+        "flight": null,
+        "currencyCode": "AUD",
+        "taxAndFeesCombined": true
+      },
+      {
+        "classification": "baseprice",
+        "loyaltyTier": "BASEPRICE",
+        "fare": "NHA",
+        "price": 3595,
+        "tax": 199.05,
+        "promoCodes": [
+          "NH_CAD"
+        ],
+        "roomTypeId": "NA_IN",
+        "roomCategoryId": "NA_IN_IN",
+        "baseTax": 0,
+        "basePrice": 0,
+        "flight": null,
+        "currencyCode": "CAD",
+        "taxAndFeesCombined": true
+      },
+      {
+        "classification": "baseprice",
+        "loyaltyTier": "BASEPRICE",
+        "fare": "NHL",
+        "price": 2534,
+        "tax": 332.84,
+        "promoCodes": [
+          "NH_EUR"
+        ],
+        "roomTypeId": "NA_IN",
+        "roomCategoryId": "NA_IN_IN",
+        "baseTax": 0,
+        "basePrice": 0,
+        "flight": null,
+        "currencyCode": "EUR",
+        "taxAndFeesCombined": true
+      },
+      {
+        "classification": "baseprice",
+        "loyaltyTier": "BASEPRICE",
+        "fare": "NHD",
+        "price": 2239,
+        "tax": 291.59,
+        "promoCodes": [
+          "NH_GBP"
+        ],
+        "roomTypeId": "NA_IN",
+        "roomCategoryId": "NA_IN_IN",
+        "baseTax": 0,
+        "basePrice": 0,
+        "flight": null,
+        "currencyCode": "GBP",
+        "taxAndFeesCombined": true
+      },
+      {
+        "classification": "baseprice",
+        "loyaltyTier": "BASEPRICE",
+        "fare": "NHA",
+        "price": 2619,
+        "tax": 145,
+        "promoCodes": [
+          "NH_USD"
+        ],
+        "roomTypeId": "NA_IN",
+        "roomCategoryId": "NA_IN_IN",
+        "baseTax": 0,
+        "basePrice": 0,
+        "flight": null,
+        "currencyCode": "USD",
+        "taxAndFeesCombined": true
+      }
+    ],
+    "availabilityStatus": null,
+    "documents": null,
+    "portCharges": null,
+    "serviceCharges": null,
+    "isSellable": null
+  }
+]

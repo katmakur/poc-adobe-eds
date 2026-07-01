@@ -1,0 +1,1086 @@
+[
+  {
+    "shipVersion": "8",
+    "id": "AA",
+    "name": "Zaandam",
+    "detailPageName": "Zaandam",
+    "rooms": [
+      {
+        "id": "AA_IN",
+        "name": "Inside",
+        "categories": [
+          {
+            "id": "AA_IN_IN",
+            "name": "Inside",
+            "displayOrder": 1,
+            "subCategories": [
+              {
+                "id": "I",
+                "title": "2 lower beds and sofas convertible to 1 queen-size bed, Bathroom with shower, All L-, N- & NN-category staterooms also have 1 sofa bed & pullman upper, All M- & MM-category staterooms also have 1 sofa bed",
+                "area": "\"Approximately 182-293 sq. ft."
+              },
+              {
+                "id": "J",
+                "title": "2 lower beds convertible to 1 queen-size bed, Bathroom with shower, All L-, N- & NN-category staterooms also have 1 sofa bed & pullman upper, All M- & MM-category staterooms also have 1 sofa bed",
+                "area": "Approximately 182-293 sq. ft."
+              },
+              {
+                "id": "K",
+                "title": "2 lower beds convertible to 1 queen-size bed, Bathroom with shower, All L-, N- & NN-category staterooms also have 1 sofa bed & pullman upper, All M- & MM-category staterooms also have 1 sofa bed",
+                "area": "Approximately 182-293 sq. ft."
+              },
+              {
+                "id": "L",
+                "title": "2 lower beds convertible to 1 queen-size bed, Bathroom with shower, All L-, N- & NN-category staterooms also have 1 sofa bed & pullman upper, All M- & MM-category staterooms also have 1 sofa bed",
+                "area": "Approximately 182-293 sq. ft."
+              },
+              {
+                "id": "M",
+                "title": "2 lower beds convertible to 1 queen-size bed, Bathroom with shower, All L-, N- & NN-category staterooms also have 1 sofa bed & pullman upper, All M- & MM-category staterooms also have 1 sofa bed",
+                "area": "Approximately 182-293 sq. ft."
+              },
+              {
+                "id": "MM",
+                "title": "2 lower beds convertible to 1 queen-size bed, Bathroom with bathtub & shower, All FF-category staterooms also have 1 sofa bed & pullman upper., Category includes rooms with full, porthole, partial and obstructed views.",
+                "area": "Approximately 182-293 sq. ft."
+              },
+              {
+                "id": "N",
+                "title": "2 lower beds convertible to 1 queen-size bed, Bathroom with shower, All L-, N- & NN-category staterooms also have 1 sofa bed & pullman upper, All M- & MM-category staterooms also have 1 sofa bed",
+                "area": "Approximately 182-293 sq. ft."
+              }
+            ],
+            "shortDescription": "Two lower beds convertible to one queen-size bed—our signature Mariner's Dream™ bed with plush Euro-Top mattresses, premium massage shower heads and a host of amenities are featured in these comfortable staterooms.",
+            "longDescription": "Two lower beds convertible to one queen-size bed—our signature Mariner's Dream™ bed with plush Euro-Top mattresses, premium massage shower heads and a host of amenities are featured in these comfortable staterooms.",
+            "amenities": [
+              "2 lower beds convertible to 1 queen-size bed, shower. Approximately 151–233 sq. ft.",
+              "Our signature Mariner's Dream™ bed featuring a plush Euro-Top mattress and finely woven cotton linens",
+              "Luxurious bathrobes for use during your voyage",
+              "100% Egyptian cotton towels",
+              "Premium massage showerheads",
+              "5X magnifying make-up mirrors and salon-quality hair dryers",
+              "Fragrant soaps, lotions, shampoo and other bath amenities from Elemis Aromapure",
+              "Complimentary fresh fruit on request",
+              "Elegant ice bucket and serving tray for in-stateroom beverages",
+              "Video On Demand Interactive TV System",
+              "Ice service, shoeshine service and nightly turndown service"
+            ],
+            "area": ""
+          }
+        ],
+        "shortDescription": "Two lower beds convertible to one queen-size bed—our signature Mariner's Dream™ bed with plush Euro-Top mattresses, premium massage shower heads and a host of amenities are featured in these comfortable staterooms.",
+        "longDescription": "Two lower beds convertible to one queen-size bed—our signature Mariner's Dream™ bed with plush Euro-Top mattresses, premium massage shower heads and a host of amenities are featured in these comfortable staterooms.",
+        "displayOrder": 1
+      },
+      {
+        "id": "AA_OV",
+        "name": "Ocean View",
+        "categories": [
+          {
+            "id": "AA_OV_PSV",
+            "name": "Partial Sea View",
+            "displayOrder": 3,
+            "subCategories": [
+              {
+                "id": "H",
+                "title": "2 lower beds convertible to 1 queen-size bed, Bathroom with bathtub & shower, All FF-category staterooms also have 1 sofa bed & pullman upper., Category includes rooms with full, porthole, partial and obstructed views.",
+                "area": "Approximately 140-319 sq. ft."
+              }
+            ],
+            "shortDescription": "These staterooms feature a partial sea view and include two lower beds convertible to one queen-size bed—our signature Mariner's Dream™ bed with plush Euro-Top mattresses, plus premium massage shower heads and a variety of amenities.",
+            "longDescription": "These staterooms feature a partial sea view and include two lower beds convertible to one queen-size bed—our signature Mariner's Dream™ bed with plush Euro-Top mattresses, plus premium massage shower heads and a variety of amenities.",
+            "amenities": [
+              "2 lower beds convertible to 1 queen-size bed, bathtub & shower. G-category staterooms have partial sea views. Approximately 169–267 sq. ft.",
+              "Our signature Mariner’s Dream™ bed featuring a plush Euro-Top mattress and finely woven cotton linens",
+              "Luxurious bathrobes for use during your voyage",
+              "100% Egyptian cotton towels",
+              "Premium massage showerheads",
+              "5X magnifying make-up mirrors and salon-quality hair dryers",
+              "Fragrant soaps, lotions, shampoo and other bath amenities from Elemis Aromapure",
+              "Complimentary fresh fruit on request",
+              "Elegant ice bucket and serving tray for in-stateroom beverages",
+              "Flat-panel TV and DVD player",
+              "Ice service, shoeshine service and nightly turndown service"
+            ],
+            "area": ""
+          },
+          {
+            "id": "AA_OV_PH",
+            "name": "Port Hole",
+            "displayOrder": 4,
+            "subCategories": [
+              {
+                "id": "G",
+                "title": "2 lower beds convertible to 1 queen-size bed, Bathroom with bathtub & shower, All FF-category staterooms also have 1 sofa bed & pullman upper., Category includes rooms with full, porthole, partial and obstructed views.",
+                "area": "Approximately 140-319 sq. ft."
+              }
+            ],
+            "shortDescription": "These spacious staterooms include include two lower beds convertible to one queen-size bed—our Signature Mariner's Dream™ bed with plush Euro-Top mattresses, premium massage shower heads, an array of modern amenities and a porthole.",
+            "longDescription": "These spacious staterooms include include two lower beds convertible to one queen-size bed—our Signature Mariner's Dream™ bed with plush Euro-Top mattresses, premium massage shower heads, an array of modern amenities and a porthole.",
+            "amenities": [
+              "2 lower beds convertible to 1 queen-size bed, bathtub, shower. These staterooms have portholes instead of windows. Approximately 174–255 sq. ft.",
+              "Our signature Mariner\"s Dream™ bed featuring a plush Euro-Top mattress and finely woven cotton linens",
+              "Luxurious bathrobes for use during your voyage",
+              "100% Egyptian cotton towels",
+              "Premium massage showerheads",
+              "5X magnifying make-up mirrors and salon-quality hair dryers",
+              "Fragrant soaps, lotions, shampoo and other bath amenities from Elemis Aromapure",
+              "Complimentary fresh fruit on request",
+              "Elegant ice bucket and serving tray for in-stateroom beverages",
+              "Flat-panel TV and DVD player",
+              "Ice service, shoeshine service and nightly turndown service."
+            ],
+            "area": ""
+          },
+          {
+            "id": "AA_OV_FOV",
+            "name": "Fully Obstructed View",
+            "displayOrder": 2,
+            "subCategories": [
+              {
+                "id": "HH",
+                "title": "2 lower beds convertible to 1 queen-size bed, Bathroom with bathtub & shower, All FF-category staterooms also have 1 sofa bed & pullman upper., Category includes rooms with full, porthole, partial and obstructed views.",
+                "area": "Approximately 140-319 sq. ft."
+              }
+            ],
+            "shortDescription": "These large staterooms include two lower beds convertible to one queen-size bed—our Signature Mariner's Dream™ bed with plush Euro-Top mattresses, premium massage shower heads and a host of amenities. The view is fully obstructed.",
+            "longDescription": "These large staterooms include two lower beds convertible to one queen-size bed—our Signature Mariner's Dream™ bed with plush Euro-Top mattresses, premium massage shower heads and a host of amenities. The view is fully obstructed.",
+            "amenities": [
+              "2 lower beds convertible to 1 queen-size bed, bathtub & shower. GG-, H- & HH-category staterooms have fully obstructed views. Approximately 169–267 sq. ft.",
+              "Our signature Mariner’s Dream™ bed featuring a plush Euro-Top mattress and finely woven cotton linens",
+              "Luxurious bathrobes for use during your voyage",
+              "100% Egyptian cotton towels",
+              "Premium massage showerheads",
+              "5X magnifying make-up mirrors and salon-quality hair dryers",
+              "Fragrant soaps, lotions, shampoo and other bath amenities from Elemis Aromapure",
+              "Complimentary fresh fruit on request",
+              "Elegant ice bucket and serving tray for in-stateroom beverages",
+              "Flat-panel TV and DVD player",
+              "Ice service, shoeshine service and nightly turndown service"
+            ],
+            "area": ""
+          },
+          {
+            "id": "AA_OV_OV",
+            "name": "Ocean View",
+            "displayOrder": 5,
+            "subCategories": [
+              {
+                "id": "C",
+                "title": "2 lower beds convertible to 1 queen-size bed, Bathroom with bathtub & shower, All FF-category staterooms also have 1 sofa bed & pullman upper., Category includes rooms with full, porthole, partial and obstructed views.",
+                "area": "Approximately 140-319 sq. ft."
+              },
+              {
+                "id": "D",
+                "title": "2 lower beds convertible to 1 queen-size bed, Bathroom with bathtub & shower, All FF-category staterooms also have 1 sofa bed & pullman upper., Category includes rooms with full, porthole, partial and obstructed views.",
+                "area": "Approximately 140-319 sq. ft."
+              },
+              {
+                "id": "DA",
+                "title": "2 lower beds convertible to 1 queen-size bed, Bathroom with bathtub & shower, All FF-category staterooms also have 1 sofa bed & pullman upper., Category includes rooms with full, porthole, partial and obstructed views.",
+                "area": "Approximately 140-319 sq. ft."
+              },
+              {
+                "id": "DD",
+                "title": "2 lower beds convertible to 1 queen-size bed, Bathroom with bathtub & shower, All FF-category staterooms also have 1 sofa bed & pullman upper., Category includes rooms with full, porthole, partial and obstructed views.",
+                "area": "Approximately 140-319 sq. ft."
+              },
+              {
+                "id": "E",
+                "title": "2 lower beds convertible to 1 queen-size bed, Bathroom with bathtub & shower, All FF-category staterooms also have 1 sofa bed & pullman upper., Category includes rooms with full, porthole, partial and obstructed views.",
+                "area": "Approximately 140-319 sq. ft."
+              },
+              {
+                "id": "EE",
+                "title": "2 lower beds convertible to 1 queen-size bed, Bathroom with bathtub & shower, All FF-category staterooms also have 1 sofa bed & pullman upper., Category includes rooms with full, porthole, partial and obstructed views.",
+                "area": "Approximately 140-319 sq. ft."
+              },
+              {
+                "id": "F",
+                "title": "2 lower beds convertible to 1 queen-size bed, Bathroom with bathtub & shower, All FF-category staterooms also have 1 sofa bed & pullman upper., Category includes rooms with full, porthole, partial and obstructed views.",
+                "area": "Approximately 140-319 sq. ft."
+              },
+              {
+                "id": "FF",
+                "title": "2 lower beds convertible to 1 queen-size bed, Bathroom with bathtub & shower, All FF-category staterooms also have 1 sofa bed & pullman upper., Category includes rooms with full, porthole, partial and obstructed views.",
+                "area": "Approximately 140-319 sq. ft."
+              }
+            ],
+            "shortDescription": "These expansive staterooms include include two lower beds convertible to one queen-size bed—our Signature Mariner's Dream™ bed with plush Euro-Top mattresses, premium massage shower heads, a host of amenities and an ocean view.",
+            "longDescription": "These expansive staterooms include include two lower beds convertible to one queen-size bed—our Signature Mariner's Dream™ bed with plush Euro-Top mattresses, premium massage shower heads, a host of amenities and an ocean view.",
+            "amenities": [
+              "2 lower beds convertible to 1 queen-size bed, bathtub, shower. Approximately 174–255 sq. ft.",
+              "Our signature Mariner’s Dream™ bed featuring a plush Euro-Top mattress and finely woven cotton linens",
+              "Luxurious bathrobes for use during your voyage",
+              "100% Egyptian cotton towels",
+              "Premium massage showerheads",
+              "5X magnifying make-up mirrors and salon-quality hair dryers",
+              "Fragrant soaps, lotions, shampoo and other bath amenities from Elemis Aromapure",
+              "Complimentary fresh fruit on request",
+              "Elegant ice bucket and serving tray for in-stateroom beverages",
+              "Flat-panel TV and DVD player",
+              "Ice service, shoeshine service and nightly turndown service"
+            ],
+            "area": ""
+          }
+        ],
+        "shortDescription": "These expansive staterooms include include two lower beds convertible to one queen-size bed—our Signature Mariner's Dream™ bed with plush Euro-Top mattresses, premium massage shower heads, a host of amenities and an ocean view.",
+        "longDescription": "These expansive staterooms include include two lower beds convertible to one queen-size bed—our Signature Mariner's Dream™ bed with plush Euro-Top mattresses, premium massage shower heads, a host of amenities and an ocean view.",
+        "displayOrder": 2
+      },
+      {
+        "id": "AA_VS",
+        "name": "Vista Suite",
+        "categories": [
+          {
+            "id": "AA_VS_VS",
+            "name": "Vista Suite",
+            "displayOrder": 6,
+            "subCategories": [
+              {
+                "id": "A",
+                "title": "2 lower beds convertible to 1 queen-size bed, Bathroom with whirlpool bath & shower, Floor-to-ceiling windows, with full ocean views, Private verandah, Sitting area, No-host mini-bar, refrigerator, All A-category staterooms also have 1 sofa bed",
+                "area": "Approximately 297-379 sq. ft. including verandah."
+              },
+              {
+                "id": "AA",
+                "title": "2 lower beds convertible to 1 queen-size bed, Bathroom with whirlpool bath & shower, Floor-to-ceiling windows, with full ocean views, Private verandah, Sitting area, No-host mini-bar, refrigerator, All A-category staterooms also have 1 sofa bed",
+                "area": "Approximately 297-379 sq. ft. including verandah."
+              },
+              {
+                "id": "B",
+                "title": "2 lower beds convertible to 1 queen-size bed, Bathroom with whirlpool bath & shower, Floor-to-ceiling windows, with full ocean views, Private verandah, Sitting area, No-host mini-bar, refrigerator, All A-category staterooms also have 1 sofa bed",
+                "area": "Approximately 297-379 sq. ft. including verandah."
+              },
+              {
+                "id": "BB",
+                "title": "2 lower beds convertible to 1 queen-size bed, Bathroom with whirlpool bath & shower, Floor-to-ceiling windows, with full ocean views, Private verandah, Sitting area, No-host mini-bar, refrigerator, All A-category staterooms also have 1 sofa bed",
+                "area": "Approximately 297-379 sq. ft. including verandah."
+              },
+              {
+                "id": "BC",
+                "title": "2 lower beds convertible to 1 queen-size bed, Bathroom with whirlpool bath & shower, Floor-to-ceiling windows, with full ocean views, Private verandah, Sitting area, No-host mini-bar, refrigerator, All A-category staterooms also have 1 sofa bed",
+                "area": "Approximately 297-379 sq. ft. including verandah."
+              }
+            ],
+            "shortDescription": "With a teak-lined verandah, floor-to-ceiling windows and comfortable sitting area, these comfortable suites are filled with light. They include two lower beds convertible to one queen-size bed—our signature Mariner's Dream™ bed with plush Euro-Top mattresses, plus a whirlpool bath and shower, mini-bar and refrigerator.",
+            "longDescription": "With a teak-lined verandah, floor-to-ceiling windows and comfortable sitting area, these comfortable suites are filled with light. They include two lower beds convertible to one queen-size bed—our signature Mariner's Dream™ bed with plush Euro-Top mattresses, plus a whirlpool bath and shower, mini-bar and refrigerator.",
+            "amenities": [
+              "2 lower beds convertible to 1 queen-size bed, whirlpool bath & shower, sitting area, private verandah, mini-bar, refrigerator, floor-to-ceiling windows. Approximately 292 sq. ft. including verandah.",
+              "Include all the stateroom amenities, plus:",
+              "Teak-lined private verandah",
+              "A variety of firm, medium and soft pillows",
+              "Premium duvet; oversized bath towels; and soft, cotton bathrobes and slippers",
+              "No-host mini-bar for easy entertaining",
+              "Personalized cruise stationery",
+              "One-touch telephone concierge service",
+              "Fresh flowers",
+              "Umbrellas for your use on the cruise",
+              "Our signature Mariner's Dream™ bed featuring a plush Euro-Top mattress and finely woven cotton linens",
+              "Luxurious bathrobes for use during your voyage",
+              "100% Egyptian cotton towels",
+              "Premium massage showerheads",
+              "5X magnifying make-up mirrors and salon-quality hair dryers",
+              "Fragrant soaps, lotions, shampoo and other bath amenities from Elemis Aromapure",
+              "Complimentary fresh fruit on request",
+              "Elegant ice bucket and serving tray for in-stateroom beverages",
+              "Flat-panel TV and DVD player",
+              "Complimentary DVD library",
+              "Ice service, shoeshine service and nightly turndown service"
+            ],
+            "area": ""
+          }
+        ],
+        "shortDescription": "With a verandah, floor-to-ceiling windows and comfortable sitting area, these comfortable suites are filled with light. They include two lower beds convertible to one queen-size bed—our signature Mariner's Dream™ bed with plush Euro-Top mattresses, plus a whirlpool bath and shower, mini-bar and refrigerator.",
+        "longDescription": "With a verandah, floor-to-ceiling windows and comfortable sitting area, these comfortable suites are filled with light. They include two lower beds convertible to one queen-size bed—our signature Mariner's Dream™ bed with plush Euro-Top mattresses, plus a whirlpool bath and shower, mini-bar and refrigerator.",
+        "displayOrder": 3
+      },
+      {
+        "id": "AA_NS",
+        "name": "Neptune Suite",
+        "categories": [
+          {
+            "id": "AA_NS_PS",
+            "name": "Pinnacle Suite",
+            "displayOrder": 8,
+            "subCategories": [
+              {
+                "id": "PS",
+                "title": "Bedroom with 1 king-size bed, Oversize whirlpool bath & shower, Floor-to-ceiling windows, with full ocean views, Private verandah, Living room, dining room, dressing room, private verandah, pantry, guest toilet, No-host mini-bar, refrigerator, Sofa bed for 2 persons",
+                "area": "Approximately 1,296 sq. ft. including verandah."
+              }
+            ],
+            "shortDescription": "Generously proportioned and filled with light, these elegant suites include a living room, dining room, pantry with microwave, refrigerator and built-in bar, and floor-to-ceiling windows overlooking a private verandah with whirlpool. The bedroom features a king-size bed—our Signature Mariner's Dream™ bed with plush Euro-Top mattresses, and the bath includes an oversize whirlpool bath and shower as well as an additional shower stall. There's also a sofa bed, suitable for two people, and a guest toilet. Amenities include a private stereo system, use of the exclusive Neptune Lounge, private concierge and an array of complimentary services.",
+            "longDescription": "Generously proportioned and filled with light, these elegant suites include a living room, dining room, pantry with microwave, refrigerator and built-in bar, and floor-to-ceiling windows overlooking a private verandah with whirlpool. The bedroom features a king-size bed—our Signature Mariner's Dream™ bed with plush Euro-Top mattresses, and the bath includes an oversize whirlpool bath and shower as well as an additional shower stall. There's also a sofa bed, suitable for two people, and a guest toilet. Amenities include a private stereo system, use of the exclusive Neptune Lounge, private concierge and an array of complimentary services.",
+            "amenities": [
+              "Bedroom with 1 king-size bed, oversize whirlpool bath & shower & additional shower stall, living room, dining room, dressing room, private verandah with whirlpool, pantry, 1 sofa bed for 2 persons, microwave, refrigerator, guest toilet, private stereo system, floor-to-ceiling windows. Approximately 1,290 sq. ft. including verandah.",
+              "Includes all the stateroom & suite amenities, plus:",
+              "Bose® Bluetooth-enabled Soundlink",
+              "Complimentary mimosas with in-suite breakfast",
+              "Premium duvet, and soft, cotton bathrobes and slippers",
+              "Binoculars for use during voyage",
+              "Expanded line of Elemis bath amenities",
+              "In-suite coffee and espresso machine",
+              "Complimentary laundry, pressing and dry cleaning throughout your cruise",
+              "Gorgeous corsages and boutonnieres for the first formal night",
+              "Hors d'oeuvres served before dinner each evening on request",
+              "Umbrellas for your use on the cruise",
+              "Priority boarding for tender ports of call",
+              "Special disembarkation service",
+              "Priority dining and seating requests",
+              "Exclusive daily breakfast service for suite guests only",
+              "Video On Demand Interactive TV System",
+              "High tea service in suite on request",
+              "A special Suite guest lunch event on cruises over 7 days in length",
+              "A very special amenity exclusively for guests cruising in a Neptune or Pinnacle Suite, the industry-leading Neptune Lounge features a private place to relax, socialize with other suite guests and enjoy the personalized service of a concierge. The fleet-wide lounges provide worktables, large screen television, library, sofas and chairs, refreshments throughout the day and wi-fi for a small charge. One-Touch 24-hour Concierge Service is available when the Neptune Lounge is closed."
+            ],
+            "area": ""
+          },
+          {
+            "id": "AA_NS_NS",
+            "name": "Neptune Suite",
+            "displayOrder": 7,
+            "subCategories": [],
+            "shortDescription": "With floor-to-ceiling windows overlooking a private verandah, these spacious suites are flooded with light. They feature a large sitting area and two lower beds convertible to one king-size bed—our signature Mariner's Dream™ bed with plush Euro-Top mattresses. The bathroom comes with a dual-sink vanity, full-size whirlpool bath and shower, plus additional shower stall. Amenities include use of the exclusive Neptune Lounge, a private concierge and an array of complimentary services.",
+            "longDescription": "With floor-to-ceiling windows overlooking a private verandah, these spacious suites are flooded with light. They feature a large sitting area and two lower beds convertible to one king-size bed—our signature Mariner's Dream™ bed with plush Euro-Top mattresses. The bathroom comes with a dual-sink vanity, full-size whirlpool bath and shower, plus additional shower stall. Amenities include use of the exclusive Neptune Lounge, a private concierge and an array of complimentary services.",
+            "amenities": [
+              "2 lower beds convertible to 1 king-size bed, bathroom with dual-sink vanity, full-size whirlpool bath & shower & additional shower stall, large sitting area, private verandah, floor-to-ceiling windows. Approximately 465–855 sq. ft. including verandah.",
+              "Includes all the stateroom & suite amenities, plus:",
+              "Bose® Bluetooth-enabled Soundlink",
+              "Complimentary mimosas with in-suite breakfast",
+              "Premium duvet, and soft, cotton bathrobes and slippers",
+              "Binoculars for use during voyage",
+              "Expanded line of Elemis bath amenities",
+              "In-suite coffee and espresso machine",
+              "Complimentary laundry, pressing and dry cleaning throughout your cruise",
+              "Gorgeous corsages and boutonnieres for the first formal night",
+              "Hors d'oeuvres served before dinner each evening on request",
+              "Umbrellas for your use on the cruise",
+              "Priority boarding for tender ports of call",
+              "Special disembarkation service",
+              "Priority dining and seating requests",
+              "Exclusive daily breakfast service for suite guests only",
+              "Video On Demand Interactive TV System",
+              "High tea service in suite on request",
+              "A special Suite guest lunch event on cruises over 7 days in length",
+              "A very special amenity exclusively for guests cruising in a Neptune or Pinnacle Suite, the industry-leading Neptune Lounge features a private place to relax, socialize with other suite guests and enjoy the personalized service of a concierge. The fleet-wide lounges provide worktables, large screen television, library, sofas and chairs, refreshments throughout the day and wi-fi for a small charge. One-Touch 24-hour Concierge Service is available when the Neptune Lounge is closed."
+            ],
+            "area": ""
+          }
+        ],
+        "shortDescription": "With floor-to-ceiling windows overlooking a private verandah, these spacious suites are flooded with light. They feature a large sitting area and two lower beds convertible to one king-size bed—our signature Mariner's Dream™ bed with plush Euro-Top mattresses. The bathroom comes with a dual-sink vanity, full-size whirlpool bath and shower, plus additional shower stall. Amenities include use of the exclusive Neptune Lounge, a private concierge and an array of complimentary services.",
+        "longDescription": "With floor-to-ceiling windows overlooking a private verandah, these spacious suites are flooded with light. They feature a large sitting area and two lower beds convertible to one king-size bed—our signature Mariner's Dream™ bed with plush Euro-Top mattresses. The bathroom comes with a dual-sink vanity, full-size whirlpool bath and shower, plus additional shower stall. Amenities include use of the exclusive Neptune Lounge, a private concierge and an array of complimentary services.",
+        "displayOrder": 4
+      }
+    ],
+    "guests": "1432",
+    "crew": "",
+    "cabins": "",
+    "length": "781 ft.",
+    "width": "105.8 ft.",
+    "speed": "24 kt.",
+    "dedicationDate": "",
+    "buildDate": "",
+    "remodelDate": "",
+    "dedicatedBy": "",
+    "maxGuests": 4,
+    "shortDescription": "Designed to carry fewer guests while offering greater space, Zaandam is elegant and comfortable. Her décor is inspired by music and features musical instruments including signed guitars from Queen, Iggy Pop, Eric Clapton and the Rolling Stones and a Baroque-style pipe organ. While on-board, enjoy cooking shows and hands-on workshops with America’s Test Kitchen. Rejuvenate at the Greenhouse Spa & Salon. Indulge at any of our fine dining venues.",
+    "longDescription": "Designed to carry fewer guests while offering greater space, Zaandam is elegant and comfortable. Her décor is inspired by music and features musical instruments including signed guitars from Queen, Iggy Pop, Eric Clapton and the Rolling Stones and a Baroque-style pipe organ. While on-board, enjoy cooking shows and hands-on workshops with America’s Test Kitchen. Rejuvenate at the Greenhouse Spa & Salon. Indulge at any of our fine dining venues.",
+    "status": "active",
+    "deck": [
+      {
+        "id": 1,
+        "title": "Dolphin",
+        "description": "",
+        "features": []
+      },
+      {
+        "id": 2,
+        "title": "Main",
+        "description": "",
+        "features": []
+      },
+      {
+        "id": 3,
+        "title": "Lower Promenade",
+        "description": "",
+        "features": []
+      },
+      {
+        "id": 4,
+        "title": "Promenade",
+        "description": "",
+        "features": []
+      },
+      {
+        "id": 5,
+        "title": "Upper Promenade",
+        "description": "",
+        "features": []
+      },
+      {
+        "id": 6,
+        "title": "Verandah",
+        "description": "",
+        "features": []
+      },
+      {
+        "id": 7,
+        "title": "Navigation",
+        "description": "",
+        "features": []
+      },
+      {
+        "id": 8,
+        "title": "Lido",
+        "description": "",
+        "features": []
+      },
+      {
+        "id": 9,
+        "title": "Sports",
+        "description": "",
+        "features": []
+      },
+      {
+        "id": 10,
+        "title": "Sky",
+        "description": "",
+        "features": []
+      }
+    ],
+    "section": [
+      {
+        "id": "A",
+        "title": "Aft",
+        "description": ""
+      },
+      {
+        "id": "M",
+        "title": "Mid",
+        "description": ""
+      },
+      {
+        "id": "F",
+        "title": "Fwd",
+        "description": ""
+      }
+    ]
+  },
+  {
+    "shipVersion": "0",
+    "id": "ED",
+    "name": "Eurodam",
+    "detailPageName": "Eurodam",
+    "rooms": [
+      {
+        "id": "ED_IN",
+        "name": "Inside",
+        "categories": [
+          {
+            "id": "ED_IN_SIN",
+            "name": "Spa Inside",
+            "displayOrder": 3,
+            "subCategories": [
+              {
+                "id": "IQ",
+                "title": "2 lower beds convertible to 1 queen-size bed, Bathroom with shower",
+                "area": "Approximately 141-284 sq. ft."
+              }
+            ],
+            "shortDescription": "These staterooms feature spa amenities such as yoga mats and an iPod® docking station and include access to spa treatments from the Greenhouse Spa & Salon. There are two lower beds convertible to one queen-size bed—our Signature Mariner's Dream™ bed with plush Euro-Top mattresses.",
+            "longDescription": "These staterooms feature spa amenities such as yoga mats and an iPod® docking station and include access to spa treatments from the Greenhouse Spa & Salon. There are two lower beds convertible to one queen-size bed—our Signature Mariner's Dream™ bed with plush Euro-Top mattresses.",
+            "amenities": [
+              "2 lower beds convertible to 1 queen-size bed, shower. Approximately 143–225 sq. ft.",
+              "Our signature Mariner's Dream™ bed featuring finely woven cotton linens",
+              "Deluxe waffle weave and terry cloth bathrobes for use during your voyage",
+              "100% Egyptian cotton towels",
+              "Premium massage showerhead",
+              "5X magnifying make-up mirror and salon-quality hair dryer",
+              "Fragrant soaps, lotions, shampoo and other bath amenities from Elemis Aromapure",
+              "Complimentary fresh fruit on request",
+              "Elegant ice bucket and serving tray for in-stateroom beverages",
+              "Video On Demand Interactive TV System",
+              "Ice service, shoeshine service and nightly turndown service"
+            ],
+            "area": ""
+          },
+          {
+            "id": "ED_IN_IN",
+            "name": "Inside",
+            "displayOrder": 1,
+            "subCategories": [
+              {
+                "id": "I",
+                "title": "2 lower beds convertible to 1 queen-size bed, Bathroom with shower",
+                "area": "Approximately 141-284 sq. ft."
+              },
+              {
+                "id": "K",
+                "title": "2 lower beds convertible to 1 queen-size bed, Bathroom with shower",
+                "area": "Approximately 141-284 sq. ft."
+              },
+              {
+                "id": "L",
+                "title": "2 lower beds convertible to 1 queen-size bed, Bathroom with shower",
+                "area": "Approximately 141-284 sq. ft."
+              },
+              {
+                "id": "M",
+                "title": "2 lower beds convertible to 1 queen-size bed, Bathroom with shower",
+                "area": "Approximately 141-284 sq. ft."
+              },
+              {
+                "id": "MM",
+                "title": "2 lower beds convertible to 1 queen-size bed, Bathroom with shower",
+                "area": "Approximately 141-284 sq. ft."
+              },
+              {
+                "id": "N",
+                "title": "2 lower beds convertible to 1 queen-size bed, Bathroom with shower",
+                "area": "Approximately 141-284 sq. ft."
+              }
+            ],
+            "shortDescription": "Two lower beds convertible to one queen-size bed—our signature Mariner's Dream™ bed with plush Euro-Top mattresses, premium massage shower heads and a host of amenities are featured in these comfortable staterooms.",
+            "longDescription": "Two lower beds convertible to one queen-size bed—our signature Mariner's Dream™ bed with plush Euro-Top mattresses, premium massage shower heads and a host of amenities are featured in these comfortable staterooms.",
+            "amenities": [
+              "2 lower beds convertible to 1 queen-size bed, shower. Approximately 151–233 sq. ft.",
+              "Our signature Mariner’s Dream™ bed featuring a plush Euro-Top mattress and finely woven cotton linens",
+              "Luxurious bathrobes for use during your voyage",
+              "100% Egyptian cotton towels",
+              "Premium massage showerheads",
+              "5X magnifying make-up mirrors and salon-quality hair dryers",
+              "Fragrant soaps, lotions, shampoo and other bath amenities from Elemis Aromapure",
+              "Complimentary fresh fruit on request",
+              "Elegant ice bucket and serving tray for in-stateroom beverages",
+              "Video On Demand Interactive TV System",
+              "Ice service, shoeshine service and nightly turndown service"
+            ],
+            "area": ""
+          },
+          {
+            "id": "ED_IN_LIN",
+            "name": "Large Inside",
+            "displayOrder": 2,
+            "subCategories": [
+              {
+                "id": "J",
+                "title": "2 lower beds convertible to 1 queen-size bed, Bathroom with shower",
+                "area": "Approximately 141-284 sq. ft."
+              }
+            ],
+            "shortDescription": "These spacious staterooms include two lower beds convertible to one queen-size bed—our Signature Mariner's Dream™ bed with plush Euro-Top mattresses, premium massage shower heads and a host of amenities.",
+            "longDescription": "These spacious staterooms include two lower beds convertible to one queen-size bed—our Signature Mariner's Dream™ bed with plush Euro-Top mattresses, premium massage shower heads and a host of amenities.",
+            "amenities": [
+              "2 lower beds convertible to 1 queen-size bed, shower. Approximately 151–233 sq. ft.",
+              "Our signature Mariner’s Dream™ bed featuring a plush Euro-Top mattress and finely woven cotton linens",
+              "Luxurious bathrobes for use during your voyage",
+              "100% Egyptian cotton towels",
+              "Premium massage showerheads",
+              "5X magnifying make-up mirrors and salon-quality hair dryers",
+              "Fragrant soaps, lotions, shampoo and other bath amenities from Elemis Aromapure",
+              "Complimentary fresh fruit on request",
+              "Elegant ice bucket and serving tray for in-stateroom beverages",
+              "Flat-panel TV and DVD player",
+              "Ice service, shoeshine service and nightly turndown service"
+            ],
+            "area": ""
+          }
+        ],
+        "shortDescription": "Two lower beds convertible to one queen-size bed—our signature Mariner's Dream™ bed with plush Euro-Top mattresses, premium massage shower heads and a host of amenities are featured in these comfortable staterooms.",
+        "longDescription": "Two lower beds convertible to one queen-size bed—our signature Mariner's Dream™ bed with plush Euro-Top mattresses, premium massage shower heads and a host of amenities are featured in these comfortable staterooms.",
+        "displayOrder": 1
+      },
+      {
+        "id": "ED_OV",
+        "name": "Ocean View",
+        "categories": [
+          {
+            "id": "ED_OV_FOV",
+            "name": "Fully Obstructed View",
+            "displayOrder": 4,
+            "subCategories": [
+              {
+                "id": "H",
+                "title": "2 lower beds convertible to 1 queen-size bed, Bathroom with bathtub & shower, Category includes rooms with full, partial and obstructed views.",
+                "area": "Approximately 169-267 sq. ft."
+              },
+              {
+                "id": "HH",
+                "title": "2 lower beds convertible to 1 queen-size bed, Bathroom with bathtub & shower, Category includes rooms with full, partial and obstructed views.",
+                "area": "Approximately 169-267 sq. ft."
+              }
+            ],
+            "shortDescription": "These large staterooms include two lower beds convertible to one queen-size bed—our Signature Mariner's Dream™ bed with plush Euro-Top mattresses, premium massage shower heads and a host of amenities. The view is fully obstructed.",
+            "longDescription": "These large staterooms include two lower beds convertible to one queen-size bed—our Signature Mariner's Dream™ bed with plush Euro-Top mattresses, premium massage shower heads and a host of amenities. The view is fully obstructed.",
+            "amenities": [
+              "2 lower beds convertible to 1 queen-size bed, bathtub & shower. GG-, H- & HH-category staterooms have fully obstructed views. Approximately 169–267 sq. ft.",
+              "Our signature Mariner’s Dream™ bed featuring a plush Euro-Top mattress and finely woven cotton linens",
+              "Luxurious bathrobes for use during your voyage",
+              "100% Egyptian cotton towels",
+              "Premium massage showerheads",
+              "5X magnifying make-up mirrors and salon-quality hair dryers",
+              "Fragrant soaps, lotions, shampoo and other bath amenities from Elemis Aromapure",
+              "Complimentary fresh fruit on request",
+              "Elegant ice bucket and serving tray for in-stateroom beverages",
+              "Flat-panel TV and DVD player",
+              "Ice service, shoeshine service and nightly turndown service"
+            ],
+            "area": ""
+          },
+          {
+            "id": "ED_OV_SOV",
+            "name": "Spa Ocean View",
+            "displayOrder": 7,
+            "subCategories": [
+              {
+                "id": "CQ",
+                "title": "2 lower beds convertible to 1 queen-size bed, Bathroom with bathtub & shower, Category includes rooms with full, partial and obstructed views.",
+                "area": "Approximately 169-267 sq. ft."
+              }
+            ],
+            "shortDescription": "These ocean-view staterooms offer spa amenities such as yoga mats and an iPod® docking station, with exclusive spa treatments from the nearby Greenhouse Spa and Salon. It includes two lower beds convertible to one queen-size bed—our signature Mariner's Dream™ bed with plush Euro-Top mattresses, a bathtub and shower.",
+            "longDescription": "These ocean-view staterooms offer spa amenities such as yoga mats and an iPod® docking station, with exclusive spa treatments from the nearby Greenhouse Spa and Salon. It includes two lower beds convertible to one queen-size bed—our signature Mariner's Dream™ bed with plush Euro-Top mattresses, a bathtub and shower.",
+            "amenities": [
+              "2 lower beds convertible to 1 queen-size bed, shower. Approximately 175–282 sq. ft.",
+              "Our signature Mariner's Dream™ bed featuring finely woven cotton linens",
+              "Deluxe waffle weave and terry cloth bathrobes for use during your voyage",
+              "100% Egyptian cotton towels",
+              "Premium massage showerheads",
+              "5X magnifying make-up mirrors and salon-quality hair dryers",
+              "Fragrant soaps, lotions, shampoo and other bath amenities from Elemis Aromapure",
+              "Complimentary fresh fruit on request",
+              "Elegant ice bucket and serving tray for in-stateroom beverages",
+              "Video On Demand Interactive TV System",
+              "Ice service, shoeshine service and nightly turndown service"
+            ],
+            "area": ""
+          },
+          {
+            "id": "ED_OV_OV",
+            "name": "Ocean View",
+            "displayOrder": 6,
+            "subCategories": [
+              {
+                "id": "C",
+                "title": "2 lower beds convertible to 1 queen-size bed, Bathroom with bathtub & shower, Category includes rooms with full, partial and obstructed views.",
+                "area": "Approximately 169-267 sq. ft."
+              },
+              {
+                "id": "D",
+                "title": "2 lower beds convertible to 1 queen-size bed, Bathroom with bathtub & shower, Category includes rooms with full, partial and obstructed views.",
+                "area": "Approximately 169-267 sq. ft."
+              },
+              {
+                "id": "DD",
+                "title": "2 lower beds convertible to 1 queen-size bed, Bathroom with bathtub & shower, Category includes rooms with full, partial and obstructed views.",
+                "area": "Approximately 169-267 sq. ft."
+              },
+              {
+                "id": "E",
+                "title": "2 lower beds convertible to 1 queen-size bed, Bathroom with bathtub & shower, Category includes rooms with full, partial and obstructed views.",
+                "area": "Approximately 169-267 sq. ft."
+              },
+              {
+                "id": "F",
+                "title": "2 lower beds convertible to 1 queen-size bed, Bathroom with bathtub & shower, Category includes rooms with full, partial and obstructed views.",
+                "area": "Approximately 169-267 sq. ft."
+              }
+            ],
+            "shortDescription": "These expansive staterooms include include two lower beds convertible to one queen-size bed—our Signature Mariner's Dream™ bed with plush Euro-Top mattresses, premium massage shower heads, a host of amenities and an ocean view.",
+            "longDescription": "These expansive staterooms include include two lower beds convertible to one queen-size bed—our Signature Mariner's Dream™ bed with plush Euro-Top mattresses, premium massage shower heads, a host of amenities and an ocean view.",
+            "amenities": [
+              "2 lower beds convertible to 1 queen-size bed, bathtub, shower. Approximately 174–255 sq. ft.",
+              "Our signature Mariner’s Dream™ bed featuring a plush Euro-Top mattress and finely woven cotton linens",
+              "Luxurious bathrobes for use during your voyage",
+              "100% Egyptian cotton towels",
+              "Premium massage showerheads",
+              "5X magnifying make-up mirrors and salon-quality hair dryers",
+              "Fragrant soaps, lotions, shampoo and other bath amenities from Elemis Aromapure",
+              "Complimentary fresh fruit on request",
+              "Elegant ice bucket and serving tray for in-stateroom beverages",
+              "Flat-panel TV and DVD player",
+              "Ice service, shoeshine service and nightly turndown service"
+            ],
+            "area": ""
+          },
+          {
+            "id": "ED_OV_PSV",
+            "name": "Partial Sea View",
+            "displayOrder": 5,
+            "subCategories": [
+              {
+                "id": "G",
+                "title": "2 lower beds convertible to 1 queen-size bed, Bathroom with bathtub & shower, Category includes rooms with full, partial and obstructed views.",
+                "area": "Approximately 169-267 sq. ft."
+              }
+            ],
+            "shortDescription": "These staterooms feature a partial sea view and include two lower beds convertible to one queen-size bed—our signature Mariner's Dream™ bed with plush Euro-Top mattresses, plus premium massage shower heads and a variety of amenities.",
+            "longDescription": "These staterooms feature a partial sea view and include two lower beds convertible to one queen-size bed—our signature Mariner's Dream™ bed with plush Euro-Top mattresses, plus premium massage shower heads and a variety of amenities.",
+            "amenities": [
+              "2 lower beds convertible to 1 queen-size bed, bathtub & shower. G-category staterooms have partial sea views. Approximately 169–267 sq. ft.",
+              "Our signature Mariner’s Dream™ bed featuring a plush Euro-Top mattress and finely woven cotton linens",
+              "Luxurious bathrobes for use during your voyage",
+              "100% Egyptian cotton towels",
+              "Premium massage showerheads",
+              "5X magnifying make-up mirrors and salon-quality hair dryers",
+              "Fragrant soaps, lotions, shampoo and other bath amenities from Elemis Aromapure",
+              "Complimentary fresh fruit on request",
+              "Elegant ice bucket and serving tray for in-stateroom beverages",
+              "Flat-panel TV and DVD player",
+              "Ice service, shoeshine service and nightly turndown service"
+            ],
+            "area": ""
+          }
+        ],
+        "shortDescription": "These expansive staterooms include include two lower beds convertible to one queen-size bed—our Signature Mariner's Dream™ bed with plush Euro-Top mattresses, premium massage shower heads, a host of amenities and an ocean view.",
+        "longDescription": "These expansive staterooms include include two lower beds convertible to one queen-size bed—our Signature Mariner's Dream™ bed with plush Euro-Top mattresses, premium massage shower heads, a host of amenities and an ocean view.",
+        "displayOrder": 2
+      },
+      {
+        "id": "ED_VN",
+        "name": "Verandah",
+        "categories": [
+          {
+            "id": "ED_VN_SVN",
+            "name": "Spa Verandah",
+            "displayOrder": 9,
+            "subCategories": [
+              {
+                "id": "VQ",
+                "title": "2 lower beds convertible to 1 queen-size bed, Bathroom with bathtub & shower, Floor-to-ceiling windows, with full ocean views, Private verandah or viewing balcony, Sitting area",
+                "area": "Approximately 213-379 sq. ft. including verandah."
+              }
+            ],
+            "shortDescription": "With floor-to-ceiling windows and a private verandah, these light-infused staterooms feature two lower beds convertible to one queen-size bed—our Signature Mariner's Dream™ bed with plush Euro-Top mattresses, premium massage shower heads and thoughtful amenities.",
+            "longDescription": "With floor-to-ceiling windows and a private verandah, these light-infused staterooms feature two lower beds convertible to one queen-size bed—our Signature Mariner's Dream™ bed with plush Euro-Top mattresses, premium massage shower heads and thoughtful amenities.",
+            "amenities": [
+              "2 lower beds convertible to 1 queen-size bed, shower, sitting area, private verandah, floor-to-ceiling windows. Approximately 228–420 sq. ft. including verandah.",
+              "Our signature Mariner's Dream™ bed featuring finely woven cotton linens",
+              "Luxurious bathrobes for use during your voyage",
+              "100% Egyptian cotton towels",
+              "Premium massage showerhead",
+              "5x magnifying lighted make-up mirror and salon-quality hair dryer",
+              "Fragrant soaps, lotions, shampoo and other bath amenities from Elemis Aromapure",
+              "Complimentary fresh fruit on request",
+              "Elegant ice bucket and serving tray for in-stateroom beverages",
+              "Video On Demand Interactive TV System",
+              "Ice service, shoeshine service and nightly turndown service "
+            ],
+            "area": ""
+          },
+          {
+            "id": "ED_VN_VN",
+            "name": "Verandah",
+            "displayOrder": 8,
+            "subCategories": [
+              {
+                "id": "V",
+                "title": "2 lower beds convertible to 1 queen-size bed, Bathroom with bathtub & shower, Floor-to-ceiling windows, with full ocean views, Private verandah or viewing balcony, Sitting area",
+                "area": "Approximately 213-379 sq. ft. including verandah."
+              },
+              {
+                "id": "VA",
+                "title": "2 lower beds convertible to 1 queen-size bed, Bathroom with bathtub & shower, Floor-to-ceiling windows, with full ocean views, Private verandah or viewing balcony, Sitting area",
+                "area": "Approximately 213-379 sq. ft. including verandah."
+              },
+              {
+                "id": "VB",
+                "title": "2 lower beds convertible to 1 queen-size bed, Bathroom with bathtub & shower, Floor-to-ceiling windows, with full ocean views, Private verandah or viewing balcony, Sitting area",
+                "area": "Approximately 213-379 sq. ft. including verandah."
+              },
+              {
+                "id": "VC",
+                "title": "2 lower beds convertible to 1 queen-size bed, Bathroom with bathtub & shower, Floor-to-ceiling windows, with full ocean views, Private verandah or viewing balcony, Sitting area",
+                "area": "Approximately 213-379 sq. ft. including verandah."
+              },
+              {
+                "id": "VD",
+                "title": "2 lower beds convertible to 1 queen-size bed, Bathroom with bathtub & shower, Floor-to-ceiling windows, with full ocean views, Private verandah or viewing balcony, Sitting area",
+                "area": "Approximately 213-379 sq. ft. including verandah."
+              },
+              {
+                "id": "VE",
+                "title": "2 lower beds convertible to 1 queen-size bed, Bathroom with bathtub & shower, Floor-to-ceiling windows, with full ocean views, Private verandah or viewing balcony, Sitting area",
+                "area": "Approximately 213-379 sq. ft. including verandah."
+              },
+              {
+                "id": "VF",
+                "title": "2 lower beds convertible to 1 queen-size bed, Bathroom with bathtub & shower, Floor-to-ceiling windows, with full ocean views, Private verandah or viewing balcony, Sitting area",
+                "area": "Approximately 213-379 sq. ft. including verandah."
+              },
+              {
+                "id": "VT",
+                "title": "2 lower beds convertible to 1 queen-size bed, Bathroom with bathtub & shower, Floor-to-ceiling windows, with full ocean views, Private verandah or viewing balcony, Sitting area",
+                "area": "Approximately 213-379 sq. ft. including verandah."
+              }
+            ],
+            "shortDescription": "Filled with light from floor-to-ceiling windows overlooking a private verandah, these staterooms include a sitting area, two lower beds convertible to one queen-size bed—our signature Mariner's Dream™ bed with plush Euro-Top mattresses, and bath tub with premium massage showerheads.",
+            "longDescription": "Filled with light from floor-to-ceiling windows overlooking a private verandah, these staterooms include a sitting area, two lower beds convertible to one queen-size bed—our signature Mariner's Dream™ bed with plush Euro-Top mattresses, and bath tub with premium massage showerheads.",
+            "amenities": [
+              "2 lower beds convertible to 1 queen-size bed, bathtub, shower, sitting area, private verandah, floor-to-ceiling windows. Approximately 213–379 sq. ft. including verandah.",
+              "Our signature Mariner's Dream™ bed featuring a plush Euro-Top mattress and finely woven cotton linens",
+              "Luxurious bathrobes for use during your voyage",
+              "100% Egyptian cotton towels",
+              "Premium massage showerheads",
+              "5X magnifying make-up mirrors and salon-quality hair dryers",
+              "Fragrant soaps, lotions, shampoo and other bath amenities from Elemis Aromapure",
+              "Complimentary fresh fruit on request",
+              "Elegant ice bucket and serving tray for in-stateroom beverages",
+              "Flat-panel TV and DVD player",
+              "Complimentary DVD library",
+              "Ice service, shoeshine service and nightly turndown service"
+            ],
+            "area": ""
+          }
+        ],
+        "shortDescription": "Filled with light from floor-to-ceiling windows overlooking a private verandah, these staterooms include a sitting area, two lower beds convertible to one queen-size bed—our signature Mariner's Dream™ bed with plush Euro-Top mattresses, and bath tub with premium massage showerheads.",
+        "longDescription": "Filled with light from floor-to-ceiling windows overlooking a private verandah, these staterooms include a sitting area, two lower beds convertible to one queen-size bed—our signature Mariner's Dream™ bed with plush Euro-Top mattresses, and bath tub with premium massage showerheads.",
+        "displayOrder": 3
+      },
+      {
+        "id": "ED_SS",
+        "name": "Signature Suite",
+        "categories": [
+          {
+            "id": "ED_SS_SS",
+            "name": "Signature Suite",
+            "displayOrder": 10,
+            "subCategories": [
+              {
+                "id": "SS",
+                "title": "2 lower beds convertible to 1 queen-size bed, Bathroom with whirlpool bath & shower with additional shower stall and dual sink vanity, Floor-to-ceiling windows, with full ocean views, Private verandah, Large sitting area, Sofa bed for 1 person",
+                "area": "Approximately 273-456 sq. ft. including verandah."
+              },
+              {
+                "id": "SY",
+                "title": "2 lower beds convertible to 1 queen-size bed, Bathroom with whirlpool bath & shower with additional shower stall and dual sink vanity, Floor-to-ceiling windows, with full ocean views, Private verandah, Large sitting area, Sofa bed for 1 person",
+                "area": "Approximately 273-456 sq. ft. including verandah."
+              },
+              {
+                "id": "SU",
+                "title": "2 lower beds convertible to 1 queen-size bed, Bathroom with whirlpool bath & shower with additional shower stall and dual sink vanity, Floor-to-ceiling windows, with full ocean views, Private verandah, Large sitting area, Sofa bed for 1 person",
+                "area": "Approximately 273-456 sq. ft. including verandah."
+              },
+              {
+                "id": "SZ",
+                "title": "2 lower beds convertible to 1 queen-size bed, Bathroom with whirlpool bath & shower with additional shower stall and dual sink vanity, Floor-to-ceiling windows, with full ocean views, Private verandah, Large sitting area, Sofa bed for 1 person",
+                "area": "Approximately 273-456 sq. ft. including verandah."
+              }
+            ],
+            "shortDescription": "These large, comfortable suites feature a spacious sitting area with floor-to-ceiling windows overlooking a private verandah, two lower beds convertible to one queen-size bed—our signature Mariner's Dream™ bed with plush Euro-Top mattresses, and one murphy bed for one person. The bathroom includes a dual-sink vanity, full-size whirlpool bath and shower, and an additional shower stall.",
+            "longDescription": "These large, comfortable suites feature a spacious sitting area with floor-to-ceiling windows overlooking a private verandah, two lower beds convertible to one queen-size bed—our signature Mariner's Dream™ bed with plush Euro-Top mattresses, and one murphy bed for one person. The bathroom includes a dual-sink vanity, full-size whirlpool bath and shower, and an additional shower stall.",
+            "amenities": [
+              "2 lower beds convertible to 1 queen-size bed, 1 Murphy bed for 1 person, 1 sofa bed for 1 person, bathroom with dual-sink vanity, full-size whirlpool bath & shower & additional shower stall, large sitting area, private verandah, floor-to-ceiling windows. Approximately 393–400 sq. ft. including verandah.",
+              "Include all the stateroom amenities, plus:",
+              "Premium duvet, and soft, cotton bathrobes and slippers",
+              "Binoculars for use during voyage",
+              "A variety of firm, medium and soft pillows",
+              "No-host mini-bar for easy entertaining",
+              "Oversized bath towels",
+              "Video On Demand Interactive TV System",
+              "One-touch telephone concierge service",
+              "Fresh flowers"
+            ],
+            "area": ""
+          }
+        ],
+        "shortDescription": "These large, comfortable suites feature a spacious sitting area with floor-to-ceiling windows overlooking a private verandah, two lower beds convertible to one queen-size bed—our signature Mariner's Dream™ bed with plush Euro-Top mattresses, and one murphy bed for one person. The bathroom includes a dual-sink vanity, full-size whirlpool bath and shower, and an additional shower stall.",
+        "longDescription": "These large, comfortable suites feature a spacious sitting area with floor-to-ceiling windows overlooking a private verandah, two lower beds convertible to one queen-size bed—our signature Mariner's Dream™ bed with plush Euro-Top mattresses, and one murphy bed for one person. The bathroom includes a dual-sink vanity, full-size whirlpool bath and shower, and an additional shower stall.",
+        "displayOrder": 4
+      },
+      {
+        "id": "ED_NS",
+        "name": "Neptune Suite",
+        "categories": [
+          {
+            "id": "ED_NS_PS",
+            "name": "Pinnacle Suite",
+            "displayOrder": 12,
+            "subCategories": [
+              {
+                "id": "PS",
+                "title": "Bedroom with 1 king-size bed, Bathroom with oversized whirlpool bath & shower with an additional shower stall, Floor-to-ceiling windows, with full ocean views, Private verandah with whirlpool, Living room, dining room, dressing room, guest toilet, Microwave, refrigerator, pantry and private stereo system, Sofa bed for 2 persons",
+                "area": "Approximately 1,357 sq. ft. including verandah."
+              }
+            ],
+            "shortDescription": "Generously proportioned and filled with light, these elegant suites include a living room, dining room, pantry with microwave, refrigerator and built-in bar, and floor-to-ceiling windows overlooking a private verandah with whirlpool. The bedroom features a king-size bed—our Signature Mariner's Dream™ bed with plush Euro-Top mattresses, and the bath includes an oversize whirlpool bath and shower as well as an additional shower stall. There's also a sofa bed, suitable for two people, and a guest toilet. Amenities include a private stereo system, use of the exclusive Neptune Lounge, private concierge and an array of complimentary services.",
+            "longDescription": "Generously proportioned and filled with light, these elegant suites include a living room, dining room, pantry with microwave, refrigerator and built-in bar, and floor-to-ceiling windows overlooking a private verandah with whirlpool. The bedroom features a king-size bed—our Signature Mariner's Dream™ bed with plush Euro-Top mattresses, and the bath includes an oversize whirlpool bath and shower as well as an additional shower stall. There's also a sofa bed, suitable for two people, and a guest toilet. Amenities include a private stereo system, use of the exclusive Neptune Lounge, private concierge and an array of complimentary services.",
+            "amenities": [
+              "Bedroom with 1 king-size bed, oversize whirlpool bath & shower & additional shower stall, living room, dining room, dressing room, private verandah with whirlpool, pantry, 1 sofa bed for 2 persons, microwave, refrigerator, guest toilet, private stereo system, floor-to-ceiling windows. Approximately 1,290 sq. ft. including verandah.",
+              "Includes all the stateroom & suite amenities, plus:",
+              "Bose® Bluetooth-enabled Soundlink",
+              "Complimentary mimosas with in-suite breakfast",
+              "Premium duvet, and soft, cotton bathrobes and slippers",
+              "Binoculars for use during voyage",
+              "Expanded line of Elemis bath amenities",
+              "In-suite coffee and espresso machine",
+              "Complimentary laundry, pressing and dry cleaning throughout your cruise",
+              "Gorgeous corsages and boutonnieres for the first formal night",
+              "Hors d'oeuvres served before dinner each evening on request",
+              "Umbrellas for your use on the cruise",
+              "Priority boarding for tender ports of call",
+              "Special disembarkation service",
+              "Priority dining and seating requests",
+              "Exclusive daily breakfast service for suite guests only",
+              "Video On Demand Interactive TV System",
+              "High tea service in suite on request",
+              "A special Suite guest lunch event on cruises over 7 days in length",
+              "A very special amenity exclusively for guests cruising in a Neptune or Pinnacle Suite, the industry-leading Neptune Lounge features a private place to relax, socialize with other suite guests and enjoy the personalized service of a concierge. The fleet-wide lounges provide worktables, large screen television, library, sofas and chairs, refreshments throughout the day and wi-fi for a small charge. One-Touch 24-hour Concierge Service is available when the Neptune Lounge is closed."
+            ],
+            "area": ""
+          },
+          {
+            "id": "ED_NS_NS",
+            "name": "Neptune Suite",
+            "displayOrder": 11,
+            "subCategories": [
+              {
+                "id": "SA",
+                "title": "2 lower beds convertible to 1 king-size bed, Bathroom with whirlpool bath & shower with additional shower stall and dual sink vanity, Floor-to-ceiling windows, with full ocean views, Private verandah, Large sitting area, dressing room, Sofa bed for 2 persons",
+                "area": "Approximately 506-590 sq. ft. including verandah."
+              },
+              {
+                "id": "SB",
+                "title": "2 lower beds convertible to 1 king-size bed, Bathroom with whirlpool bath & shower with additional shower stall and dual sink vanity, Floor-to-ceiling windows, with full ocean views, Private verandah, Large sitting area, dressing room, Sofa bed for 2 persons",
+                "area": "Approximately 506-590 sq. ft. including verandah."
+              },
+              {
+                "id": "SC",
+                "title": "2 lower beds convertible to 1 king-size bed, Bathroom with whirlpool bath & shower with additional shower stall and dual sink vanity, Floor-to-ceiling windows, with full ocean views, Private verandah, Large sitting area, dressing room, Sofa bed for 2 persons",
+                "area": "Approximately 506-590 sq. ft. including verandah."
+              }
+            ],
+            "shortDescription": "With floor-to-ceiling windows overlooking a private verandah, these spacious suites are flooded with light. They feature a large sitting area and two lower beds convertible to one king-size bed—our signature Mariner's Dream™ bed with plush Euro-Top mattresses. The bathroom comes with a dual-sink vanity, full-size whirlpool bath and shower, plus additional shower stall. Amenities include use of the exclusive Neptune Lounge, a private concierge and an array of complimentary services.",
+            "longDescription": "With floor-to-ceiling windows overlooking a private verandah, these spacious suites are flooded with light. They feature a large sitting area and two lower beds convertible to one king-size bed—our signature Mariner's Dream™ bed with plush Euro-Top mattresses. The bathroom comes with a dual-sink vanity, full-size whirlpool bath and shower, plus additional shower stall. Amenities include use of the exclusive Neptune Lounge, a private concierge and an array of complimentary services.",
+            "amenities": [
+              "2 lower beds convertible to 1 king-size bed, bathroom with dual-sink vanity, full-size whirlpool bath & shower & additional shower stall, large sitting area, private verandah, floor-to-ceiling windows. Approximately 465–855 sq. ft. including verandah.",
+              "Includes all the stateroom & suite amenities, plus:",
+              "Bose® Bluetooth-enabled Soundlink",
+              "Complimentary mimosas with in-suite breakfast",
+              "Premium duvet, and soft, cotton bathrobes and slippers",
+              "Binoculars for use during voyage",
+              "Expanded line of Elemis bath amenities",
+              "In-suite coffee and espresso machine",
+              "Complimentary laundry, pressing and dry cleaning throughout your cruise",
+              "Gorgeous corsages and boutonnieres for the first formal night",
+              "Hors d'oeuvres served before dinner each evening on request",
+              "Umbrellas for your use on the cruise",
+              "Priority boarding for tender ports of call",
+              "Special disembarkation service",
+              "Priority dining and seating requests",
+              "Exclusive daily breakfast service for suite guests only",
+              "Video On Demand Interactive TV System",
+              "High tea service in suite on request",
+              "A special Suite guest lunch event on cruises over 7 days in length",
+              "A very special amenity exclusively for guests cruising in a Neptune or Pinnacle Suite, the industry-leading Neptune Lounge features a private place to relax, socialize with other suite guests and enjoy the personalized service of a concierge. The fleet-wide lounges provide worktables, large screen television, library, sofas and chairs, refreshments throughout the day and wi-fi for a small charge. One-Touch 24-hour Concierge Service is available when the Neptune Lounge is closed."
+            ],
+            "area": ""
+          }
+        ],
+        "shortDescription": "With floor-to-ceiling windows overlooking a private verandah, these spacious suites are flooded with light. They feature a large sitting area and two lower beds convertible to one king-size bed—our signature Mariner's Dream™ bed with plush Euro-Top mattresses. The bathroom comes with a dual-sink vanity, full-size whirlpool bath and shower, plus additional shower stall. Amenities include use of the exclusive Neptune Lounge, a private concierge and an array of complimentary services.",
+        "longDescription": "With floor-to-ceiling windows overlooking a private verandah, these spacious suites are flooded with light. They feature a large sitting area and two lower beds convertible to one king-size bed—our signature Mariner's Dream™ bed with plush Euro-Top mattresses. The bathroom comes with a dual-sink vanity, full-size whirlpool bath and shower, plus additional shower stall. Amenities include use of the exclusive Neptune Lounge, a private concierge and an array of complimentary services.",
+        "displayOrder": 5
+      }
+    ],
+    "guests": "2104",
+    "crew": "",
+    "cabins": "",
+    "length": "936 ft.",
+    "width": "105.8 ft.",
+    "speed": "23.9 kt.",
+    "dedicationDate": "July 2008",
+    "buildDate": "",
+    "remodelDate": "",
+    "dedicatedBy": "H.M. Queen Beatrix of the Netherlands",
+    "maxGuests": 4,
+    "shortDescription": "Holland America Line’s first Signature-class ship, Eurodam has recently received many exciting updates. Guests on this graceful ship can enjoy the full Music Walk™ experience, including Lincoln Center Stage, B.B. King’s Blues Club and Billboard Onboard. Explore onboard at a cooking class or hands-on workshop with America’s Test Kitchen, BBC Earth Experiences and a Digital Workshop Powered by Windows®. Dine in your choice of specialty restaurants.",
+    "longDescription": "Holland America Line’s first Signature-class ship, Eurodam has recently received many exciting updates. Guests on this graceful ship can enjoy the full Music Walk™ experience, including Lincoln Center Stage, B.B. King’s Blues Club and Billboard Onboard. Explore onboard at a cooking class or hands-on workshop with America’s Test Kitchen, BBC Earth Experiences and a Digital Workshop Powered by Windows®. Dine in your choice of specialty restaurants.",
+    "status": "active",
+    "deck": [
+      {
+        "id": 1,
+        "title": "Main",
+        "description": "",
+        "features": []
+      },
+      {
+        "id": 2,
+        "title": "Lower Promenade",
+        "description": "",
+        "features": []
+      },
+      {
+        "id": 3,
+        "title": "Promenade",
+        "description": "",
+        "features": []
+      },
+      {
+        "id": 4,
+        "title": "Upper Promenade",
+        "description": "",
+        "features": []
+      },
+      {
+        "id": 5,
+        "title": "Verandah",
+        "description": "",
+        "features": []
+      },
+      {
+        "id": 6,
+        "title": "Upper Verandah",
+        "description": "",
+        "features": []
+      },
+      {
+        "id": 7,
+        "title": "Rotterdam",
+        "description": "",
+        "features": []
+      },
+      {
+        "id": 8,
+        "title": "Navigation",
+        "description": "",
+        "features": []
+      },
+      {
+        "id": 9,
+        "title": "Lido",
+        "description": "",
+        "features": []
+      },
+      {
+        "id": 10,
+        "title": "Panorama",
+        "description": "",
+        "features": []
+      },
+      {
+        "id": 11,
+        "title": "Observation",
+        "description": "",
+        "features": []
+      }
+    ],
+    "section": [
+      {
+        "id": "A",
+        "title": "Aft",
+        "description": ""
+      },
+      {
+        "id": "M",
+        "title": "Mid",
+        "description": ""
+      },
+      {
+        "id": "F",
+        "title": "Fwd",
+        "description": ""
+      }
+    ]
+  }
+]
