@@ -8,6 +8,7 @@
           "title": "Hero",
           "id": "hero",
           "description": "Full-width hero with image or video background",
+          "model": "hero",
           "plugins": {
             "xwalk": {
               "page": {
@@ -21,6 +22,7 @@
           "title": "Promo Cards",
           "id": "promo-cards",
           "description": "3-card layout with large image and CTA",
+          "model": "promo-cards",
           "plugins": {
             "xwalk": {
               "page": {
@@ -34,6 +36,7 @@
           "title": "Cards",
           "id": "cards",
           "description": "Grid of content cards with image and text",
+          "model": "cards",
           "plugins": {
             "xwalk": {
               "page": {
@@ -47,6 +50,7 @@
           "title": "Columns",
           "id": "columns",
           "description": "Multi-column layout",
+          "model": "columns",
           "plugins": {
             "xwalk": {
               "page": {
@@ -60,6 +64,7 @@
           "title": "Fragment",
           "id": "fragment",
           "description": "Embed content from another page",
+          "model": "fragment",
           "plugins": {
             "xwalk": {
               "page": {
