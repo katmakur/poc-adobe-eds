@@ -86,6 +86,7 @@ function toggleMenu(nav, navSections, forceExpanded = null) {
         if (!drop.hasAttribute('tabindex')) {
           drop.setAttribute('tabindex', 0);
           drop.addEventListener('focus', focusNavSection);
+
         }
       });
     } else {
