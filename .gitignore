@@ -2,6 +2,7 @@
 coverage/*
 logs/*
 node_modules/*
+byom/node_modules/*
 
 helix-importer-ui
 .DS_Store
@@ -11,3 +12,6 @@ helix-importer-ui
 # Ensure these files are tracked
 !CLAUDE.md
 !AGENTS.md
+
+# Large prod feed files (not needed in repo)
+feed/prod-feed/

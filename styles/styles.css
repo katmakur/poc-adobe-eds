@@ -25,6 +25,9 @@
   --footer-bg-color: #1a2b49;
   --footer-text-color: #fff;
   --border-color: #d1d9e6;
+  --page-bg-color: #024;
+  --cta-color: #e87722;
+  --cta-hover-color: #cc6619;
 
   /* fonts */
   --body-font-family: roboto, roboto-fallback, sans-serif;
@@ -80,7 +83,7 @@
 body {
   display: none;
   margin: 0;
-  background-color: var(--background-color);
+  background-color: var(--page-bg-color);
   color: var(--text-color);
   font-family: var(--body-font-family);
   font-size: var(--body-font-size-m);
