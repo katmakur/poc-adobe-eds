@@ -1,0 +1,119 @@
+[
+  {
+    "id": "hero",
+    "fields": [
+      {
+        "component": "reference",
+        "name": "media",
+        "label": "Image or Video",
+        "valueType": "string",
+        "description": "Upload an image or paste a video URL (.mp4)"
+      },
+      {
+        "component": "text",
+        "name": "heading",
+        "label": "Heading",
+        "valueType": "string"
+      },
+      {
+        "component": "text",
+        "name": "subtext",
+        "label": "Subtext",
+        "valueType": "string"
+      },
+      {
+        "component": "text",
+        "name": "ctaText",
+        "label": "CTA Button Text",
+        "valueType": "string"
+      },
+      {
+        "component": "text",
+        "name": "ctaLink",
+        "label": "CTA Button Link",
+        "valueType": "string"
+      }
+    ]
+  },
+  {
+    "id": "promo-cards",
+    "fields": [
+      {
+        "component": "reference",
+        "name": "image",
+        "label": "Card Image",
+        "valueType": "string"
+      },
+      {
+        "component": "text",
+        "name": "title",
+        "label": "Card Title",
+        "valueType": "string"
+      },
+      {
+        "component": "text",
+        "name": "description",
+        "label": "Card Description",
+        "valueType": "string"
+      },
+      {
+        "component": "text",
+        "name": "ctaText",
+        "label": "CTA Text",
+        "valueType": "string"
+      },
+      {
+        "component": "text",
+        "name": "ctaLink",
+        "label": "CTA Link",
+        "valueType": "string"
+      }
+    ]
+  },
+  {
+    "id": "cards",
+    "fields": [
+      {
+        "component": "reference",
+        "name": "image",
+        "label": "Image",
+        "valueType": "string"
+      },
+      {
+        "component": "richtext",
+        "name": "text",
+        "label": "Text",
+        "valueType": "string"
+      }
+    ]
+  },
+  {
+    "id": "columns",
+    "fields": [
+      {
+        "component": "richtext",
+        "name": "column1",
+        "label": "Column 1",
+        "valueType": "string"
+      },
+      {
+        "component": "richtext",
+        "name": "column2",
+        "label": "Column 2",
+        "valueType": "string"
+      }
+    ]
+  },
+  {
+    "id": "fragment",
+    "fields": [
+      {
+        "component": "text",
+        "name": "reference",
+        "label": "Fragment Path",
+        "valueType": "string",
+        "description": "Path to the content fragment (e.g., /fragments/promo-banner)"
+      }
+    ]
+  }
+]

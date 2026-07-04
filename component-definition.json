@@ -1,0 +1,75 @@
+{
+  "groups": [
+    {
+      "title": "Content",
+      "id": "content",
+      "components": [
+        {
+          "title": "Hero",
+          "id": "hero",
+          "description": "Full-width hero with image or video background",
+          "plugins": {
+            "xwalk": {
+              "page": {
+                "resourceType": "core/franklin/components/block",
+                "template": {}
+              }
+            }
+          }
+        },
+        {
+          "title": "Promo Cards",
+          "id": "promo-cards",
+          "description": "3-card layout with large image and CTA",
+          "plugins": {
+            "xwalk": {
+              "page": {
+                "resourceType": "core/franklin/components/block",
+                "template": {}
+              }
+            }
+          }
+        },
+        {
+          "title": "Cards",
+          "id": "cards",
+          "description": "Grid of content cards with image and text",
+          "plugins": {
+            "xwalk": {
+              "page": {
+                "resourceType": "core/franklin/components/block",
+                "template": {}
+              }
+            }
+          }
+        },
+        {
+          "title": "Columns",
+          "id": "columns",
+          "description": "Multi-column layout",
+          "plugins": {
+            "xwalk": {
+              "page": {
+                "resourceType": "core/franklin/components/block",
+                "template": {}
+              }
+            }
+          }
+        },
+        {
+          "title": "Fragment",
+          "id": "fragment",
+          "description": "Embed content from another page",
+          "plugins": {
+            "xwalk": {
+              "page": {
+                "resourceType": "core/franklin/components/block",
+                "template": {}
+              }
+            }
+          }
+        }
+      ]
+    }
+  ]
+}

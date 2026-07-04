@@ -1,0 +1,12 @@
+[
+  {
+    "id": "section",
+    "components": [
+      "hero",
+      "promo-cards",
+      "cards",
+      "columns",
+      "fragment"
+    ]
+  }
+]
