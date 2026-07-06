@@ -327,6 +327,20 @@ app.get('/find-a-cruise', (req, res) => {
   res.json(list);
 });
 
+// Proxy for Fusion search (avoids CORS issues in local dev)
+app.get('/api/cruise-search', async (req, res) => {
+  const queryString = new URLSearchParams(req.query).toString();
+  const fusionUrl = `https://www.hollandamerica.com/search/halcruisesearch?${queryString}`;
+  try {
+    const response = await fetch(fusionUrl);
+    const data = await response.json();
+    res.setHeader('Access-Control-Allow-Origin', '*');
+    res.json(data);
+  } catch (error) {
+    res.status(502).json({ error: 'Failed to fetch from Fusion' });
+  }
+});
+
 app.listen(PORT, () => {
   console.log(`BYOM Service running at http://localhost:${PORT}`);
   console.log(`Loaded: ${cruises.length} cruises, ${ships.length} ships, ${ports.length} ports, ${excursions.length} excursions`);
