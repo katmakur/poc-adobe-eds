@@ -73,6 +73,124 @@
               }
             }
           }
+        },
+        {
+          "title": "Itinerary Table",
+          "id": "itinerary-table",
+          "description": "Day-by-day port itinerary displayed as a styled timeline",
+          "model": "itinerary-table",
+          "plugins": {
+            "xwalk": {
+              "page": {
+                "resourceType": "core/franklin/components/block",
+                "template": {}
+              }
+            }
+          }
+        },
+        {
+          "title": "Cruise Ship Reference",
+          "id": "cruise-ship-reference",
+          "description": "Linked ship card shown on cruise pages",
+          "model": "cruise-ship-reference",
+          "plugins": {
+            "xwalk": {
+              "page": {
+                "resourceType": "core/franklin/components/block",
+                "template": {}
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "title": "Detail Pages (Feed Pipeline)",
+      "id": "detail-pages",
+      "components": [
+        {
+          "title": "Cruise Detail",
+          "id": "cruise-detail",
+          "description": "Full cruise details — populated by feed pipeline",
+          "model": "cruise-detail",
+          "plugins": {
+            "xwalk": {
+              "page": {
+                "resourceType": "core/franklin/components/block",
+                "template": {}
+              }
+            }
+          }
+        },
+        {
+          "title": "Ship Detail",
+          "id": "ship-detail",
+          "description": "Ship specifications and overview — populated by feed pipeline",
+          "model": "ship-detail",
+          "plugins": {
+            "xwalk": {
+              "page": {
+                "resourceType": "core/franklin/components/block",
+                "template": {}
+              }
+            }
+          }
+        },
+        {
+          "title": "Room Detail",
+          "id": "room-detail",
+          "description": "Stateroom category details — populated by feed pipeline",
+          "model": "room-detail",
+          "plugins": {
+            "xwalk": {
+              "page": {
+                "resourceType": "core/franklin/components/block",
+                "template": {}
+              }
+            }
+          }
+        },
+        {
+          "title": "Excursion Detail",
+          "id": "excursion-detail",
+          "description": "Shore excursion details — populated by feed pipeline",
+          "model": "excursion-detail",
+          "plugins": {
+            "xwalk": {
+              "page": {
+                "resourceType": "core/franklin/components/block",
+                "template": {}
+              }
+            }
+          }
+        },
+        {
+          "title": "Cruise Itinerary",
+          "id": "cruise-itinerary",
+          "description": "Port-by-port itinerary timeline — populated by feed pipeline",
+          "model": "cruise-itinerary",
+          "plugins": {
+            "xwalk": {
+              "page": {
+                "resourceType": "core/franklin/components/block",
+                "template": {}
+              }
+            }
+          }
+        },
+        {
+          "title": "Cruise Excursions",
+          "id": "cruise-excursions",
+          "description": "List of available shore excursions — populated by feed pipeline",
+          "model": "cruise-excursions",
+          "plugins": {
+            "xwalk": {
+              "page": {
+                "resourceType": "core/franklin/components/block",
+                "template": {}
+              }
+            }
+          }
         }
       ]
     }

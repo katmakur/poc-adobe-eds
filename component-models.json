@@ -115,5 +115,377 @@
         "description": "Path to the content fragment (e.g., /fragments/promo-banner)"
       }
     ]
+  },
+  {
+    "id": "itinerary-table",
+    "fields": [
+      {
+        "component": "text",
+        "name": "day",
+        "label": "Day Number",
+        "valueType": "string",
+        "description": "e.g., Day 1, Day 2"
+      },
+      {
+        "component": "richtext",
+        "name": "portDetails",
+        "label": "Port Details",
+        "valueType": "string",
+        "description": "Port name, arrival/departure times"
+      }
+    ]
+  },
+  {
+    "id": "cruise-ship-reference",
+    "fields": [
+      {
+        "component": "text",
+        "name": "shipName",
+        "label": "Ship Name",
+        "valueType": "string"
+      },
+      {
+        "component": "text",
+        "name": "guests",
+        "label": "Guest Capacity",
+        "valueType": "string"
+      },
+      {
+        "component": "text",
+        "name": "version",
+        "label": "Ship Version/Year",
+        "valueType": "string"
+      },
+      {
+        "component": "text",
+        "name": "shipPageUrl",
+        "label": "Ship Page URL",
+        "valueType": "string",
+        "description": "Link to the ship detail page"
+      }
+    ]
+  },
+  {
+    "id": "cruise-detail",
+    "fields": [
+      {
+        "component": "text",
+        "name": "cruiseId",
+        "label": "Cruise ID",
+        "valueType": "string"
+      },
+      {
+        "component": "text",
+        "name": "itineraryId",
+        "label": "Itinerary ID",
+        "valueType": "string"
+      },
+      {
+        "component": "text",
+        "name": "name",
+        "label": "Cruise Name",
+        "valueType": "string"
+      },
+      {
+        "component": "text",
+        "name": "nightName",
+        "label": "Night Name",
+        "valueType": "string",
+        "description": "e.g., 7-Night Western Caribbean"
+      },
+      {
+        "component": "text",
+        "name": "shipName",
+        "label": "Ship Name",
+        "valueType": "string"
+      },
+      {
+        "component": "text",
+        "name": "duration",
+        "label": "Duration (nights)",
+        "valueType": "string"
+      },
+      {
+        "component": "text",
+        "name": "departDate",
+        "label": "Departure Date",
+        "valueType": "string",
+        "description": "ISO date format (YYYY-MM-DD)"
+      },
+      {
+        "component": "text",
+        "name": "arrivalDate",
+        "label": "Arrival Date",
+        "valueType": "string"
+      },
+      {
+        "component": "text",
+        "name": "departPort",
+        "label": "Departure Port",
+        "valueType": "string"
+      },
+      {
+        "component": "text",
+        "name": "arrivalPort",
+        "label": "Arrival Port",
+        "valueType": "string"
+      },
+      {
+        "component": "text",
+        "name": "soldOut",
+        "label": "Sold Out",
+        "valueType": "string",
+        "description": "true or false"
+      },
+      {
+        "component": "text",
+        "name": "portList",
+        "label": "Ports of Call",
+        "valueType": "string",
+        "description": "Comma-separated list of ports"
+      }
+    ]
+  },
+  {
+    "id": "ship-detail",
+    "fields": [
+      {
+        "component": "text",
+        "name": "shipId",
+        "label": "Ship ID",
+        "valueType": "string"
+      },
+      {
+        "component": "text",
+        "name": "name",
+        "label": "Ship Name",
+        "valueType": "string"
+      },
+      {
+        "component": "text",
+        "name": "version",
+        "label": "Version/Year",
+        "valueType": "string"
+      },
+      {
+        "component": "text",
+        "name": "guests",
+        "label": "Guest Capacity",
+        "valueType": "string"
+      },
+      {
+        "component": "text",
+        "name": "length",
+        "label": "Length",
+        "valueType": "string"
+      },
+      {
+        "component": "text",
+        "name": "width",
+        "label": "Width/Beam",
+        "valueType": "string"
+      },
+      {
+        "component": "text",
+        "name": "speed",
+        "label": "Speed",
+        "valueType": "string"
+      },
+      {
+        "component": "text",
+        "name": "roomSummary",
+        "label": "Room Summary",
+        "valueType": "string"
+      },
+      {
+        "component": "text",
+        "name": "description",
+        "label": "Description",
+        "valueType": "string"
+      }
+    ]
+  },
+  {
+    "id": "room-detail",
+    "fields": [
+      {
+        "component": "text",
+        "name": "shipId",
+        "label": "Ship ID",
+        "valueType": "string"
+      },
+      {
+        "component": "text",
+        "name": "shipName",
+        "label": "Ship Name",
+        "valueType": "string"
+      },
+      {
+        "component": "text",
+        "name": "shipVersion",
+        "label": "Ship Version",
+        "valueType": "string"
+      },
+      {
+        "component": "text",
+        "name": "roomTypeId",
+        "label": "Room Type ID",
+        "valueType": "string"
+      },
+      {
+        "component": "text",
+        "name": "roomTypeName",
+        "label": "Room Type Name",
+        "valueType": "string"
+      },
+      {
+        "component": "text",
+        "name": "categoryId",
+        "label": "Category ID",
+        "valueType": "string"
+      },
+      {
+        "component": "text",
+        "name": "categoryName",
+        "label": "Category Name",
+        "valueType": "string"
+      },
+      {
+        "component": "text",
+        "name": "shortDescription",
+        "label": "Short Description",
+        "valueType": "string"
+      },
+      {
+        "component": "text",
+        "name": "longDescription",
+        "label": "Long Description",
+        "valueType": "string"
+      },
+      {
+        "component": "text",
+        "name": "amenities",
+        "label": "Amenities",
+        "valueType": "string",
+        "description": "Pipe-separated list (e.g., WiFi | Mini Bar | Balcony)"
+      },
+      {
+        "component": "text",
+        "name": "subCategories",
+        "label": "Sub-Categories",
+        "valueType": "string",
+        "description": "Double-pipe separated (e.g., B1A||B1B)"
+      },
+      {
+        "component": "text",
+        "name": "area",
+        "label": "Area",
+        "valueType": "string"
+      }
+    ]
+  },
+  {
+    "id": "excursion-detail",
+    "fields": [
+      {
+        "component": "text",
+        "name": "id",
+        "label": "Excursion ID",
+        "valueType": "string"
+      },
+      {
+        "component": "text",
+        "name": "name",
+        "label": "Excursion Name",
+        "valueType": "string"
+      },
+      {
+        "component": "text",
+        "name": "portName",
+        "label": "Port Name",
+        "valueType": "string"
+      },
+      {
+        "component": "text",
+        "name": "destinationName",
+        "label": "Destination",
+        "valueType": "string"
+      },
+      {
+        "component": "text",
+        "name": "activityLevel",
+        "label": "Activity Level",
+        "valueType": "string",
+        "description": "e.g., EASY, MODERATE, STRENUOUS"
+      },
+      {
+        "component": "text",
+        "name": "collectionType",
+        "label": "Collection Type",
+        "valueType": "string",
+        "description": "e.g., CULTURAL_DISCOVERY, ADVENTURE"
+      },
+      {
+        "component": "text",
+        "name": "duration",
+        "label": "Duration",
+        "valueType": "string"
+      },
+      {
+        "component": "text",
+        "name": "priceLevel",
+        "label": "Price",
+        "valueType": "string"
+      },
+      {
+        "component": "text",
+        "name": "currency",
+        "label": "Currency",
+        "valueType": "string"
+      },
+      {
+        "component": "text",
+        "name": "wheelChairAccessible",
+        "label": "Wheelchair Accessible",
+        "valueType": "string",
+        "description": "true or false"
+      },
+      {
+        "component": "text",
+        "name": "longDescription",
+        "label": "Description",
+        "valueType": "string"
+      }
+    ]
+  },
+  {
+    "id": "cruise-itinerary",
+    "fields": [
+      {
+        "component": "text",
+        "name": "portData",
+        "label": "Port Data",
+        "valueType": "string",
+        "description": "Pipe-delimited port entries (portName|portId|country|arrivalDate|departTime) separated by || for each port"
+      }
+    ]
+  },
+  {
+    "id": "cruise-excursions",
+    "fields": [
+      {
+        "component": "text",
+        "name": "excursionData",
+        "label": "Excursion Data",
+        "valueType": "string",
+        "description": "Pipe-delimited entries (id|name|duration|price|currency) separated by || for each excursion"
+      },
+      {
+        "component": "text",
+        "name": "totalCount",
+        "label": "Total Excursion Count",
+        "valueType": "string"
+      }
+    ]
   }
 ]

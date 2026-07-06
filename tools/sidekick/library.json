@@ -1,0 +1,18 @@
+{
+  "helix-blocks": {
+    "data": [
+      { "name": "Hero", "path": "/tools/sidekick/blocks/hero" },
+      { "name": "Promo Cards", "path": "/tools/sidekick/blocks/promo-cards" },
+      { "name": "Cards", "path": "/tools/sidekick/blocks/cards" },
+      { "name": "Columns", "path": "/tools/sidekick/blocks/columns" },
+      { "name": "Itinerary Table", "path": "/tools/sidekick/blocks/itinerary-table" },
+      { "name": "Cruise Detail", "path": "/tools/sidekick/blocks/cruise-detail" },
+      { "name": "Ship Detail", "path": "/tools/sidekick/blocks/ship-detail" },
+      { "name": "Room Detail", "path": "/tools/sidekick/blocks/room-detail" },
+      { "name": "Excursion Detail", "path": "/tools/sidekick/blocks/excursion-detail" },
+      { "name": "Cruise Itinerary", "path": "/tools/sidekick/blocks/cruise-itinerary" },
+      { "name": "Cruise Excursions", "path": "/tools/sidekick/blocks/cruise-excursions" },
+      { "name": "Cruise Ship Reference", "path": "/tools/sidekick/blocks/cruise-ship-reference" }
+    ]
+  }
+}

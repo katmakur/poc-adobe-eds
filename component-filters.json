@@ -6,7 +6,15 @@
       "promo-cards",
       "cards",
       "columns",
-      "fragment"
+      "fragment",
+      "itinerary-table",
+      "cruise-ship-reference",
+      "cruise-detail",
+      "ship-detail",
+      "room-detail",
+      "excursion-detail",
+      "cruise-itinerary",
+      "cruise-excursions"
     ]
   }
 ]
