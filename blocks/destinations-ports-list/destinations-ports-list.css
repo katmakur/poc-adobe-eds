@@ -1,0 +1,194 @@
+.destinations-ports-list {
+  padding: 48px 24px;
+}
+
+/* Header */
+.destinations-ports-list .dpl-header {
+  margin-bottom: 24px;
+}
+
+.destinations-ports-list .dpl-header h2,
+.destinations-ports-list .dpl-header h3 {
+  color: #fff;
+  margin: 0 0 8px;
+  font-size: var(--heading-font-size-l);
+}
+
+.destinations-ports-list .dpl-header p {
+  color: rgb(255 255 255 / 75%);
+  margin: 0;
+  font-size: var(--body-font-size-s);
+  max-width: 700px;
+}
+
+/* Tab navigation */
+.destinations-ports-list .dpl-tabs {
+  display: flex;
+  gap: 24px;
+  border-bottom: 1px solid rgb(255 255 255 / 30%);
+  margin-bottom: 32px;
+  overflow-x: auto;
+  scrollbar-width: none;
+}
+
+.destinations-ports-list .dpl-tabs::-webkit-scrollbar {
+  display: none;
+}
+
+.destinations-ports-list .dpl-tab-btn {
+  background: none;
+  border: none;
+  color: rgb(255 255 255 / 70%);
+  font-size: var(--body-font-size-xs);
+  font-family: var(--body-font-family);
+  padding: 8px 0 12px;
+  cursor: pointer;
+  white-space: nowrap;
+  border-bottom: 2px solid transparent;
+  transition: color 0.2s ease, border-color 0.2s ease;
+}
+
+.destinations-ports-list .dpl-tab-btn:hover {
+  color: #fff;
+}
+
+.destinations-ports-list .dpl-tab-btn.active {
+  color: #fff;
+  border-bottom-color: #fff;
+  font-weight: 600;
+}
+
+/* Panels */
+.destinations-ports-list .dpl-panel {
+  display: none;
+}
+
+.destinations-ports-list .dpl-panel.active {
+  display: block;
+}
+
+/* Panel layout: content left, map right */
+.destinations-ports-list .dpl-panel-layout {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 24px;
+  margin-bottom: 24px;
+}
+
+.destinations-ports-list .dpl-panel-content {
+  color: #fff;
+}
+
+.destinations-ports-list .dpl-panel-content h3,
+.destinations-ports-list .dpl-panel-content h4 {
+  color: #fff;
+  margin: 0 0 12px;
+  font-size: var(--heading-font-size-m);
+}
+
+.destinations-ports-list .dpl-panel-content ul {
+  padding-left: 20px;
+  margin: 0 0 16px;
+}
+
+.destinations-ports-list .dpl-panel-content li {
+  color: rgb(255 255 255 / 90%);
+  font-size: var(--body-font-size-xs);
+  margin-bottom: 6px;
+}
+
+.destinations-ports-list .dpl-panel-content p {
+  color: rgb(255 255 255 / 85%);
+  font-size: var(--body-font-size-xs);
+  line-height: 1.6;
+  margin: 0 0 16px;
+}
+
+/* Orange CTA */
+.destinations-ports-list .dpl-panel-content a {
+  display: inline-block;
+  background-color: var(--cta-color);
+  color: #fff;
+  padding: 10px 24px;
+  border-radius: 24px;
+  font-size: var(--body-font-size-xs);
+  font-weight: 700;
+  text-decoration: none;
+  transition: background-color 0.2s ease;
+}
+
+.destinations-ports-list .dpl-panel-content a:hover {
+  background-color: var(--cta-hover-color);
+  text-decoration: none;
+  color: #fff;
+}
+
+/* Map image */
+.destinations-ports-list .dpl-panel-map {
+  border-radius: 8px;
+  overflow: hidden;
+}
+
+.destinations-ports-list .dpl-panel-map picture,
+.destinations-ports-list .dpl-panel-map img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  display: block;
+  border-radius: 8px;
+}
+
+/* Gallery: 1 large left, 2 stacked right */
+.destinations-ports-list .dpl-panel-gallery {
+  display: grid;
+  grid-template-columns: 2fr 1fr;
+  grid-template-rows: 1fr 1fr;
+  gap: 12px;
+  height: 320px;
+}
+
+.destinations-ports-list .dpl-gallery-item {
+  border-radius: 8px;
+  overflow: hidden;
+}
+
+.destinations-ports-list .dpl-gallery-item:first-child {
+  grid-row: 1 / -1;
+}
+
+.destinations-ports-list .dpl-gallery-item picture,
+.destinations-ports-list .dpl-gallery-item img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  display: block;
+}
+
+/* 4 images: large center, 1 left, 2 stacked right */
+.destinations-ports-list .dpl-panel-gallery:has(.dpl-gallery-item:nth-child(4)) {
+  grid-template-columns: 1fr 2fr 1fr;
+  grid-template-rows: 1fr 1fr;
+}
+
+.destinations-ports-list .dpl-panel-gallery:has(.dpl-gallery-item:nth-child(4)) .dpl-gallery-item:nth-child(1) {
+  grid-row: 1 / -1;
+}
+
+.destinations-ports-list .dpl-panel-gallery:has(.dpl-gallery-item:nth-child(4)) .dpl-gallery-item:nth-child(2) {
+  grid-row: 1 / -1;
+}
+
+@media (width >= 900px) {
+  .destinations-ports-list {
+    padding: 48px 32px;
+  }
+
+  .destinations-ports-list .dpl-panel-layout {
+    grid-template-columns: 1fr 1fr;
+    gap: 32px;
+  }
+
+  .destinations-ports-list .dpl-panel-gallery {
+    height: 400px;
+  }
+}

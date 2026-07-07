@@ -1,0 +1,262 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>HAL EDS — Home Page Authoring Guide</title>
+  <style>
+    :root { --navy: #003366; --orange: #e87722; --light: #f5f7fa; }
+    * { box-sizing: border-box; }
+    body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; margin: 0; padding: 0; color: #1a2b49; line-height: 1.7; }
+    header { background: var(--navy); color: #fff; padding: 40px 24px; text-align: center; }
+    header h1 { margin: 0 0 8px; font-size: 2em; }
+    header p { margin: 0; opacity: 0.8; }
+    main { max-width: 900px; margin: 0 auto; padding: 40px 24px; }
+    h2 { color: var(--navy); border-bottom: 2px solid var(--orange); padding-bottom: 8px; margin-top: 48px; }
+    h3 { color: var(--navy); margin-top: 24px; }
+    .block-section { background: var(--light); border-radius: 8px; padding: 24px; margin: 16px 0; }
+    table { width: 100%; border-collapse: collapse; margin: 16px 0; font-size: 14px; }
+    table, th, td { border: 1px solid #ccc; }
+    th { background: var(--navy); color: #fff; padding: 10px; text-align: left; }
+    td { padding: 10px; vertical-align: top; }
+    code { background: #eef; padding: 2px 6px; border-radius: 3px; font-size: 13px; }
+    pre { background: #1a2b49; color: #f0f0f0; padding: 16px; border-radius: 8px; overflow-x: auto; font-size: 13px; }
+    .note { background: #fff3cd; border-left: 4px solid var(--orange); padding: 12px 16px; margin: 16px 0; border-radius: 0 4px 4px 0; }
+    .tip { background: #d4edda; border-left: 4px solid #28a745; padding: 12px 16px; margin: 16px 0; border-radius: 0 4px 4px 0; }
+    img { max-width: 100%; border: 1px solid #ddd; border-radius: 4px; }
+  </style>
+</head>
+<body>
+
+<header>
+  <h1>Home Page Authoring Guide</h1>
+  <p>Holland America Line — Edge Delivery Services (da.live)</p>
+</header>
+
+<main>
+
+  <h2>Overview</h2>
+  <p>This guide explains how to author the home page using the available blocks in da.live. The page is composed of sections, each containing one or more blocks. Sections are separated by horizontal rules (<code>---</code>).</p>
+
+  <div class="note">
+    <strong>Important:</strong> The Header and Footer are authored as separate documents (<code>nav</code> and <code>footer</code>) and are automatically included on every page. You do not add them to individual pages.
+  </div>
+
+  <!-- HEADER -->
+  <h2>1. Header (Global Navigation)</h2>
+  <div class="block-section">
+    <h3>Document: <code>nav</code> (root level)</h3>
+    <p>Create a document named <strong>nav</strong> at the root of your content folder. Structure it with 3 sections separated by horizontal rules:</p>
+
+    <h3>Section 1 — Brand / Logo</h3>
+    <p>A single paragraph with a link to the homepage:</p>
+    <pre>Holland America Line   (linked to /)</pre>
+
+    <h3>Section 2 — Navigation Links</h3>
+    <p>A bulleted list. Sub-items become dropdowns:</p>
+    <pre>• Find a Cruise (link to /find-a-cruise)
+  • Alaska (link to /cruise-destinations/alaska-cruises)
+  • Caribbean (link to /cruise-destinations/caribbean-cruises)
+  • Mediterranean (link to /cruise-destinations/mediterranean-cruises)
+• Destinations (link to /cruise-destinations)
+  • Alaska
+  • Caribbean
+• Onboard (link to /onboard-experiences)
+  • Dining
+  • Entertainment
+• Ships (link to /cruise-ships)
+• Plan (link to /plan-a-cruise)</pre>
+
+    <h3>Section 3 — CTA Button</h3>
+    <p>A bold link becomes the action button (top right):</p>
+    <pre><strong>Book Now</strong>   (linked to /find-a-cruise)</pre>
+
+    <div class="tip">
+      <strong>Tip:</strong> The nav document is shared across all pages. Edit once → updates everywhere.
+    </div>
+  </div>
+
+  <!-- HERO -->
+  <h2>2. Hero Block</h2>
+  <div class="block-section">
+    <p>Full-width background (image or video) with centered text at the bottom.</p>
+
+    <h3>Authoring Table</h3>
+    <table>
+      <tr><th colspan="2">Hero</th></tr>
+      <tr><td colspan="2">(Paste image or video URL — .mp4 link)</td></tr>
+      <tr><td colspan="2"><strong>Discover the World in Comfort</strong> (Heading)</td></tr>
+      <tr><td colspan="2">Explore over 400 ports of call across all seven continents.</td></tr>
+      <tr><td colspan="2"><strong><em>Find Your Cruise</em></strong> (CTA link to /find-a-cruise)</td></tr>
+    </table>
+
+    <h3>Row Breakdown</h3>
+    <table>
+      <tr><th>Row</th><th>Content</th><th>Notes</th></tr>
+      <tr><td>1</td><td>Image or Video</td><td>Paste image directly OR add a link ending in .mp4 for video background. YouTube/Vimeo URLs also work.</td></tr>
+      <tr><td>2</td><td>Heading</td><td>Becomes the <code>&lt;h1&gt;</code> — white text over the image</td></tr>
+      <tr><td>3</td><td>Description</td><td>Supporting text below the heading</td></tr>
+      <tr><td>4</td><td>CTA Button</td><td>Bold + italic link = orange accent button. Bold link = primary button.</td></tr>
+    </table>
+
+    <h3>Video Support</h3>
+    <p>For a video hero, replace the image in Row 1 with:</p>
+    <ul>
+      <li>A link to an <code>.mp4</code> file (autoplay, muted, looped)</li>
+      <li>A YouTube URL (embedded as background)</li>
+      <li>A Vimeo URL (embedded as background)</li>
+    </ul>
+  </div>
+
+  <!-- CRUISE FILTER -->
+  <h2>3. Cruise Filter Block</h2>
+  <div class="block-section">
+    <p>Horizontal filter bar with dropdowns and an orange CTA button.</p>
+
+    <h3>Authoring Table</h3>
+    <table>
+      <tr><th>Cruise Filter</th><th></th></tr>
+      <tr><td>Destinations</td><td>Alaska, Caribbean, Mediterranean, Europe, Asia</td></tr>
+      <tr><td>Date</td><td>Jan 2026, Feb 2026, Mar 2026, Apr 2026, May 2026</td></tr>
+      <tr><td>Duration</td><td>3-5 Nights, 6-9 Nights, 10-14 Nights, 15+ Nights</td></tr>
+      <tr><td>Find Your Cruise</td><td>(link to /find-a-cruise)</td></tr>
+    </table>
+
+    <h3>Row Breakdown</h3>
+    <table>
+      <tr><th>Row</th><th>Column 1</th><th>Column 2</th></tr>
+      <tr><td>1–N</td><td>Filter label</td><td>Comma-separated options</td></tr>
+      <tr><td>Last</td><td>CTA button text</td><td>Link for the button</td></tr>
+    </table>
+  </div>
+
+  <!-- CARD CAROUSEL -->
+  <h2>4. Card Carousel Block</h2>
+  <div class="block-section">
+    <p>Horizontally scrollable cards with full-bleed images and text overlay. Navigation arrows included.</p>
+
+    <h3>Authoring Table</h3>
+    <table>
+      <tr><th colspan="2">Card Carousel</th></tr>
+      <tr><td colspan="2">Explore Cruise Destinations<br><em>(description text)</em></td></tr>
+      <tr><td>(image)</td><td><strong>Alaska Cruises</strong><br>Marvel at towering glaciers!<br><a href="#">View Cruises</a></td></tr>
+      <tr><td>(image)</td><td><strong>Europe Cruises</strong><br>Storied history and rich culture!<br><a href="#">View Cruises</a></td></tr>
+      <tr><td>(image)</td><td><strong>Caribbean Cruises</strong><br>Warm sunshine and vibrant cities.<br><a href="#">View Cruises</a></td></tr>
+    </table>
+
+    <h3>Row Breakdown</h3>
+    <table>
+      <tr><th>Row</th><th>Column 1</th><th>Column 2</th></tr>
+      <tr><td>1 (optional)</td><td colspan="2">Component title + description (single column, no image)</td></tr>
+      <tr><td>2+</td><td>Card image (tall, portrait works best)</td><td>Title + one-line description + CTA link</td></tr>
+    </table>
+
+    <h3>Notes</h3>
+    <ul>
+      <li>Add as many cards as needed — they scroll horizontally</li>
+      <li>Use tall/portrait images (640×800 or similar ratio)</li>
+      <li>Title, description, and CTA overlay at the bottom of the card</li>
+      <li>Left/right arrows appear at bottom-right</li>
+    </ul>
+  </div>
+
+  <!-- CRUISE RESULTS -->
+  <h2>5. Cruise Results Block</h2>
+  <div class="block-section">
+    <p>Fetches live cruise data from Fusion search API and renders scrollable result cards with map, price, and CTA.</p>
+
+    <h3>Authoring Table</h3>
+    <table>
+      <tr><th>Cruise Results</th><th></th></tr>
+      <tr><td>Experience Alaska this Summer</td><td>Marvel in snow-capped mountains and teeming wildlife!</td></tr>
+      <tr><td>View Alaska Cruises</td><td>(link to /cruise-destinations/alaska-cruises)</td></tr>
+    </table>
+
+    <h3>Row Breakdown</h3>
+    <table>
+      <tr><th>Row</th><th>Column 1</th><th>Column 2</th></tr>
+      <tr><td>1</td><td>Section title</td><td>Section description</td></tr>
+      <tr><td>2</td><td>CTA button text</td><td>CTA link</td></tr>
+      <tr><td>3 (optional)</td><td colspan="2">Number of results to show (default: 5)</td></tr>
+    </table>
+
+    <h3>What Gets Rendered</h3>
+    <ul>
+      <li>Title + description + pill-shaped CTA button (white border)</li>
+      <li>Cards auto-populated from Fusion API with:</li>
+      <ul>
+        <li>Itinerary route map image</li>
+        <li>Cruise name (e.g., "7-Night Alaska Inside Passage")</li>
+        <li>Ship name + departure date</li>
+        <li>Price (from $X* per person)</li>
+        <li>Orange "View Itinerary" CTA button</li>
+      </ul>
+      <li>Left/right navigation arrows</li>
+    </ul>
+
+    <div class="note">
+      <strong>Note:</strong> The card content is dynamic — you only author the header section. The cards are populated automatically from live search data.
+    </div>
+  </div>
+
+  <!-- FOOTER -->
+  <h2>6. Footer</h2>
+  <div class="block-section">
+    <h3>Document: <code>footer</code> (root level)</h3>
+    <p>Create a document named <strong>footer</strong> at the root. It has 2 sections:</p>
+
+    <h3>Section 1 — Link Columns (Columns block)</h3>
+    <table>
+      <tr><th colspan="4">Columns</th></tr>
+      <tr>
+        <td><strong>Explore</strong><br>• Find a Cruise<br>• Destinations<br>• Our Ships<br>• Deals</td>
+        <td><strong>Plan</strong><br>• Planning Guide<br>• Shore Excursions<br>• Packages<br>• FAQ</td>
+        <td><strong>About Us</strong><br>• Our Company<br>• Careers<br>• Contact Us</td>
+        <td><strong>Connect</strong><br>• Facebook<br>• Instagram<br>• YouTube</td>
+      </tr>
+    </table>
+
+    <h3>Section 2 — Copyright (after horizontal rule)</h3>
+    <pre>© 2025 Holland America Line. All rights reserved.
+Privacy Policy | Terms &amp; Conditions | Sitemap</pre>
+  </div>
+
+  <!-- PAGE STRUCTURE -->
+  <h2>Complete Page Structure</h2>
+  <div class="block-section">
+    <p>When composing the home page, the sections appear in this order:</p>
+    <pre>
+┌─────────────────────────────────────────┐
+│  HEADER (auto-loaded from nav doc)       │
+├─────────────────────────────────────────┤
+│  Section 1: Hero block                   │
+│  (full-width image/video + title + CTA) │
+├───────── horizontal rule ───────────────┤
+│  Section 2: Cruise Filter block          │
+│  (dropdown bar + Find Your Cruise CTA)  │
+├───────── horizontal rule ───────────────┤
+│  Section 3: Cruise Results block         │
+│  (title + live search cards)            │
+├───────── horizontal rule ───────────────┤
+│  Section 4: Card Carousel block          │
+│  (destination cards with arrows)        │
+├─────────────────────────────────────────┤
+│  FOOTER (auto-loaded from footer doc)    │
+└─────────────────────────────────────────┘</pre>
+  </div>
+
+  <!-- TIPS -->
+  <h2>Authoring Tips</h2>
+  <ul>
+    <li><strong>Section breaks:</strong> Add a horizontal rule (<code>---</code>) between each section in your document</li>
+    <li><strong>Block names:</strong> The first row of a table (merged across columns) must match the block name exactly: <code>Hero</code>, <code>Card Carousel</code>, <code>Cruise Filter</code>, <code>Cruise Results</code></li>
+    <li><strong>Buttons:</strong> Bold link = primary button. Bold + italic link = accent (orange) button. Plain link = text link.</li>
+    <li><strong>Images:</strong> Paste directly into the table cell. Use high-resolution images for best results.</li>
+    <li><strong>Preview:</strong> Use the AEM Sidekick "Preview" button to see your changes on the preview environment.</li>
+    <li><strong>Publish:</strong> Once satisfied, click "Publish" in the Sidekick to make changes live.</li>
+  </ul>
+
+</main>
+
+</body>
+</html>
