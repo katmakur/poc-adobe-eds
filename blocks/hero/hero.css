@@ -61,6 +61,11 @@
   text-align: center;
 }
 
+.hero .hero-content-inner {
+  position: relative;
+  padding-bottom: 60px;
+}
+
 .hero .hero-content h1 {
   color: #fff;
   text-shadow: 0 2px 8px rgb(0 0 0 / 40%);
@@ -74,6 +79,13 @@
   max-width: 500px;
   margin-left: auto;
   margin-right: auto;
+}
+
+.hero .hero-content .button-wrapper {
+  position: absolute;
+  bottom: 0;
+  right: 0;
+  margin: 0;
 }
 
 .hero .hero-content .button-wrapper a.button {
